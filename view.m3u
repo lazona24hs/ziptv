@@ -210,6 +210,8 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="",TikTok Radio
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+#EXTINF:-1 group-title="Musica",Quiero Musica HD
+http://177.234.249.178:8888/MTV/index.m3u8
 
 
 #EXTINF:-1 group-title="Historias",History 2
