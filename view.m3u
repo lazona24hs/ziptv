@@ -345,7 +345,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png" group-title="Regional",Canal 9 Multivisión
 https://panel.host-live.com:19360/8250/8250.m3u8
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional",DW
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacional",Euronews
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
