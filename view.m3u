@@ -125,7 +125,7 @@ http://181.233.180.4:8000/play/a02k/index.m3u8?hls
 #EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" group-title="Historias",Discovery Theater HD
 http://181.233.180.4:8000/play/a02z/index.m3u8?hls
 #EXTINF:-1 group-title="Historias",Discovery Turbo
-http://181.233.180.4:8000/play/a01w/index.m3u8?hls
+http://8.243.126.131:8000/play/a0go/index.m3u8?hls
 #EXTINF:-1 group-title="Historias",Discovery World HD
 http://181.233.180.4:8000/play/a031/index.m3u8?hls
 
@@ -193,18 +193,18 @@ http://181.233.180.4:8000/play/a023/index.m3u8?hls
 #EXTINF:-1 group-title="Peliculas/Series",Universal HD
 http://181.233.180.4:8000/play/a05j/index.m3u8?hls
 #EXTINF:-1 group-title="Peliculas/Series",Warner Channel HD
-http://181.233.180.4:8000/play/a05e/index.m3u8?hls
+http://190.7.19.197:232/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica", Canal de la Música
 http://190.7.19.197:232/play/a094/index.m3u8
 #EXTINF:-1 group-title="Musica",Nick Music
 http://190.108.83.69:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Musica",Quiero Musica
-http://181.233.180.4:8000/play/a02n/index.m3u8?hls
+http://190.7.19.197:232/play/a04r/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
-http://181.233.180.4:8000/play/a02o/index.m3u8?hls
+http://190.7.19.197:232/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV
-http://181.233.180.4:8000/play/a02m/index.m3u8?hls
+http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
 #EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm", MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop 
@@ -231,6 +231,9 @@ http://181.233.180.4:8000/play/a06n/index.m3u8?hls
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Otros",Senal Eventos 
 http://190.7.19.197:232/play/a022/index.m3u8
+#EXTINF:-1 group-title="Otros", Dsport+
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
 
 #EXTINF:-1 group-title="Historias",Nat Geo HD
 http://181.233.180.4:8000/play/a05g/index.m3u8?hls
