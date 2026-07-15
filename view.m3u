@@ -151,47 +151,50 @@ http://190.7.19.197:232/play/a05f/index.m3u8
 http://190.108.83.69:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",HBO Xtreme
 http://190.108.83.69:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Peliculas/Series",HBO POP
+http://190.108.83.69:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Sony HD
-http://181.233.180.4:8000/play/a05d/index.m3u8?hls
+http://190.7.19.197:232/play/a01g/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Sony Movies HD
-http://181.233.180.4:8000/play/a05k/index.m3u8?hls
+http://190.7.19.197:232/play/a01i/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Space HD
-http://181.233.180.4:8000/play/a02w/index.m3u8?hls
+http://190.7.19.197:232/play/a050/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Star Channel HD
-http://181.233.180.4:8000/play/a079/index.m3u8?hls
+http://190.7.19.197:232/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="Peliculas/Series",FX 
 http://8.243.126.131:8000/play/a064/index.m3u8?hls
 
 #EXTINF:-1 group-title="Peliculas/Series",Studio Universal
-http://181.233.180.4:8000/play/a022/index.m3u8?hls
+http://190.7.19.197:232/play/a049/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",TCM
-http://181.233.180.4:8000/play/a020/index.m3u8?hls
+http://190.7.19.197:232/play/a014/index.m3u8
 #EXTINF:-1 group-title="Historias",HGTV
-http://181.233.180.4:8000/play/a02j/index.m3u8?hls
+http://190.7.19.197:232/play/a04n/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",TLNovelas
-http://181.233.180.4:8000/play/a0f4/index.m3u8?hls
+http://190.7.19.197:232/play/a01q/index.m3u8
+
 
 #EXTINF:-1 group-title="Peliculas/Series",TNT HD
-http://181.233.180.4:8000/play/a07d/index.m3u8?hls
+http://190.7.19.197:232/play/a060/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",TNT Novelas HD
-http://181.233.180.4:8000/play/a07g/index.m3u8?hls
+http://190.7.19.197:232/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",TNT Series HD
-http://181.233.180.4:8000/play/a07e/index.m3u8?hls
+http://190.7.19.197:232/play/a088/index.m3u8
 
 #EXTINF:-1 group-title="Historias",TLC
 http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="Historias",The History Channel HD
-http://181.233.180.4:8000/play/a05h/index.m3u8?hls
+#EXTINF:-1 group-title="Historias",History Channel 
+http://8.243.126.131:8000/play/a0gb/index.m3u8?hls
 
 #EXTINF:-1 group-title="Historias",ID HD 
 http://190.7.19.197:232/play/a083/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",USA Network
-http://181.233.180.4:8000/play/a023/index.m3u8?hls
+http://190.7.19.197:232/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Universal HD
-http://181.233.180.4:8000/play/a05j/index.m3u8?hls
+http://190.7.19.197:232/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Peliculas/Series",Warner Channel HD
 http://190.7.19.197:232/play/a01h/index.m3u8
 
@@ -236,35 +239,34 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 
 
 #EXTINF:-1 group-title="Historias",Nat Geo HD
-http://181.233.180.4:8000/play/a05g/index.m3u8?hls
+http://190.7.19.197:232/play/a03s/index.m3u8
 
 
 #EXTINF:-1 group-title="General",El Canal  de las Estrellas
-http://181.233.180.4:8000/play/a06z/index.m3u8?hls
-#EXTINF:-1 group-title="Historias",El Gourmet
-http://181.233.180.4:8000/play/a06w/index.m3u8?hls
+http://190.108.83.69:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="Otros",El Gourmet
+http://190.7.19.197:232/play/a01p/index.m3u8
 
-#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="Regional",Metro
-http://181.233.180.4:8000/play/a02g/index.m3u8?hls
+#EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="Otros",Metro
+http://190.7.19.197:232/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="0920" tvg-name="Encuentro" group-title="Cultura",Encuentro
-http://181.233.180.4:8000/play/a01m/index.m3u8?hls
+http://190.7.19.197:232/play/a013/index.m3u8
 #EXTINF:-1 group-title="Internacional",Europa Europa
-http://181.233.180.4:8000/play/a06v/index.m3u8?hls
-
+http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
 
 
 
 #EXTINF:-1 group-title="Peliculas/Series",Paramount HD
-http://181.233.180.4:8000/play/a02y/index.m3u8?hls
+http://8.243.126.131:8000/play/a0im/index.m3u8?hls
 
 
 #EXTINF:-1 group-title="Regional",Rural
-http://181.233.180.4:8000/play/a02f/index.m3u8?hls
+http://190.7.19.197:232/play/a04j/index.m3u8
 
 
 
 #EXTINF:-1 group-title="Cultura",Volver
-http://181.233.180.4:8000/play/a021/index.m3u8?hls
+http://190.7.19.197:232/play/a048/index.m3u8
 
 #EXTINF:-1 group-title="Otros" tvg-id="",Corazón
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
