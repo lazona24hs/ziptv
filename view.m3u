@@ -12,7 +12,7 @@ https://youtube.com/channel/urbanaplayfm/live
 
 
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Noticias",26TV
-http://190.7.19.197:232/play/a042/index.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="0904" tvg-name="La Nacion" group-title="Noticias",La Nacion TV
 http://190.7.19.197:232/play/a043/index.m3u8
