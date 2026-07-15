@@ -81,7 +81,7 @@ http://181.233.180.4:8000/play/a06t/index.m3u8?hls
 http://181.233.180.4:8000/play/a02r/index.m3u8?hls
 #EXTINF:-1 group-title="Infantil",Disney Junior
 http://181.233.180.4:8000/play/a04y/index.m3u8?hls
-#EXTINF:-1 group-title="Otros" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen (720p)
+#EXTINF:-1 group-title="Otros" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 
 
@@ -198,10 +198,16 @@ http://190.108.83.69:8000/play/a00l/index.m3u8
 http://181.233.180.4:8000/play/a02n/index.m3u8?hls
 #EXTINF:-1 group-title="Musica",HTV
 http://181.233.180.4:8000/play/a02o/index.m3u8?hls
+#EXTINF:-1 group-title="Musica",MTV
+http://181.233.180.4:8000/play/a02m/index.m3u8?hls
 #EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm", MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop 
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="MTVRocks.us@LatAm",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="MTVClassic.us@LatAm",MTV Classic 
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="",TikTok Radio
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 
@@ -213,9 +219,8 @@ http://181.233.180.4:8000/play/a051/index.m3u8?hls
 
 #EXTINF:-1 group-title="Peliculas/Series",Lifetime
 http://181.233.180.4:8000/play/a06n/index.m3u8?hls
-#EXTINF:-1 group-title="Musica",MTV
-http://181.233.180.4:8000/play/a02m/index.m3u8?hls
-#EXTINF:-1 group-title="Musica",MTVÃ—00
+
+#EXTINF:-1 group-title="Otros",Senal Test1
 http://181.233.180.4:8000/play/a053/index.m3u8?hls
 
 #EXTINF:-1 group-title="Historias",Nat Geo HD
