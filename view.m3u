@@ -318,7 +318,7 @@ https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 http://190.108.83.69:8000/play/a00r/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",TVN HD
-httqp://8.243.126.131:8000/play/a0o6/index.m3u8?hls
+http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
 
 #EXTINF:-1 group-title="Internacional",Univision HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
