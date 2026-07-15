@@ -228,7 +228,7 @@ http://181.233.180.4:8000/play/a0ab/index.m3u8?hls
 http://181.233.180.4:8000/play/a051/index.m3u8?hls
 
 #EXTINF:-1 group-title="Peliculas/Series",Lifetime
-http://181.233.180.4:8000/play/a06n/index.m3u8?hls
+http://190.7.19.197:232/play/a01l/index.m3u8
 
 #EXTINF:-1 group-title="Otros",Senal Test1
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
@@ -272,14 +272,14 @@ http://190.7.19.197:232/play/a048/index.m3u8
 https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 
 #EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="Internacional",RAI Italia
-http://181.233.180.4:8000/play/a02p/index.m3u8?hls
+http://190.7.19.197:232/play/a01b/index.m3u8
 #EXTINF:-1 group-title="Internacional",RT en Espanol
-http://181.233.180.4:8000/play/a0ac/index.m3u8?hls
+http://190.7.19.197:232/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="0218" tvg-name="TVE" group-title="Internacional",TVE
-http://181.233.180.4:8000/play/a072/index.m3u8?hls
+http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="General",ciudad magazine
-http://181.233.180.4:8000/play/a02h/index.m3u8?hls
+http://190.7.19.197:232/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-id="0964" tvg-name="Canal E" tvg-logo="https://files.catbox.moe/h069t6.webp" group-title="Noticias",Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -331,9 +331,12 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Internacional",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 group-title="Internacional", CHV
-http://190.7.19.197:232/play/a082/index.m3u8
+http://190.108.83.69:8000/play/a03g/index.m3u8
 
-EXTINF:-1 group-title="Internacional" tvg-id="MilenioTelevision.mx@SD",Milenio Televisión (720p)
+#EXTINF:-1 group-title="Otros",Telefe Internacional 
+http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
+
+#EXTINF:-1 group-title="Internacional" tvg-id="MilenioTelevision.mx@SD",Milenio Televisión (720p)
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-id="RCNMas.co@SD",RCN Más 
 https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
@@ -351,7 +354,7 @@ http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
 
 #EXTINF:-1 group-title="Internacional",Galicia TV
-http://181.233.180.4:8000/play/a02q/index.m3u8?hls
+http://190.7.19.197:232/play/a01c/index.m3u8
 
 
 #EXTINF:-1 group-title="Religion", ENLACE
