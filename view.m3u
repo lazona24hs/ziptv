@@ -198,9 +198,9 @@ http://190.108.83.69:8000/play/a00l/index.m3u8
 http://181.233.180.4:8000/play/a02n/index.m3u8?hls
 #EXTINF:-1 group-title="Musica",HTV
 http://181.233.180.4:8000/play/a02o/index.m3u8?hls
-#EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm",
+#EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm", MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop (1080p)
+#EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop 
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 
 
