@@ -202,7 +202,8 @@ http://181.233.180.4:8000/play/a02o/index.m3u8?hls
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop 
 https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-
+#EXTINF:-1 group-title="Musica" tvg-id="",TikTok Radio
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 
 
 #EXTINF:-1 group-title="Historias",History 2
@@ -248,6 +249,8 @@ http://181.233.180.4:8000/play/a02f/index.m3u8?hls
 #EXTINF:-1 group-title="Cultura",Volver
 http://181.233.180.4:8000/play/a021/index.m3u8?hls
 
+#EXTINF:-1 group-title="Otros" tvg-id="",Corazón
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
 
 #EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="Internacional",RAI Italia
 http://181.233.180.4:8000/play/a02p/index.m3u8?hls
@@ -310,6 +313,11 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 group-title="Internacional", CHV
 http://190.7.19.197:232/play/a082/index.m3u8
+
+EXTINF:-1 group-title="Internacional" tvg-id="MilenioTelevision.mx@SD",Milenio Televisión (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-id="RCNMas.co@SD",RCN Más 
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
 
 #EXTINF:-1 group-title="Internacional" tvg-id="NoticiasRCN.co@SD",RCN Noticias (720p)
 https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
