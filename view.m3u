@@ -1,5 +1,19 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
 
+
+#EXTINF:-1 group-title="Otros", Canal 01 Senal Eventos 
+http://190.7.19.197:232/play/a022/index.m3u8
+#EXTINF:-1 group-title="Otros",Canal 02 Senal Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8
+
+#EXTINF:-1 group-title="Otros",Probador de Senal
+http://45.5.118.152:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="Otros",Senal Test
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 group-title="Otros", Dsport+
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
 #Radios/Streaming
 #EXTINF:-1 tvg-id="" tvg-name="Radio La 100" group-title="Radios/Streaming" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
@@ -216,10 +230,12 @@ http://190.7.19.197:232/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica", Canal de la Música
 http://190.7.19.197:232/play/a094/index.m3u8
-#EXTINF:-1 group-title="Musica",Nick Music
-http://190.108.83.69:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Musica",MusicTOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 group-title="Musica",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Musica",Quiero Musica HD
+http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://190.7.19.197:232/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Musica",Telehit
@@ -236,8 +252,7 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="",TikTok Radio
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
-#EXTINF:-1 group-title="Musica",Quiero Musica HD
-http://177.234.249.178:8888/MTV/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Historias",History 2
@@ -252,16 +267,7 @@ http://190.7.19.197:232/play/a01l/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Otros",partido fifa
-http://45.5.118.152:8000/play/a0bt/index.m3u8
-#EXTINF:-1 group-title="Otros",Senal Test
-https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Senal Eventos 
-http://190.7.19.197:232/play/a022/index.m3u8
-#EXTINF:-1 group-title="Otros",Senal Eventos HD
-http://138.59.227.20:8000/play/a0g4/index.m3u8
-#EXTINF:-1 group-title="Otros", Dsport+
-http://190.108.83.69:8000/play/a05w/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Historias",Nat Geo HD
