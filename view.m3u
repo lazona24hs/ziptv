@@ -106,15 +106,17 @@ http://190.7.19.197:232/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Deportes",TyC Sports HD
 http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN Premium 
-http://190.7.19.197:232/play/a038/index.m3u8
-#EXTINF:-1 group-title="Deportes",TNT Sports 
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports HD
 http://190.7.19.197:232/play/a037/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Infantil",Baby TV
-http://190.7.19.197:232/play/a04i/index.m3u8
+http://138.59.227.20:8000/play/a06j/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nick Jr
 http://190.7.19.197:232/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Infantil",Nickelodeon
@@ -122,7 +124,7 @@ http://190.7.19.197:232/play/a03e/index.m3u8
 #EXTINF:-1 group-title="Infantil",Pakapaka
 http://190.7.19.197:232/play/a08e/index.m3u8
 #EXTINF:-1 group-title="Infantil",Cartoon Network
-http://190.7.19.197:232/play/a05s/index.m3u8
+http://138.59.227.20:8000/play/a089/index.m3u8
 #EXTINF:-1 group-title="Infantil",Discovery Kids
 http://190.7.19.197:232/play/a05i/index.m3u8
 #EXTINF:-1 group-title="Infantil",Disney Channel
