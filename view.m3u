@@ -37,11 +37,11 @@ https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="General" ,El Trece HD 
 http://190.7.19.197:232/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="General" ,El Trece
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="General",Telefe
-http://190.7.19.197:232/play/a059/index.m3u8
+http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="General",El Nueve
-http://190.7.19.197:232/play/a03k/index.m3u8
+http://138.59.227.20:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Noticias", IP 
 http://190.7.19.197:232/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Otros",El Trece Internacional
@@ -49,7 +49,8 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Cultura",Canal a
 http://190.7.19.197:232/play/a015/index.m3u8
 
-
+#EXTINF:-1 group-title="Deportes",TyC Sports 
+http://138.59.227.20:8000/play/a06x/index.m3u8
 #EXTINF:-1 group-title="Deportes",TyC Sports HD
 http://190.7.19.197:232/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Deportes",DSports 2 HD
@@ -257,6 +258,8 @@ http://45.5.118.152:8000/play/a0bt/index.m3u8
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Otros",Senal Eventos 
 http://190.7.19.197:232/play/a022/index.m3u8
+#EXTINF:-1 group-title="Otros",Senal Eventos HD
+http://138.59.227.20:8000/play/a0g4/index.m3u8
 #EXTINF:-1 group-title="Otros", Dsport+
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
