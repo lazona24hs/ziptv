@@ -300,14 +300,7 @@ http://190.7.19.197:232/play/a01a/index.m3u8
 http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
 #EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm", MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="MTVBiggestPop.us@LatAm",MTV Biggest Pop 
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="MTVRocks.us@LatAm",MTV Rocks
-https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="MTVClassic.us@LatAm",MTV Classic 
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="",TikTok Radio
-https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
+
 
 
 
@@ -348,8 +341,7 @@ http://190.7.19.197:232/play/a015/index.m3u8
 #EXTINF:-1 group-title="Cultura",Volver
 http://190.7.19.197:232/play/a048/index.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-id="",Corazón
-https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+
 
 
 
@@ -392,9 +384,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacional",Euronews
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Internacional",France 24 Español
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+http://181.119.215.61:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Internacional",TeleSUR
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
+http://190.7.19.197:232/play/a08p/index.m3u8
 #EXTINF:-1 group-title="Internacional", CHV
 http://190.108.83.69:8000/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Internacional",TVN HD
@@ -405,9 +397,8 @@ http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
 http://190.7.19.197:232/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" , RT Espanol HD
 http://138.59.227.20:8000/play/a07d/index.m3u8
+
 #EXTINF:-1 tvg-id="0218" tvg-name="TVE" group-title="Internacional",TVE
 http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
 
