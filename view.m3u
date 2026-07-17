@@ -1,5 +1,6 @@
 #EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
-
+#EXTINF:-1 group-title="Otros", Canal 00 
+https://drive.usercontent.google.com/download?id=1RDbS190dsoI5eaWTe7KJVmTxCqqx__cl
 
 #EXTINF:-1 group-title="Otros", Canal 01 Senal Eventos 
 http://190.7.19.197:232/play/a022/index.m3u8
