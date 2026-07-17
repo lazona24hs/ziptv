@@ -33,7 +33,7 @@ http://190.7.19.197:232/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-http://138.59.227.20:8000/play/a097/index.m3u8
+http://190.7.19.197:232/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Noticias",C5N
 http://190.7.19.197:232/play/a040/index.m3u8
