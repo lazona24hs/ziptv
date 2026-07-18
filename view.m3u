@@ -46,7 +46,7 @@ http://138.59.227.20:8000/play/a097/index.m3u8
 http://190.7.19.197:232/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Noticias",Cronica
 http://190.7.19.197:232/play/a041/index.m3u8
-#EXTINF:-1 group-title="Internacional",CNN en Espanol
+#EXTINF:-1 tvg-id="0210" group-title="Noticias",CNN en Espanol
 http://8.243.126.131:8000/play/a0oi/index.m3u8?hls
 
 
@@ -419,7 +419,7 @@ http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
 http://190.108.83.69:8000/play/a01d/index.m3u8
 
 
-#EXTINF:-1 group-title="Internacional" tvg-id="CNN",CNN Internacional 
+#EXTINF:-1 tvg-id="0211" group-title="Internacional" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0221" group-title="Internacional", CGTN espanol
