@@ -297,9 +297,9 @@ http://190.108.83.69:8000/play/a08e/index.m3u8
 http://190.7.19.197:232/play/a094/index.m3u8
 #EXTINF:-1 group-title="Musica",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 group-title="Musica",Quiero Musica
+#EXTINF:-1 tvg-id"0510" group-title="Musica",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
-#EXTINF:-1 group-title="Musica",Quiero Musica HD
+#EXTINF:-1 tvg-id"0510" group-title="Musica",Quiero Musica HD
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://190.7.19.197:232/play/a01a/index.m3u8
@@ -394,7 +394,7 @@ https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 http://181.119.215.61:8000/play/a05a/index.m3u8?hls
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Internacional",TeleSUR
 http://190.7.19.197:232/play/a08p/index.m3u8
-#EXTINF:-1 group-title="Internacional", CHV
+#EXTINF:-1 tvg-id="0106" group-title="Internacional", CHV
 http://190.108.83.69:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="0104" group-title="Internacional",TVN HD
 http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
