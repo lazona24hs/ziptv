@@ -7,15 +7,16 @@ http://190.108.83.69:8000/play/a05w/index.m3u8
 https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Otros", Canal 00 
-https://drive.usercontent.google.com/download?id=1RDbS190dsoI5eaWTe7KJVmTxCqqx__cl
+#EXTINF:-1 group-title="Otros", Domingo-Argentina/España
+http://181.119.185.32:8000/play/a026/index.m3u8?hls
 
+#EXTINF:-1 group-title="Otros", Domingo-Argentina/España
+http://190.108.83.69:8000/play/a03g/index.m3u8
 
 
 #EXTINF:-1 group-title="Otros",Probador de Senal
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
-#EXTINF:-1 group-title="Otros", Argentina/España
-http://190.108.83.69:8000/play/a03g/index.m3u8
+
 
 
 
