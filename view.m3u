@@ -422,7 +422,7 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 group-title="Internacional", CGTN espanol
+#EXTINF:-1 tvg-id="0221" group-title="Internacional", CGTN espanol
 http://190.108.83.69:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 group-title="Internacional",NTN 24 Horas
