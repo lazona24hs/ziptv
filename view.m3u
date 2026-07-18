@@ -431,7 +431,7 @@ http://190.108.83.69:8000/play/a00r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="3615" tvg-name="Telemundo" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
+#EXTINF:-1 tvg-id="0615" tvg-name="Telemundo" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
 http://190.108.83.69:8000/play/a02d/index.m3u8
 
 
