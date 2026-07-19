@@ -415,11 +415,11 @@ http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
 #EXTINF:-1 tvg-id="4909" group-title="Otros",Telefe Internacional 
 http://8.243.126.131:8000/play/a0mc/index.m3u8?hls
 
-#EXTINF:-1 group-title="Otros",El Trece Internacional
+#EXTINF:-1 tvg-id="0000" group-title="Otros",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0211" group-title="Internacional" tvg-id="CNN",CNN Internacional 
+#EXTINF:-1 tvg-id="0215" group-title="Internacional" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0221" group-title="Internacional", CGTN espanol
