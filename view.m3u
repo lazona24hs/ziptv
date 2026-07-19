@@ -435,7 +435,7 @@ http://190.108.83.69:8000/play/a00r/index.m3u8
 http://190.108.83.69:8000/play/a02d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="1616" group-title="Internacional",Univision HD
+#EXTINF:-1 tvg-id="0616" group-title="Internacional",Univision HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
 
 #EXTINF:-1 group-title="Internacional",Galicia TV
