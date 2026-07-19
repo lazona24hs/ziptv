@@ -418,7 +418,7 @@ http://190.108.83.69:8000/play/a08l/index.m3u8
 http://190.108.83.69:8000/play/a01d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0215" group-title="Internacional" tvg-id="CNN",CNN Internacional 
+#EXTINF:-1 tvg-id="0215" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Internacional" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0221" group-title="Internacional", CGTN espanol
