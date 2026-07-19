@@ -297,9 +297,9 @@ http://190.108.83.69:8000/play/a08e/index.m3u8
 http://190.7.19.197:232/play/a094/index.m3u8
 #EXTINF:-1 group-title="Musica",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 tvg-id"0510" group-title="Musica",Quiero Musica
+#EXTINF:-1 tvg-id="0510" group-title="Musica",Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
-#EXTINF:-1 tvg-id"0510" group-title="Musica",Quiero Musica HD
+#EXTINF:-1 tvg-id="0510" group-title="Musica",Quiero Musica HD
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://190.7.19.197:232/play/a01a/index.m3u8
