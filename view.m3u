@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 group-title="Lista" group-title="Eventos", Canal 01 Senal Eventos 
-http://190.108.83.69:8000/play/a05w/index.m3u8
+http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 #EXTINF:-1 group-title="Lista" group-title="Eventos",Canal 02 Senal Eventos HD
 http://190.7.19.197:232/play/a022/index.m3u8
 
@@ -432,8 +432,8 @@ http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="0215" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Lista" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="0221" group-title="Lista", CGTN espanol
-http://190.108.83.69:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Lista", DHE
+http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="0212" group-title="Lista",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
