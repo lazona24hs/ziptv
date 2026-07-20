@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 group-title="Eventos, vivos", Canal 01 Senal Eventos 
+#EXTINF:-1 group-title="Vivos" group-title="Eventos", Canal 01 Senal Eventos 
 http://190.108.83.69:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Eventos",Canal 02 Senal Eventos HD
 https://www.youtube.com/channel/UCyoGb3SMlTlB8CLGVH4c8Rw/live
