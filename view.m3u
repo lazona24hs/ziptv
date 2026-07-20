@@ -37,7 +37,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 http://190.7.19.197:232/play/a043/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0905" tvg-name="TN" Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
+#EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
 http://190.7.19.197:232/play/a03l/index.m3u8
 
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Lista",C5N
@@ -340,10 +340,10 @@ http://190.7.19.197:232/play/a04j/index.m3u8
 #EXTINF:-1 group-title="Lista", TEC TV 
 http://190.7.19.197:232/play/a08c/index.m3u8
 
-#EXTINF:-1  group-title="Cultura",Canal a
+#EXTINF:-1  group-title="Lista",Canal a
 http://190.7.19.197:232/play/a015/index.m3u8
 
-#EXTINF:-1 group-title="Cultura",Volver
+#EXTINF:-1 group-title="Lista",Volver
 http://190.7.19.197:232/play/a048/index.m3u8
 
 
@@ -351,99 +351,99 @@ http://190.7.19.197:232/play/a048/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Regional",  AUNAR 
+#EXTINF:-1 group-title="Lista",  AUNAR 
 http://190.7.19.197:232/play/a08g/index.m3u8
-#EXTINF:-1 group-title="Regional", SOMOS 
+#EXTINF:-1 group-title="Lista", SOMOS 
 http://190.7.19.197:232/play/a012/index.m3u8
-#EXTINF:-1group-title="Regional",  AIRE DE SANTA FE 
+#EXTINF:-1 group-title="Lista",  AIRE DE SANTA FE 
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 tvg-id="0648" tvg-name="Garage TV" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png", Garage TV 
+#EXTINF:-1 group-title="Lista" tvg-id="0648" tvg-name="Garage TV" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png", Garage TV 
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Regional", UCL 
+#EXTINF:-1 group-title="Lista", UCL 
 http://190.7.19.197:232/play/a00z/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="0963" group-title="General" tvg-name="Bravo TV" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png", Bravo TV 
+#EXTINF:-1 tvg-id="0963" group-title="Lista" tvg-name="Bravo TV" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png", Bravo TV 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="0000" group-title="Regional", CANAL 11 PARANA 
+#EXTINF:-1 tvg-id="0000" group-title="Lista", CANAL 11 PARANA 
 http://190.7.19.197:232/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="0000" group-title="Regional", CANAL 6 CRESPO
+#EXTINF:-1 tvg-id="0000" group-title="Lista", CANAL 6 CRESPO
 http://190.7.19.197:232/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="0000" group-title="Regional", CANAL 9 PARANA
+#EXTINF:-1 tvg-id="0000" group-title="Lista", CANAL 9 PARANA
 http://190.7.19.197:232/play/a0lo/index.m3u8
 
-#EXTINF:-1 tvg-id="0926" group-title="Regional", T5
+#EXTINF:-1 tvg-id="0926" group-title="Lista", T5
 http://190.7.19.197:232/play/a01v/index.m3u8
 
-#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Otros",Telemax
+#EXTINF:-1 tvg-id="0937" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png" group-title="Lista",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
-#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" tvg-logo="https://files.catbox.moe/lk049e.png" group-title="Otros",Argentinisima Satelital
+#EXTINF:-1 tvg-id="0912" tvg-name="Argentinisima Satelital" tvg-logo="https://files.catbox.moe/lk049e.png" group-title="Lista",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png" group-title="Regional",Canal 9 Multivisión
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png" group-title="Lista",Canal 9 Multivisión
 https://panel.host-live.com:19360/8250/8250.m3u8
-#EXTINF:-1 tvg-id="0205" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional",DW Espanol
+#EXTINF:-1 tvg-id="0205" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2560px-Deutsche_Welle_symbol_2012.svg.png" group-title="Lista",DW Espanol
 http://190.108.83.69:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Internacional",Euronews
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
-#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Internacional",France 24 Español
+#EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Lista",France 24 Español
 http://181.119.215.61:8000/play/a05a/index.m3u8?hls
-#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Internacional",TeleSUR
+#EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Lista",TeleSUR
 http://190.7.19.197:232/play/a08p/index.m3u8
-#EXTINF:-1 tvg-id="0106" group-title="Internacional", CHV
+#EXTINF:-1 tvg-id="0106" group-title="Lista", CHV
 http://190.108.83.69:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-id="0104" group-title="Internacional",TVN HD
+#EXTINF:-1 tvg-id="0104" group-title="Lista",TVN HD
 http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="Internacional",RAI Italia
+#EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="Lista",RAI Italia
 http://190.7.19.197:232/play/a01b/index.m3u8
 
-#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
+#EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
 http://138.59.227.20:8000/play/a07d/index.m3u8
 
-#EXTINF:-1 tvg-id="0636" tvg-name="TVE" group-title="Internacional",TVE
+#EXTINF:-1 tvg-id="0636" tvg-name="TVE" group-title="Lista",TVE
 http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
 
-#EXTINF:-1 group-title="Internacional",Europa Europa
+#EXTINF:-1 group-title="Lista",Europa Europa
 http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="4909" group-title="Otros",Telefe Internacional 
+#EXTINF:-1 tvg-id="4909" group-title="Lista",Telefe Internacional 
 http://190.108.83.69:8000/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="0000" group-title="Otros",El Trece Internacional
+#EXTINF:-1 tvg-id="0000" group-title="Lista",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0215" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Internacional" tvg-id="CNN",CNN Internacional 
+#EXTINF:-1 tvg-id="0215" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Lista" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="0221" group-title="Internacional", CGTN espanol
+#EXTINF:-1 tvg-id="0221" group-title="Lista", CGTN espanol
 http://190.108.83.69:8000/play/a0ao/index.m3u8
 
-#EXTINF:-1 tvg-id="0212" group-title="Internacional",NTN 24 Horas
+#EXTINF:-1 tvg-id="0212" group-title="Lista",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
 
 
 
 
-#EXTINF:-1  tvg-id="0615" tvg-name="Telemundo" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
+#EXTINF:-1  tvg-id="0615" tvg-name="Telemundo" group-title="Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
 http://190.108.83.69:8000/play/a02d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="0616" group-title="Internacional",Univision HD
+#EXTINF:-1 tvg-id="0616" group-title="Lista",Univision HD
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
 
-#EXTINF:-1 group-title="Internacional",Galicia TV
+#EXTINF:-1 group-title="Lista",Galicia TV
 http://190.7.19.197:232/play/a01c/index.m3u8
 
 
-#EXTINF:-1 group-title="Religion", ENLACE
+#EXTINF:-1 group-title="Lista", ENLACE
 http://190.7.19.197:232/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="0638" group-title="Religion", ESNE
+#EXTINF:-1 tvg-id="0638" group-title="Lista", ESNE
 http://45.170.130.224:8000/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="1625" group-title="Religion", EWTN
+#EXTINF:-1 tvg-id="1625" group-title="Lista", EWTN
 http://190.7.19.197:232/play/a01t/index.m3u8
 
 
