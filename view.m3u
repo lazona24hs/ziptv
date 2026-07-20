@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/smithers/guia-de-programacion.xml" 
+#EXTM3U x-url-tvg="https://impeditor.com/epg/capanueve/capanueve, https://impeditor.com/epg/capanuevegz/capanuevegz, https://www.tdtchannels.com/epg/TV.xml, https://www.tdtchannels.com/epg/TV.xml.gz"
+
+
 
 
 #EXTINF:-1 group-title="Eventos", Canal 01 Senal Eventos 
