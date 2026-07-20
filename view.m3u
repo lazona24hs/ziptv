@@ -435,9 +435,8 @@ http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 #EXTINF:-1 tvg-id="" group-title="Lista", DHE
 http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="0212" group-title="Lista",NTN 24 Horas
-http://190.108.83.69:8000/play/a00r/index.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="Lista",Antena3
+http://8.243.126.131:8000/play/a0fc/index.m3u8?hls
 
 
 
