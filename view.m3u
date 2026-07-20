@@ -20,8 +20,8 @@ http://45.181.87.106/TYCSPORTSHD/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 
-#EXTINF:-1 tvg-id="24Horas.TV" group-title="Lista", Canal 06
-https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="" group-title="Lista", Canal 06
+http://8.243.126.131:8000/play/a0e9/index.m3u8?hls
 
 
 
@@ -254,7 +254,7 @@ http://190.108.83.69:8000/play/a03z/index.m3u8
 
 
 #EXTINF:-1 group-title="Lista", KANAL DRAMA 
-http://190.108.83.69:8000/play/a0b7/index.m3u8
+http://8.243.126.131:8000/play/a0mn/index.m3u8?hls
 
 
 
@@ -442,7 +442,7 @@ http://190.108.83.69:8000/play/a00r/index.m3u8
 
 
 #EXTINF:-1  tvg-id="0615" tvg-name="Telemundo" group-title="Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png", Telemundo
-http://190.108.83.69:8000/play/a02d/index.m3u8
+http://8.243.126.131:8000/play/a04y/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="0616" group-title="Lista",Univision HD
