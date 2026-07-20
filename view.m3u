@@ -20,7 +20,11 @@ http://45.181.87.106/TYCSPORTSHD/index.m3u8
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 
+#EXTINF:-1 tvg-id="24Horas.TV" group-title="Lista", 24h Espana
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
+#EXTINF:-1 tvg-id="TDP.TV" group-title="Lista", Teledeporte Espana
+https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
 
 #Radios/Streaming
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
