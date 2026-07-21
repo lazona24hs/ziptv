@@ -8,24 +8,24 @@ https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/960px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV" tvg-id="PlutoTV.us@LatAm", MTV PlutoTV 
 https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
-#EXTINF:-1 group-title="Lista", Canal 01 Senal Eventos 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 01 Senal Eventos 
 http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
-#EXTINF:-1 group-title="Lista",Canal 02 Senal Eventos 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista",Canal 02 Senal Eventos 
 http://190.7.19.197:232/play/a022/index.m3u8
 
 
 #EXTINF:-1 group-title="Lista", Canal 03
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 group-title="Lista", Canal 04
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 04
 http://8.243.126.131:8000/play/a05c/index.m3u8?hls
 
 
-#EXTINF:-1 group-title="Lista", Canal 05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 05
 http://45.170.130.224:8000/play/a020/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" group-title="Lista", Canal 06
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" tvg-id="" group-title="Lista", Canal 06
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
 
