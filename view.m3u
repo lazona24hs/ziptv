@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/960px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV" tvg-id="PlutoTVCineAccion.us@LatAm",Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/960px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV" tvg-id="PlutoTVCineEstelar.us@LatAm",Cine Estelar
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/960px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV" tvg-id="PlutoTV.us@LatAm", MTV PlutoTV 
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 
 #EXTINF:-1 group-title="Lista", Canal 01 Senal Eventos 
 http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
