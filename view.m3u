@@ -1,6 +1,7 @@
 #EXTM3U x-url-tvg="https://impeditor.com/epg/capanueve/capanueve, https://impeditor.com/epg/capanuevegz/capanuevegz, https://i.mjh.nz/PlutoTV/all.xml, https://www.tdtchannels.com/epg/TV.xml, https://www.tdtchannels.com/epg/TV.xml.gz"
 
-
+#EXTINF:-1 group-title="Pluto TV" tvg-id="PlutoTVCineAccion.us@LatAm",Cine Acción
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 
 
 #EXTINF:-1 group-title="Lista", Canal 01 Senal Eventos 
