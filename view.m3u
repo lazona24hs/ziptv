@@ -4,7 +4,10 @@
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio Mitre" group-title="Radios", Radio Mitre
-http://181.94.215.185:4000/play/a068/index.m3u8
+http://181.209.105.115:2525/play/cadena3/index.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
+http://181.209.105.115:2525/play/nacional/index.m3u8
+
 
 #CanalesHD
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
