@@ -13,8 +13,7 @@ http://190.7.19.197:232/play/a022/index.m3u8
 #EXTINF:-1 group-title="Lista", Canal 03
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 04
-https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 05
@@ -92,14 +91,17 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 http://138.59.227.20:8000/play/a095/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", RCN Noticias
+https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
+
 #EXTINF:-1 tvg-id="1409" group-title="Lista",TyC Sports 
 http://190.7.19.197:232/play/a04w/index.m3u8
 
 #EXTINF:-1 tvg-id="0433" group-title="Lista", Dsport+
 http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="0432" group-title="Lista",DSports 2
+#EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
 http://190.7.19.197:232/play/a09h/index.m3u8
-#EXTINF:-1 tvg-id="0431" group-title="Lista",DSports
+#EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
 http://138.59.227.20:8000/play/a0ft/index.m3u8
 #EXTINF:-1 group-title="Lista",ESPN 2 
 http://190.7.19.197:232/play/a03m/index.m3u8
