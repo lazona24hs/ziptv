@@ -17,7 +17,7 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="HD",TV Publica HD
 http://138.59.227.20:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="HD",TyC Sports HD
-http://45.181.87.106/TYCSPORTSHD/index.m3u8
+http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 group-title="HD",History Channel HD
 http://190.7.19.197:232/play/a03h/index.m3u8
 #EXTINF:-1 group-title="HD",Comedy Central HD
@@ -40,7 +40,26 @@ http://138.59.227.20:8000/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium 
 http://138.59.227.20:8000/play/a06z/index.m3u8
 
+#FreeTV
 
+#EXTINF:-1 group-title="FreeTV",FREE ACCION
+http://147.75.122.125:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE HITS
+http://147.75.122.125:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE SABER MAS
+http://147.75.122.125:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV BANDA
+http://147.75.122.125:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV CLASICO
+http://147.75.122.125:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV DRAMA
+http://147.75.122.125:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV ESTELAR
+http://147.75.122.125:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV FAMILIAR
+http://147.75.122.125:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV SUREÑO
+http://147.75.122.125:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 01 Senal Eventos 
 http://138.59.227.20:8000/play/a08d/index.m3u8
