@@ -44,8 +44,8 @@ http://190.7.19.197:232/play/a022/index.m3u8
 #EXTINF:-1 group-title="Lista", Canal 03
 http://190.7.19.197:232/play/a04w/index.m3u8
 
-
-
+#EXTINF:-1 group-title="Lista", N
+http://181.78.244.133:8000/play/a07x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 05
 http://8.243.126.131:8000/play/a0jr/index.m3u8?hls
@@ -55,8 +55,6 @@ http://8.243.126.131:8000/play/a0jr/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" tvg-id="" group-title="Lista", ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
-#EXTINF:-1 group-title="Lista",Movistar Deportes
-http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
 
 
 
