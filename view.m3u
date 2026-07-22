@@ -5,7 +5,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 01 Senal Eventos 
-http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
+http://138.59.227.20:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista",Canal 02 Senal Eventos 
 http://190.7.19.197:232/play/a022/index.m3u8
 
@@ -17,14 +17,15 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 05
-https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live
+http://8.243.126.131:8000/play/a0jr/index.m3u8?hls
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" tvg-id="" group-title="Lista", ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 
-
+#EXTINF:-1 group-title="Lista",Movistar Deportes
+http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
 
 #Radios/Streaming
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
