@@ -1,65 +1,6 @@
 #EXTM3U url-tvg="https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml"
 
-#Radios/Streaming
-#EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
-https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-name="Radio Mitre" group-title="Radios", Radio Mitre
-http://181.209.105.115:2525/play/cadena3/index.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
-http://181.209.105.115:2525/play/nacional/index.m3u8
 
-
-#CanalesHD
-#EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
-http://138.59.227.20:8000/play/a07b/index.m3u8
-#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="HD",Telefe HD
-http://138.59.227.20:8000/play/a08a/index.m3u8
-#EXTINF:-1 group-title="HD",TV Publica HD
-http://138.59.227.20:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="HD",TyC Sports HD
-http://190.7.19.197:232/play/a04w/index.m3u8
-#EXTINF:-1 group-title="HD",History Channel HD
-http://190.7.19.197:232/play/a03h/index.m3u8
-#EXTINF:-1 group-title="HD",Comedy Central HD
-http://190.7.19.197:232/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="0510" group-title="HD",Quiero Musica HD
-http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 group-title="HD",TN HD
-http://181.209.105.115:2525/play/tn/index.m3u8
-#EXTINF:-1 group-title="HD",TNT Sports HD
-http://181.209.105.115:2525/play/tntsports/index.m3u8
-
-
-#PackFutbol
-#EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
-http://190.7.19.197:232/play/a09h/index.m3u8
-#EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
-http://138.59.227.20:8000/play/a0ft/index.m3u8
-#EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium 
-http://138.59.227.20:8000/play/a086/index.m3u8
-#EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium 
-http://138.59.227.20:8000/play/a06z/index.m3u8
-
-#FreeTV
-
-#EXTINF:-1 group-title="FreeTV",FREE ACCION
-http://147.75.122.125:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE HITS
-http://147.75.122.125:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE SABER MAS
-http://147.75.122.125:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV BANDA
-http://147.75.122.125:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV CLASICO
-http://147.75.122.125:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV DRAMA
-http://147.75.122.125:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV ESTELAR
-http://147.75.122.125:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV FAMILIAR
-http://147.75.122.125:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="FreeTV",FREE TV SUREÑO
-http://147.75.122.125:8000/play/a037/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 01 Senal Eventos 
 http://138.59.227.20:8000/play/a08d/index.m3u8
@@ -510,7 +451,69 @@ http://190.7.19.197:232/play/a01t/index.m3u8
 http://190.108.83.69:8000/play/a0ao/index.m3u8
 
 
+#Radios/Streaming
+#EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-name="Radio Mitre" group-title="Radios", Radio Mitre
+http://181.209.105.115:2525/play/cadena3/index.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
+http://181.209.105.115:2525/play/nacional/index.m3u8
 
+
+#CanalesHD
+#EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
+http://138.59.227.20:8000/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="HD",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="HD",TV Publica HD
+http://138.59.227.20:8000/play/a095/index.m3u8
+#EXTINF:-1 group-title="HD",TyC Sports HD
+http://190.7.19.197:232/play/a04w/index.m3u8
+#EXTINF:-1 group-title="HD",History Channel HD
+http://190.7.19.197:232/play/a03h/index.m3u8
+#EXTINF:-1 group-title="HD",Comedy Central HD
+http://190.7.19.197:232/play/a01d/index.m3u8
+#EXTINF:-1 tvg-id="0510" group-title="HD",Quiero Musica HD
+http://177.234.249.178:8888/MTV/index.m3u8
+#EXTINF:-1 group-title="HD",TN HD
+http://181.209.105.115:2525/play/tn/index.m3u8
+#EXTINF:-1 group-title="HD",TNT Sports HD
+http://181.209.105.115:2525/play/tntsports/index.m3u8
+
+
+#PackFutbol
+#EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
+http://190.7.19.197:232/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
+http://138.59.227.20:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium 
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium 
+http://138.59.227.20:8000/play/a06z/index.m3u8
+
+#FreeTV
+#EXTINF:-1 group-title="FreeTV",FREE ACCION
+http://147.75.122.125:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE HITS
+http://147.75.122.125:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE SABER MAS
+http://147.75.122.125:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV BANDA
+http://147.75.122.125:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV CLASICO
+http://147.75.122.125:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV DRAMA
+http://147.75.122.125:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV ESTELAR
+http://147.75.122.125:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV FAMILIAR
+http://147.75.122.125:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="FreeTV",FREE TV SUREÑO
+http://147.75.122.125:8000/play/a037/index.m3u8
+
+####
+#PlutoTV
+####
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/960px-Pluto_TV_logo_2024.svg.png" group-title="Pluto TV" tvg-id="PlutoTVCineAccion.us@LatAm",Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 
