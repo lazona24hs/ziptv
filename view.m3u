@@ -14,7 +14,7 @@ http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Lista", Canal 04
 http://38.224.175.2:8000/play/a05t/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vCZ7TtNj/disponible.jpg" group-title="Lista", Canal 05
+#EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Lista", Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 
 
