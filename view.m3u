@@ -211,9 +211,9 @@ http://190.108.83.69:8000/play/a01g/index.m3u8
 http://8.243.126.131:8000/play/a0f7/index.m3u8?hls
 #EXTINF:-1 group-title="Lista",Cine Premium
 http://8.243.126.131:8000/play/a0mi/index.m3u8?hls
-#EXTINF:-1 group-title="Lista",Sony 
+#EXTINF:-1 tvg-id="1806" group-title="Lista",Sony 
 http://181.209.105.115:2525/play/sonyhd/index.m3u8
-#EXTINF:-1 group-title="Lista",Sony Movies 
+#EXTINF:-1 tvg-id="1810" group-title="Lista",Sony Movies 
 http://190.108.83.69:8000/play/a08j/index.m3u8
 #EXTINF:-1 group-title="Lista",Space 
 http://8.243.126.131:8000/play/a0gz/index.m3u8?hls
