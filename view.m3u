@@ -118,7 +118,7 @@ http://38.224.175.2:8000/play/a02t/index.m3u8
 http://190.108.83.69:8000/play/a0ao/index.m3u8
 
 #EXT-X-VERSION:3
-#EXTINF:10,Mi Video de YouTube o Stream
+#EXTINF:10 group-title="Lista",Vorterix
 https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live
 
 #EXTINF:-1 group-title="Lista" ,CANAL 43
