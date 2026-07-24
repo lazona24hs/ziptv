@@ -118,8 +118,8 @@ http://38.224.175.2:8000/play/a02t/index.m3u8
 http://190.108.83.69:8000/play/a0ao/index.m3u8
 
 #EXT-X-VERSION:3
-#EXTINF:10 group-title="Lista",Vorterix
-https://www.youtube.com/channel/UCvgfXK4nTYKudb0rFR6noLA/live
+#EXTINF:10 group-title="Lista", CANAL 42
+https://www.youtube.com/channel/UChxGASjdNEYHhVKpl667Huw/live
 
 #EXTINF:-1 group-title="Lista" ,CANAL 43
 http://190.7.19.197:232/play/a00r/index.m3u8
