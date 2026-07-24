@@ -108,8 +108,9 @@ http://190.7.19.197:232/play/a044/index.m3u8
 #EXTINF:-1 group-title="Lista",Golf Channel
 http://38.224.175.2:8000/play/a03s/index.m3u8
 
-#EXTINF:-1 group-title="Lista",Sun Channel
-http://190.7.19.197:232/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Lista", DHE
+http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
 #EXTINF:-1 group-title="Lista",MEGA 
 http://38.224.175.2:8000/play/a02t/index.m3u8
@@ -420,20 +421,20 @@ http://138.59.227.20:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="0636" tvg-name="TVE" group-title="Lista",TVE
 http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
 
-#EXTINF:-1 group-title="Lista",Europa Europa
-http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="4909" group-title="Lista",Telefe Internacional 
 http://190.151.80.242:9990/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-id="0000" group-title="Lista",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 
 
+#EXTINF:-1 group-title="Lista",Europa Europa
+http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
+
+
+
 #EXTINF:-1 tvg-id="0215" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Lista" tvg-id="CNN",CNN Internacional 
 http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="" group-title="Lista", DHE
-http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="" group-title="Lista",Antena3
 http://8.243.126.131:8000/play/a0fc/index.m3u8?hls
