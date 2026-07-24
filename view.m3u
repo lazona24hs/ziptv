@@ -467,6 +467,8 @@ http://190.7.19.197:232/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio La 100" group-title="Radios" tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp", Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Radio Mitre" group-title="Radios", Radio Mitre
+https://media425.digitar.net:8091/mitre.mp3
+#EXTINF:-1 tvg-id="0000" tvg-name="Cadena3" group-title="Radios", Cadena3
 http://181.209.105.115:2525/play/cadena3/index.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
 http://181.209.105.115:2525/play/nacional/index.m3u8
