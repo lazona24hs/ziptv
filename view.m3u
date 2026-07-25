@@ -474,6 +474,10 @@ https://media425.digitar.net:8091/mitre.mp3
 http://181.209.105.115:2525/play/cadena3/index.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
 http://181.209.105.115:2525/play/nacional/index.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-name="FM Vida" group-title="Radios", FM Vida
+https://ice3.edge-apps.net/ros3-fmvida/live/playlist.m3u8
+#EXTINF:-1 tvg-id="0000" tvg-name="Plus" group-title="Radios", Plus
+https://ice3.edge-apps.net/ros3-radio2/live/playlist.m3u8
 
 
 #CanalesHD
