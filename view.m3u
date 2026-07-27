@@ -111,8 +111,8 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Lista", DHE
 http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
-#EXTINF:-1 group-title="Lista",MEGA 
-http://pwesaeyapi.top:8080/live/3811785064784/a5386a457864/9989.m3u8
+#EXTINF:-1 group-title="Lista",HispanTV
+http://live.presstv.ir/hls/hispantv.m3u8
 
 #EXTINF:-1 group-title="Lista", CGTN Español
 http://190.108.83.69:8000/play/a0ao/index.m3u8
