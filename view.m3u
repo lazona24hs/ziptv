@@ -471,11 +471,12 @@ https://media425.digitar.net:8091/mitre.mp3
 http://181.209.105.115:2525/play/cadena3/index.m3u8
 #EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
 http://181.209.105.115:2525/play/nacional/index.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-name="FM Vida" group-title="Radios", FM Vida
-https://ice3.edge-apps.net/ros3-fmvida/live/playlist.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-name="Plus" group-title="Radios", Plus
-https://ice3.edge-apps.net/ros3-radio2/live/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Vorterix" group-title="Radios", Vorterix
+https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" group-title="Radios", Latina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" group-title="Radios", Latina
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 #CanalesHD
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
