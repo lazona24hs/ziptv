@@ -16,7 +16,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/sa_hls_full_e_95AEFABF606F6
 #EXTINF:-1 group-title="Lista", Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Lista", Dnews
-https://ziptv.env.pm/dnews.m3u8
+https://ziptv.env.pm/dnews.m3u
 
 
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Lista", Canal LUZ
@@ -487,7 +487,7 @@ https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/P
 #EXTINF:-1 tvg-id="" tvg-name="Latina" group-title="Radios", Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red LT" group-title="Radios", Red LT
-https://ziptv.env.pm/str1.m3u8
+https://ziptv.env.pm/str1.m3u
 #EXTINF:-1 tvg-id="" tvg-name="pop" group-title="Radios", POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="am1330" group-title="Radios", AM 1330
