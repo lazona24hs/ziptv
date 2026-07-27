@@ -16,7 +16,12 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/sa_hls_full_e_95AEFABF606F6
 #EXTINF:-1 group-title="Lista", Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Lista", Dnews
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdb1b2e8016a1cea9fc10952cd92a117:86e36ab9a083bb08d467f3cf07e7172e
 https://cdn02.gigared.com.ar/live/eds/DNews/sa_live_dash/DNews.mpd
+
 
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Lista", Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
