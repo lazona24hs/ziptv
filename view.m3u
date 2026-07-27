@@ -26,7 +26,7 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 
 
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" group-title="Lista" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe Rosario
-https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Lista",Canal de la Ciudad
