@@ -112,7 +112,7 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
 
 #EXTINF:-1 group-title="Lista",MEGA 
-http://38.224.175.2:8000/play/a02t/index.m3u8
+http://pwesaeyapi.top:8080/live/3811785064784/a5386a457864/9989.m3u8
 
 #EXTINF:-1 group-title="Lista", CGTN Español
 http://190.108.83.69:8000/play/a0ao/index.m3u8
