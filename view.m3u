@@ -548,6 +548,166 @@ http://147.75.122.125:8000/play/a037/index.m3u8
 #PlutoTV
 ####
 
-
+#EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Acapulco Shore Pluto TV
+https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Adrenalina Pura TV (720p)
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Archivos Extraterrestres
+https://jmp2.uk/plu-645d1abbe1979c0008779d5a.m3u8
+#EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Archivos Forenses
+https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
+#EXTINF:-1 tvg-id="AvatarLaLeyendadeAang.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Baby Shark TV
+https://jmp2.uk/plu-619d5e6a093e7c0007489211.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@US" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Babyfirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 tvg-id="BobEsponjaPantalonesCuadrados.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Bob Esponja Pantalones Cuadrados (720p)
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Boruto: Naruto Next Generations
+https://jmp2.uk/plu-656f37f257fe4a000884dfee.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Bromas Gags Just for Laughs (720p)
+https://jmp2.uk/plu-678029c654f43dad4b5c1ec0.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",C4 en Alerta (720p)
+https://jmp2.uk/plu-673f7446030a2c0008231bc3.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Captain Tsubasa
+https://jmp2.uk/plu-64666345f3f5b1000882bfb4.m3u8
+#EXTINF:-1 tvg-id="CazadordeHomicidas.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Cazador de Homicidas
+https://jmp2.uk/plu-6109a9f5531b840007a4a187.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",CBS News (720p)
+https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Comedy Central South Park
+https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+#EXTINF:-1 tvg-id="ConcertChannel.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Concert Channel (720p)
+https://jmp2.uk/plu-6868152657543d1f8be4ece3.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Conciertos por Stingray (720p)
+https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
+#EXTINF:-1 tvg-id="Cops.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",COPS
+https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Corazón (720p)
+https://jmp2.uk/plu-646ccdd0939a5900088a1980.m3u8
+#EXTINF:-1 tvg-id="CSIMiami.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",CSI: Miami
+https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Cuando los Ángeles Caen (720p)
+https://jmp2.uk/plu-699769fa19ac123965833fd3.m3u8
+#EXTINF:-1 tvg-id="Daria.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Daria
+https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Death Note
+https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Desafío Super Humanos
+https://jmp2.uk/plu-6495af324c014a000842e923.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDogelcazarrecompensas.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Dog el cazarrecompensas
+https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Dr. G
+https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Dulce by elGourmet (720p)
+https://jmp2.uk/plu-6894fc3f66f164e402f4fd14.m3u8
+#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",El Encantador de Perros
+https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",El Reino Infantil
+https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Empeños a lo bestia
+https://jmp2.uk/plu-5f23102d5e239d00074b092a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVEstrellasdeAccion.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Estrellas de Acción
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@US" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",FailArmy (720p)
+https://jmp2.uk/plu-5ebaccf1734aaf0007142c86.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Hechiceras
+https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Hechizada
+https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Hells Kitchen
+https://jmp2.uk/plu-6095ad97351eb0000754c1e6.m3u8
+#EXTINF:-1 tvg-id="HeyArnold.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Hey Arnold!
+https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoriasdeUltratumba.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Historias de Ultratumba
+https://jmp2.uk/plu-5f4d3696d938c900072679fd.m3u8
+#EXTINF:-1 tvg-id="Homeful.ca@US" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Homeful (720p)
+https://jmp2.uk/plu-64fb1f6e6625510008c00848.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Hunter x Hunter
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",I Shouldn't Be Alive
+https://jmp2.uk/plu-69fcaaa1853a01a827bcd056.m3u8
+#EXTINF:-1 tvg-id="IcePilots.us@Germany" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Ice Pilots
+https://jmp2.uk/plu-62154548a2be360007cb02f0.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Inuyasha
+https://jmp2.uk/plu-66b26665d512590008c507b7.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",JoJo’s Bizarre Adventure
+https://jmp2.uk/plu-66c790f780a0af0008583aa4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKaraokeporStingray.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Karaoke por Stingray (720p)
+https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
+#EXTINF:-1 tvg-id="KenanKel.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Kenan y Kel
+https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",La Familia del Barrio
+https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",La Selección
+https://jmp2.uk/plu-63211ba9cad976000794f988.m3u8
+#EXTINF:-1 tvg-id="LasTortugasNinja.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Las Tortugas Ninja (720p)
+https://jmp2.uk/plu-63dd5d7a4e83e700088fbca8.m3u8
+#EXTINF:-1 tvg-id="LosarchivosdelFBI.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Los archivos del FBI
+https://jmp2.uk/plu-5e67d41b93312100076f3fca.m3u8
+#EXTINF:-1 tvg-id="LosAsesinatosdeMidsomer.us@Spain" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Los Asesinatos de Midsomer
+https://jmp2.uk/plu-6764203df433320008836bc6.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Los Padrinos Mágicos
+https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Los Pitufos
+https://jmp2.uk/plu-68a3a97fd8f7693ae3f8575f.m3u8
+#EXTINF:-1 tvg-id="LuchaLibreAAA.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Lucha Libre AAA
+https://jmp2.uk/plu-5f99a772c54853000797bf18.m3u8
+#EXTINF:-1 tvg-id="MacGyver.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MacGyver
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Madre
+https://jmp2.uk/plu-69b32974814d27f4aed90fdd.m3u8
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MasterChef
+https://jmp2.uk/plu-5e3ddbd27091820009f86dd9.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MasterChef Argentina
+https://jmp2.uk/plu-69fcaa88e022927e1c94c533.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MasterChef Colombia
+https://jmp2.uk/plu-69fcaa71ea95ffff0987f555.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Mi Bella Genio
+https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Mi Coche Clásico
+https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Milenio Televisión (720p)
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMinutoParaGanar.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Minuto Para Ganar
+https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisteriosMedicos.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Misterios Medicos
+https://jmp2.uk/plu-5f230e416b68ff00075b0139.m3u8
+#EXTINF:-1 tvg-id="Misteriossinresolver.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Misterios sin Resolver
+https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
+#EXTINF:-1 group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Monstruos de Rio (720p)
+https://jmp2.uk/plu-66a92375cd0d31000847b219.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Motorvision TV
+https://jmp2.uk/plu-60e5ea9a9bb4200008376f76.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Mr. Bean Animated
+https://jmp2.uk/plu-69fca9f9b9c0f0d444f631ca.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Biggest Pop (1080p)
+https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 tvg-id="MTVCatfish.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Catfish (720p)
+https://jmp2.uk/plu-625461ef01f27a0007976ad1.m3u8
+#EXTINF:-1 tvg-id="MTVConMiEx.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Con Mi Ex
+https://jmp2.uk/plu-638693db857364000781b471.m3u8
+#EXTINF:-1 tvg-id="MTVDating.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Dating (720p)
+https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
+#EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Flow Latino (720p)
+https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Pluto TV LatAm (720p)
+https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
+#EXTINF:-1 tvg-id="MTVReality.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Reality (720p)
+https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Ridiculousness (720p)
+https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-id="MTVRocks.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Rocks
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
+#EXTINF:-1 tvg-id="MTVDrag.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Rupaul's Drag Race Untucked
+https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 tvg-id="MTVTeenMom.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",MTV Teen Mom (720p)
+https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
+#EXTINF:-1 tvg-id="Narutoenespanol.us@SD" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/3840px-Pluto_TV_logo_2024.svg.png",Naruto
+https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
+#EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" group-title="PlutoTV" tvg-logo="https://upload.wikimedia.or
 
 
