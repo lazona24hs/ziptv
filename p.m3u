@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="-",Canal
-https://cdn02.gigared.com.ar/live/eds/Canal_Local_Gigared_Posadas/sa_live_dash/Canal_Local_Gigared_Posadas.mpd
+https://trs.cdn.rcs.net.ar/mnp/canalstafe/output.mpd
 ced47361cf2f266e0842894d1c925464:3c12297f2cb08d14f30382bcb9e247bf
 #EXTINF:-1 group-title="-",Canal
 https://cdn02.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
