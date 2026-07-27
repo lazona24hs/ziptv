@@ -10,7 +10,7 @@ http://190.7.19.197:232/play/a022/index.m3u8
 http://152.230.229.66:8001/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/500px-Eltres_RGB-grad_%28positivo%29.png" group-title="Lista", Canal 03
-https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_3_Rosario.m3u8
+http://oscam281w.ooguy.com:5000/server/1234/Rosario/20502/index.m3u8?device_id=8dd09d5ddda9
 
 
 #EXTINF:-1 group-title="Lista", Telemundo Noticias
@@ -33,10 +33,9 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 
 
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" group-title="Lista" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe Rosario
-https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_5_Rosario.m3u8
-c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+http://oscam281w.ooguy.com:5000/server/1234/Rosario/20503/index.m3u8?device_id=8dd09d5ddda9
 
-#EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" group-title="TDA" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe Rosario
+#EXTINF:-1 tvg-id="2909" tvg-name="Telefe TDA" group-title="TDA" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe TDA
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 
 
