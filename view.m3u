@@ -56,10 +56,10 @@ http://planettvweb.com:8091/Carmen65/RMap9748d/11878
 
 
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Lista" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png", TN
-http://oscam281w.ooguy.com:5000/server/1234/Noticias/a0cf/index.m3u8?device_id=8dd09d5ddda9
+http://planettvweb.com:8091/Carmen65/RMap9748d/11839
 
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Lista",C5N
-http://planettvweb.com:8091/Carmen65/RMap9748d/11902
+http://planettvweb.com:8091/Carmen65/RMap9748d/11863
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Lista",Cronica
 http://planettvweb.com:8091/Carmen65/RMap9748d/11894
 #EXTINF:-1 tvg-id="0210" group-title="Lista",CNN en Espanol
