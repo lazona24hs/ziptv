@@ -6,9 +6,9 @@
 #EXTINF:-1 tvg-logo="https://img.magnific.com/vector-gratis/diseno-boton-web-transmision-vivo-estilo-3d_1017-59933.jpg" group-title="Exclusiva", El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/vector-gratis/diseno-boton-web-transmision-vivo-estilo-3d_1017-59933.jpg" group-title="Exclusiva", Los Simpson 24/7
-
+https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.magnific.com/vector-gratis/diseno-boton-web-transmision-vivo-estilo-3d_1017-59933.jpg" group-title="Exclusiva", Dragon Ball 24/7
-
+https://lbgo.bozztv.com/ssh101/ssh101/dbslat/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.magnific.com/vector-gratis/diseno-boton-web-transmision-vivo-estilo-3d_1017-59933.jpg" group-title="Exclusiva", RetroPLUS
 https://lbgo.bozztv.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
