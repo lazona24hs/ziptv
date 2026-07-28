@@ -33,9 +33,6 @@ http://oscam281w.ooguy.com:5000/server/1234/Rosario/20502/index.m3u8?device_id=8
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" group-title="Lista" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe Rosario
 http://oscam281w.ooguy.com:5000/server/1234/Rosario/20503/index.m3u8?device_id=8dd09d5ddda9
 
-#EXTINF:-1 tvg-id="2909" tvg-name="Telefe TDA" group-title="Lista" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe TDA
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
-
 
 
 
@@ -101,6 +98,9 @@ http://190.7.19.197:232/play/a04l/index.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/505e9l.png" group-title="Lista",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+#EXTINF:-1 tvg-id="0909" tvg-name="Telefe TDA" group-title="Lista" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg", Telefe TDA
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xxfh0gHv/0943.jpg" tvg-id="0943" group-title="Lista", RCN Noticias
