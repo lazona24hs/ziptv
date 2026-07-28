@@ -1,1 +1,187 @@
-Hola!
+
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Conexión exitosa</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --background: #020817;
+      --foreground: #f8fafc;
+      --muted: #94a3b8;
+      --card: #020817;
+      --card-elevated: #0f172a;
+      --border: #1e293b;
+      --primary: #22c55e;
+      --primary-soft: rgba(34, 197, 94, 0.14);
+      --ring: rgba(34, 197, 94, 0.35);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--background);
+      color: var(--foreground);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      padding: 24px;
+      background:
+        linear-gradient(rgba(148, 163, 184, 0.045) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(148, 163, 184, 0.045) 1px, transparent 1px),
+        var(--background);
+      background-size: 44px 44px;
+    }
+
+    main {
+      width: min(100%, 640px);
+    }
+
+    .card {
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: linear-gradient(180deg, rgba(15, 23, 42, 0.96), rgba(2, 8, 23, 0.98));
+      box-shadow: 0 24px 80px rgba(0, 0, 0, 0.36);
+      padding: clamp(24px, 6vw, 44px);
+    }
+
+    .status {
+      width: 56px;
+      height: 56px;
+      display: inline-grid;
+      place-items: center;
+      border: 1px solid var(--ring);
+      border-radius: 8px;
+      background: var(--primary-soft);
+      color: var(--primary);
+      margin-bottom: 24px;
+    }
+
+    .status svg {
+      width: 28px;
+      height: 28px;
+    }
+
+    .eyebrow {
+      margin: 0 0 10px;
+      color: var(--primary);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(30px, 6vw, 48px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .message {
+      margin: 18px 0 0;
+      color: var(--muted);
+      font-size: clamp(16px, 3vw, 18px);
+      line-height: 1.7;
+    }
+
+    .domain {
+      color: var(--foreground);
+      font-weight: 700;
+      overflow-wrap: anywhere;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 28px;
+      padding-top: 22px;
+      border-top: 1px solid var(--border);
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      min-height: 34px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: rgba(15, 23, 42, 0.72);
+      color: #cbd5e1;
+      padding: 6px 10px;
+      font-size: 13px;
+      line-height: 1.2;
+    }
+
+    .dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: var(--primary);
+      box-shadow: 0 0 0 4px var(--primary-soft);
+      flex: 0 0 auto;
+    }
+
+    @media (max-width: 420px) {
+      body {
+        padding: 16px;
+      }
+
+      .card {
+        padding: 22px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="card" aria-labelledby="status-title">
+      <div class="status" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="none" role="img">
+          <path d="M20 6 9 17l-5-5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+      </div>
+      <p id="eyebrow" class="eyebrow">Servicio conectado</p>
+      <h1 id="status-title">Conexión exitosa</h1>
+      <p class="message">
+        <span id="message-prefix">El dominio </span><span id="domain" class="domain">este dominio</span><span id="message-suffix"> tiene conexión exitosa con el servicio.</span>
+      </p>
+      <div class="meta" aria-label="Estado de la conexion">
+        <span class="pill"><span class="dot" aria-hidden="true"></span><span id="pill-http">HTTP activo</span></span>
+        <span id="pill-response" class="pill">Respuesta del servicio verificada</span>
+      </div>
+    </section>
+  </main>
+  <script>
+    const hostname = (window.location.hostname || "dominio").replace(/^\[|\]$/g, "");
+    const visibleHost = hostname.includes(":") ? `[${hostname}]` : hostname;
+    const port = window.location.port || (window.location.protocol === "https:" ? "443" : "80");
+    const domainWithPort = `${visibleHost}:${port}`;
+
+    document.getElementById("domain").textContent = domainWithPort;
+    document.title = `Conexión exitosa - ${domainWithPort}`;
+
+    const language = (navigator.language || navigator.userLanguage || "es").toLowerCase();
+    if (!language.startsWith("es")) {
+      document.documentElement.lang = "en";
+      document.getElementById("eyebrow").textContent = "Service connected";
+      document.getElementById("status-title").textContent = "Successful connection";
+      document.getElementById("message-prefix").textContent = "The domain ";
+      document.getElementById("message-suffix").textContent = " has a successful connection to the service.";
+      document.getElementById("pill-http").textContent = "HTTP active";
+      document.getElementById("pill-response").textContent = "Service response verified";
+      document.title = `Successful connection - ${domainWithPort}`;
+    }
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"27587607baf64837949c4188828adaaa","r":1}' crossorigin="anonymous"></script>
+</body>
+  </html>
+          
