@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml" playlist-name="ZIPTV" x-logo-url="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP"
+#EXTM3U x-url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz, https://puticastillo.github.io/EPGCL/vilma/public/guia-de-programacion.xml" playlist-name="ZIPTV" x-logo-url="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP"
 #PLAYLIST:ZIPTV
 
 ####
