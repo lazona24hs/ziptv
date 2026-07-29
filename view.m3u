@@ -49,7 +49,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="0903" tvg-name="TV Pública" group-title="Abierto" tvg-logo="https://files.catbox.moe/kezveb.png",TV Publica
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712719.m3u8
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="Abierto" ,El Trece
-http://los84hijosdelsol.com/live/Mago200200/Mago200200/712710.m3u8
+http://planettvweb.com:8091/Carmen65/RMap9748d/11862
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="Abierto",Telefe
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/712714.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Abierto",El Nueve
