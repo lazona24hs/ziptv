@@ -73,13 +73,13 @@ http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Internacional",Dnews
 https://ziptv.env.pm/dnews.m3u
 #EXTINF:-1 tvg-id="1409" group-title="Abierto",TyC Sports
-http://planettvweb.com:8091/Carmen65/RMap9748d/12040
+http://zipserv.env.pm:232/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/722195.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN
-http://planettvweb.com:8091/Carmen65/RMap9748d/12755
+http://zipserv.env.pm:232/play/a03n/index.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports
-http://planettvweb.com:8091/Carmen65/RMap9748d/11702
+http://zipserv.env.pm:232/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 2
 http://190.7.19.197:232/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 3
@@ -381,7 +381,7 @@ http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="HD",TN HD
 http://181.209.105.115:2525/play/tn/index.m3u8
 #EXTINF:-1 group-title="HD",TNT Sports HD
-http://planettvweb.com:8091/Carmen65/RMap9748d/12004
+http://zipserv.env.pm:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
 http://planettvweb.com:8091/Carmen65/RMap9748d/12042
 #EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
@@ -389,7 +389,7 @@ http://planettvweb.com:8091/Carmen65/RMap9748d/12739
 #EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium 
 http://planettvweb.com:8091/Carmen65/RMap9748d/16453
 #EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium 
-http://planettvweb.com:8091/Carmen65/RMap9748d/11873
+http://zipserv.env.pm:232/play/a037/index.m3u8
 #EXTINF:-1 group-title="FreeTV",FREE ACCION
 http://147.75.122.125:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="FreeTV",FREE HITS
