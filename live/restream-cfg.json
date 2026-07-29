@@ -1,0 +1,28 @@
+{
+  "extUrl"    : "https://ziptv.env.pm/live/",
+  "m3uSrc"    : "http://http://kazan-tv.com:8091/get.php?username=Carmen65&password=RMap9748d&type=m3u_plus&output=ts",
+  "port"      : 3666,
+  "numWorkers": 3,
+  "blacklist" : [],
+  "debug"     : { "transcoder": true },
+  "profiles"  : {
+    "default" : {
+      "contentType"    : "video/mp2t",
+      "transcoder"     : "/bin/cat",
+      "transcoderOpts" : [
+        "-"
+      ]
+    },
+    "mobile"  : {
+      "contentType"    : "video/webm",
+      "transcoder"     : "/usr/bin/ffmpeg",
+      "transcoderOpts" : [
+        "-i", "pipe:0",
+        "-vf", "scale=-8:360",
+        "-c:v", "libx264", "-crf", "23", "-b:v", "1M",
+        "-c:a", "aac", "-b:a", "96k",
+        "-f", "mpegts", "pipe:1"
+      ]
+    }
+  }
+}
