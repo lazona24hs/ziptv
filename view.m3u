@@ -325,7 +325,7 @@ http://138.59.227.20:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="0636" tvg-name="TVE" group-title="Internacional",TVE
 http://8.243.126.131:8000/play/a0gx/index.m3u8?hls
 #EXTINF:-1 tvg-id="4909" group-title="Internacional",Telefe Internacional
-http://planettvweb.com:8091/Carmen65/RMap9748d/11840
+http://190.151.80.244:9990/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png"  group-title="Internacional",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional",Europa Europa
