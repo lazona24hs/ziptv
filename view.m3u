@@ -23,7 +23,7 @@ http://oscam281w.ooguy.com:5000/server/1234/Rosario/20502/index.m3u8?device_id=8
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg",Telefe Rosario
 http://oscam281w.ooguy.com:5000/server/1234/Rosario/20503/index.m3u8?device_id=8dd09d5ddda9
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Religion",Canal LUZ
-http://ziptv.env.pm/live/canaluz.m3u8
+http://ziptv.env.pm/live/canalluz.m3u8
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg"  group-title="Rosario",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25833.png" group-title="Rosario",RTS MEDIOS
