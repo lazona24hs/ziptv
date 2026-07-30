@@ -17,7 +17,9 @@ http://zipserv.env.pm:232/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP" group-title="Abierto",Canal 02
 http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" group-title="Exclusiva",GH - La Casa
-http://planettvweb.com:8091/Carmen65/RMap9748d/116384
+http://ziptv.env.pm/live/gh.m3u8
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/25745.png" group-title="Rosario",El Tres
+http://ziptv.env.pm/live/eltres.m3u8
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" group-title="Rosario",Telefe Rosario
 https://ziptv.env.pm/live/telefe.m3u8
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Religion",Canal LUZ
@@ -26,6 +28,8 @@ http://38.224.175.2:8000/play/a0nl/index.m3u8
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25833.png" group-title="Rosario",RTS MEDIOS
 http://ziptv.env.pm/live/rts.m3u8
+#EXTINF:-1 tvg-logo="https://images.open-epg.com/25833.png" group-title="Rosario",Canal 8
+http://ziptv.env.pm/live/8rosario.m3u8
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Abierto",Canal de la Ciudad
 http://zipserv.env.pm:232/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Abierto",Canal 26
