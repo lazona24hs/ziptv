@@ -93,7 +93,7 @@ http://190.7.19.197:232/play/a044/index.m3u8
 #EXTINF:-1 group-title="Abierto",CarasTV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1  group-title="Abierto",DHE
-http://8.243.126.131:8000/play/a0ey/index.m3u8?hls
+http://38.224.175.2:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="Internacional",HispanTV
 http://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="Internacional",CGTN Español
@@ -127,7 +127,7 @@ https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",TOONCAST
 http://190.7.19.197:232/play/a01w/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Cartoonito
-http://8.243.126.131:8000/play/a0o9/index.m3u8?hls
+http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entrenamiento",Cinecanal
 http://190.7.19.197:232/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="2840" group-title="Entrenamiento",Cinemax
@@ -139,7 +139,7 @@ http://38.224.175.2:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",A&E
 http://190.7.19.197:232/play/a00c/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AMC SERIES
-http://8.243.126.131:8000/play/a0ld/index.m3u8?hls
+http://38.224.175.2:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AMC
 http://138.59.227.20:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AXN
@@ -207,7 +207,7 @@ http://zipserv.env.pm:232/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TNT Series
 http://zipserv.env.pm:232/play/a088/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Golden
-http://8.243.126.131:8000/play/a05s/index.m3u8?hls
+http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Entrenamiento",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entrenamiento",USA Network
@@ -233,17 +233,17 @@ http://190.7.19.197:232/play/a019/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TLC
-http://8.243.126.131:8000/play/a0gc/index.m3u8?hls
+http://38.224.175.2:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Lifetime
 http://190.7.19.197:232/play/a01l/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Pasiones
 http://zipserv.env.pm:232/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
-http://8.243.126.131:8000/play/a0im/index.m3u8?hls
+http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
 http://zipserv.env.pm:232/play/a081/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Food Network
-http://8.243.126.131:8000/play/a0me/index.m3u8?hls
+http://38.224.175.2:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica",Canal de la Música
 http://190.7.19.197:232/play/a094/index.m3u8
 #EXTINF:-1 group-title="Musica",MusicTOP
@@ -253,7 +253,7 @@ http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Musica",HTV
 http://190.7.19.197:232/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Musica",MTV
-http://8.243.126.131:8000/play/a0oa/index.m3u8?hls
+http://38.224.175.2:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="MTVFlowLatino.us@LatAm",MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" group-title="Musica",MTV Biggest Pop
@@ -313,7 +313,7 @@ http://190.7.19.197:232/play/a08p/index.m3u8
 #EXTINF:-1 tvg-id="0106" group-title="Internacional",CHV
 http://190.7.19.197:232/play/a082/index.m3u8
 #EXTINF:-1 tvg-id="0104" group-title="Internacional",TVN
-http://8.243.126.131:8000/play/a0o6/index.m3u8?hls
+http://38.224.175.2:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="0220" tvg-name="RAI Italia" group-title="Abierto",RAI Italia
 http://190.7.19.197:232/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="0209" tvg-name="RT en Español" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT en Español
@@ -325,13 +325,13 @@ http://190.151.80.244:9990/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png"  group-title="Internacional",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional",Europa Europa
-http://8.243.126.131:8000/play/a0e5/index.m3u8?hls
+http://zipserv.env.pm:232/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Internacional" tvg-id="CNN",CNN Internacional
-http://8.243.126.131:8000/play/a0fj/index.m3u8?hls
+http://38.224.175.2:8000/play/a034/index.m3u8
 #EXTINF:-1  group-title="Internacional",Antena3
 http://8.243.126.131:8000/play/a0fc/index.m3u8?hls
 #EXTINF:-1  tvg-id="0615" tvg-name="Telemundo" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png",Telemundo
-http://8.243.126.131:8000/play/a04y/index.m3u8?hls
+http://38.224.175.2:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="0616" group-title="Internacional",Univision
 http://8.243.126.131:8000/play/a0dc/index.m3u8?hls
 #EXTINF:-1 group-title="Internacional",Galicia TV
