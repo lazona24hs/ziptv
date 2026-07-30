@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:1,TELEFE ROSARIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+#EXTVLCOPT:http-origin=https://nowtv.express.com.ar/
+#EXTVLCOPT:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:inputstream.adaptive.license_key=b2011cbe516d44139652945f72781552:971bd2bf2c3ebc1c296624c9edcb6488
+https://anbalancer.express.com.ar/live/c1eds/CANAL_5_HD/SA_DASH_cipix/CANAL_5_HD.mpd?dvr_window_length=30&token=IFiiZFWpH3jgDjugVofy4mpqZkG2KXWc
