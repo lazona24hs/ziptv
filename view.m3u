@@ -359,7 +359,7 @@ https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/P
 #EXTINF:-1 tvg-id="" tvg-name="Latina" group-title="Radios", Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red LT" group-title="Radios", Red LT
-https://ziptv.env.pm/str1.m3u
+http://ziptv.env.pm/live/redlt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pop" group-title="Radios", POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="am1330" group-title="Radios", AM 1330
