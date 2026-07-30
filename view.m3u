@@ -19,9 +19,9 @@ http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" group-title="Exclusiva",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25745.png" group-title="Rosario",El Tres
-tv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA
-#EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" group-title="Rosario",Telefe Rosario
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA?si=9xTzJgNQWEV16FaC
+#EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" group-title="Rosario",Telefe Rosario
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=5ABLiIbQchA?si=LdU2abamJhY7cBav
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Religion",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg"  group-title="Rosario",ViveTV Rosario
@@ -351,11 +351,13 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x992.png" tvg-id="" tvg-name="Radio Mitre" group-title="Radios", Mitre Rosario
 https://media425.digitar.net:8091/mitre.mp3
 #EXTINF:-1 tvg-id="0000" tvg-name="Cadena3" group-title="Radios", Cadena3
-http://181.209.105.115:2525/play/cadena3/index.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-name="Nacional" group-title="Radios", Nacional
-http://los84hijosdelsol.com/live/Mago200200/Mago200200/712712.m3u8
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=Bk471uQ26-4?si=XveP3Mvu68Kubhow
+#EXTINF:-1 tvg-id="" tvg-name="FMVIDA" group-title="Radios", Fm Vida
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA?si=9xTzJgNQWEV16
 #EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Radios",Vorterix
 https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LaRed" group-title="Radios", LaRed
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=1oDRHCaKh4U?si=P8OwkJGpXiZicXhT
 #EXTINF:-1 tvg-id="" tvg-name="Latina" group-title="Radios", Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red LT" group-title="Radios", Red LT
