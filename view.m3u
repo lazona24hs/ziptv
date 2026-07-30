@@ -71,7 +71,7 @@ https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-o
 #EXTINF:-1 group-title="Internacional",Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Internacional",Dnews
-http://ziptv.env.pm/live/redlt.m3u8
+http://ziptv.env.pm/live/index.m3u8
 #EXTINF:-1 tvg-id="1409" group-title="Abierto",TyC Sports
 http://zipserv.env.pm:232/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
