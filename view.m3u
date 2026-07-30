@@ -75,7 +75,7 @@ http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Internacional",Dnews
 http://ziptv.env.pm/live/index.m3u8
 #EXTINF:-1 tvg-id="1409" group-title="Abierto",TyC Sports
-http://zipserv.env.pm:232/play/a04w/index.m3u8
+http://ziptv.env.pm/live/tyc.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
 http://los84hijosdelsol.com/live/Mago200200/Mago200200/722195.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN
@@ -373,9 +373,9 @@ http://138.59.227.20:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="HD",TV Publica HD
 http://138.59.227.20:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="HD",TyC Sports HD
-http://planettvweb.com:8091/Carmen65/RMap9748d/20322
+http://ziptv.env.pm/live/tychd.m3u8
 #EXTINF:-1 group-title="HD",History Channel HD
-http://190.7.19.197:232/play/a03h/index.m3u8
+http://ziptv.env.pm/live/history.m3u8
 #EXTINF:-1 group-title="HD",Comedy Central HD
 http://190.7.19.197:232/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="0510" group-title="HD",Quiero Musica HD
@@ -389,9 +389,9 @@ http://zipserv.env.pm:232/play/a09h/index.m3u8
 #EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
 http://zipserv.env.pm:232/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium 
-http://sur-ziptv.env.pm:8080/vip9061772729656/d24db7c674ae/4828
+http://ziptv.env.pm/live/espnpre.m3u8
 #EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium 
-http://zipserv.env.pm:232/play/a037/index.m3u8
+http://ziptv.env.pm/live/tntspre.m3u8
 #EXTINF:-1 group-title="FreeTV",FREE ACCION
 http://147.75.122.125:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="FreeTV",FREE HITS
