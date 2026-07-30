@@ -123,7 +123,7 @@ http://190.7.19.197:232/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="0304" group-title="ATP/INFANTIL",Disney Channel
 http://190.7.19.197:232/play/a04v/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Disney Junior
-http://8.243.126.131:8000/play/a0oj/index.m3u8?hls
+http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" group-title="ATP/INFANTIL",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",TOONCAST
@@ -331,7 +331,7 @@ http://zipserv.env.pm:232/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Internacional" tvg-id="CNN",CNN Internacional
 http://38.224.175.2:8000/play/a034/index.m3u8
 #EXTINF:-1  group-title="Internacional",Antena3
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/1325.ts
+http://ziptv.env.pm/live/antena3.m3u8
 #EXTINF:-1  tvg-id="0615" tvg-name="Telemundo" group-title="Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/3840px-Telemundo_logo_2018.svg.png",Telemundo
 http://38.224.175.2:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="0616" group-title="Internacional",Univision
