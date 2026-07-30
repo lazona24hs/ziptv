@@ -35,7 +35,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="0904" tvg-name="La Nacion" group-title="Abierto",La Nacion TV
 http://zipserv.env.pm:232/play/a043/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png",TN
-http://a-ziptv.env.pm:8000/play/a097/index.m3u8
+http://ziptv.env.pm/live/tn.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Abierto",C5N
 http://zipserv.env.pm:232/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Abierto",Cronica
@@ -71,7 +71,7 @@ https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-o
 #EXTINF:-1 group-title="Internacional",Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Internacional",Dnews
-http://ziptv.env.pm/live/index.m3u8
+http://ziptv.env.pm/live/redlt.m3u8
 #EXTINF:-1 tvg-id="1409" group-title="Abierto",TyC Sports
 http://zipserv.env.pm:232/play/a04w/index.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
@@ -219,13 +219,13 @@ http://zipserv.env.pm:232/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Universal
 http://zipserv.env.pm:232/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CINEMA
-http://8.243.126.131:8000/play/a0de/index.m3u8?hls
+http://ziptv.env.pm/live/unicinema.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL COMEDY
-http://8.243.126.131:8000/play/a0iu/index.m3u8?hls
+http://ziptv.env.pm/live/unicomedy.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CRIME
 http://8.243.126.131:8000/play/a0it/index.m3u8?hls
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL PREMIERE
-http://8.243.126.131:8000/play/a0iq/index.m3u8?hls
+http://ziptv.env.pm/live/unipr.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL REALITY
 http://8.243.126.131:8000/play/a0is/index.m3u8?hls
 #EXTINF:-1 group-title="Entrenamiento",Warner Channel
