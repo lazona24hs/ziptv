@@ -313,7 +313,7 @@ http://190.108.83.69:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="0213" tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="Abierto",Euronews
 https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-id="0206" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Abierto",France 24 Español
-http://daleplaytv.vip:80/live/JoseGonzales079/8Seek0Fx9xhKCDYK/450412.m3u8
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Abierto",TeleSUR
 http://190.7.19.197:232/play/a08p/index.m3u8
 #EXTINF:-1 tvg-id="0106" group-title="Internacional",CHV
