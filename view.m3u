@@ -221,15 +221,15 @@ http://zipserv.env.pm:232/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Universal
 http://zipserv.env.pm:232/play/a03u/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CINEMA
-http://45.170.130.224:8000/play/a04o/index.m3u8
+http://ziptv.env.pm/live/unicinema.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL COMEDY
-http://45.170.130.224:8000/play/a04p/index.m3u8
+http://ziptv.env.pm/live/unicomedy.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CRIME
-http://8.243.126.131:8000/play/a0it/index.m3u8?hls
+http://ziptv.env.pm/live/unicrime.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL PREMIERE
-http://45.170.130.224:8000/play/a04n/index.m3u8
+http://ziptv.env.pm/live/unipre.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL REALITY
-http://8.243.126.131:8000/play/a0is/index.m3u8?hls
+http://ziptv.env.pm/live/unireality.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Nat Geo
