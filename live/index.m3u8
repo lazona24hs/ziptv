@@ -1,4 +1,5 @@
-
 #EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d1be59dc758ccbab3b567343d5d2915:4744fd0e2fb5aaae961f468925ac2b73
 #EXTINF:1,
 http://45.170.130.224:8000/play/a02m
