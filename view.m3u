@@ -20,9 +20,9 @@ http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" group-title="Exclusiva",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25745.png" group-title="Rosario",El Tres
-http://ziptv.env.pm/live/ros3.m3u8
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=Y6xFUPLBSuw?si=u4BpUaRzwbwRMM2f
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" group-title="Rosario",Telefe Rosario
-http://ziptv.env.pm/live/telefe.m3u8
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=5ABLiIbQchA?si=bfGb4Z7QF8gDS
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Religion",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg"  group-title="Rosario",ViveTV Rosario
