@@ -20,15 +20,15 @@ http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" group-title="Exclusiva",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25745.png" group-title="Rosario",El Tres
-http://ziptv.env.pm/live/3ros.m3u8
+https://cdn.sensa.com.ar/output/ARR2/C3RD/output.mpd
 #EXTINF:-1 tvg-id="2909" tvg-name="Telefe Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" group-title="Rosario",Telefe Rosario
-http://ziptv.env.pm/live/telefe.m3u8
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
 #EXTINF:-1 tvg-id="0629" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" group-title="Religion",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg"  group-title="Rosario",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/25833.png" group-title="Rosario",RTS MEDIOS
-http://ziptv.env.pm/live/rts.m3u8
+https://cdn.sensa.com.ar/output/SMT6/RTSd/output.mpd
 #EXTINF:-1 tvg-logo="" group-title="Rosario",Canal 8
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" group-title="Rosario",Ivision TV VGG
@@ -360,7 +360,7 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-logo="https://images.open-epg.com/x992.png" tvg-id="" tvg-name="Radio Mitre" group-title="Radios", Mitre Rosario
 https://media425.digitar.net:8091/mitre.mp3
 #EXTINF:-1 tvg-id="0000" tvg-name="Cadena3" group-title="Radios", Cadena3
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=Bk471uQ26-4?si=XveP3Mvu68Kubhow
+https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FMVIDA" group-title="Radios", Fm Vida
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA?si=9xTzJgNQWEV16
 #EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://i.imgur.com/RWL10TG.png" group-title="Radios",Vorterix
@@ -375,6 +375,8 @@ http://ziptv.env.pm/live/redlt.m3u8
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="am1330" group-title="Radios", AM 1330
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="futurock" group-title="Radios", FUTUROCK
+https://cdn.sensa.com.ar/output/SMT6/FTRd/output.mpd
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
 http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="HD",Telefe HD
