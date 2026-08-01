@@ -245,11 +245,11 @@ http://zipserv.env.pm:232/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
-http://zipserv.env.pm:232/play/a081/index.m3u8
+http://ziptv.env.pm/live/animalp.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Food Network
 http://38.224.175.2:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica",Canal de la Música
-http://190.7.19.197:232/play/a094/index.m3u8
+https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Musica",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-id="0510" group-title="Musica",Quiero Musica
@@ -267,19 +267,19 @@ https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 group-title="Abierto",Las Estrellas
 http://190.108.83.69:8000/play/a09l/index.m3u8
 #EXTINF:-1 group-title="Abierto",El Gourmet
-http://190.7.19.197:232/play/a01p/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-id="0918" tvg-name="Metro" group-title="Abierto",Metro
-http://190.7.19.197:232/play/a018/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="0920" tvg-name="Encuentro" group-title="Abierto",Encuentro
-http://190.7.19.197:232/play/a013/index.m3u8
+http://a-ziptv.env.pm:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="0924" group-title="Abierto",Rural
-http://190.7.19.197:232/play/a04j/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LYy0Rfo.png" group-title="Abierto",TEC TV
 http://190.7.19.197:232/play/a08c/index.m3u8
 #EXTINF:-1  group-title="Abierto",Canal a
-http://190.7.19.197:232/play/a015/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="Abierto",Volver
-http://190.7.19.197:232/play/a048/index.m3u8
+http://ziptv.env.pm/live/volver.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="Abierto",AUNAR
 http://190.7.19.197:232/play/a08g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5EA74J.png" group-title="Rosario",SOMOS
