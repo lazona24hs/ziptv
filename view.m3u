@@ -402,13 +402,15 @@ http://190.7.19.197:232/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="0510" group-title="HD",Quiero Musica HD
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="HD",TN HD
-http://181.209.105.115:2525/play/tn/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99120b7200764b0c8a4ff59397a75c5c:4affb4dcd2f8d25d2742dd95b50ac591,6c245c08cfb0404495ca441015e484a1:4affb4dcd2f8d25d2742dd95b50ac591,6ef708cb12ef476a9f087823613d684d:4affb4dcd2f8d25d2742dd95b50ac591
+https://megatvorigin01-ccdia.megacable.com.ar/content/live/TN/master_wv.m3u8
 #EXTINF:-1 group-title="HD",TNT Sports HD
 http://zipserv.env.pm:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
-http://zipserv.env.pm:232/play/a09h/index.m3u8
+http://ziptv.env.pm/live/dsport2.m3u8
 #EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
-http://zipserv.env.pm:232/play/a09i/index.m3u8
+http://ziptv.env.pm/live/dsport.m3u8
 #EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium
 http://ziptv.env.pm/live/espnpre.m3u8
 #EXTINF:-1 tvg-id="0404" group-title="Pack Futbol",TNT Sports Premium
