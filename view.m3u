@@ -56,7 +56,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="Abierto" ,El Trece
 http://ziptv.env.pm/live/eltrece.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="Abierto",Telefe
-http://ziptv.env.pm/live/tlfsat.m3u8
+http://158.172.155.130:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Abierto",El Nueve
 https://ziptv.env.pm/live/elnueve.m3u8
 #EXTINF:-1 tvg-id="0922" group-title="Abierto",Ar|12
@@ -77,19 +77,19 @@ http://ziptv.env.pm/live/tyc.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
 http://ziptv.env.pm/live/dsportsplus.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN
-http://ziptv.env.pm/live/espn.m3u8
+http://158.172.155.130:8000/play/a0d8/index.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports
-http://ziptv.env.pm/live/foxs.m3u8
+http://158.172.155.130:8000/play/a09x/index.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 2
-http://ziptv.env.pm/live/espn2.m3u8
+http://158.172.155.130:8000/play/a0d7/index.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 3
-http://ziptv.env.pm/live/espn3.m3u8
+http://158.172.155.130:8000/play/a0d9/index.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 4
-http://ziptv.env.pm/live/espn4.m3u8
+http://158.172.155.130:8000/play/a0am/index.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports 2
-http://ziptv.env.pm/live/foxs2.m3u8
+http://158.172.155.130:8000/play/a0da/index.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports 3
-http://ziptv.env.pm/live/foxs3.m3u8
+http://158.172.155.130:8000/play/a04x/index.m3u8
 #EXTINF:-1 group-title="Abierto" ,DeporTV
 http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="Abierto",AM Sports
@@ -241,7 +241,7 @@ http://38.224.175.2:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Lifetime
 http://a-ziptv.env.pm:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Pasiones
-http://zipserv.env.pm:232/play/a01u/index.m3u8
+http://158.172.155.130:8000/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
