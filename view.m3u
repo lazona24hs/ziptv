@@ -410,12 +410,8 @@ https://megatvorigin01-ccdia.megacable.com.ar/content/live/TN/master_wv.m3u8
 #EXTINF:-1 group-title="HD",TNT Sports HD
 http://zipserv.env.pm:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="0432" group-title="Pack Futbol",DSports 2
-http://ziptv.env.pm/live/dsport2.m3u8
-#EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports 2 OP2
 http://31.43.191.125:8080/vip9061772729656/d24db7c674ae/4750
 #EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports
-http://ziptv.env.pm/live/dsport.m3u8
-#EXTINF:-1 tvg-id="0431" group-title="Pack Futbol",DSports OP2
 http://31.43.191.125:8080/vip9061772729656/d24db7c674ae/4748
 #EXTINF:-1 tvg-id="1418" group-title="Pack Futbol",ESPN Premium
 http://ziptv.env.pm/live/espnpre.m3u8
