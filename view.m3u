@@ -303,8 +303,8 @@ http://190.7.19.197:232/play/a00z/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="0000" tvg-logo="https://i.imgur.com/sm2oUGF.png" group-title="Abierto",CANAL 11 PARANA
 http://190.7.19.197:232/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="0000" tvg-logo="https://i.imgur.com/3lMcBfz.png" group-title="Abierto", SOMOS UNO
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id=""  group-title="Abierto", SOMOS UNO
+https://smt-usr-edge01.sensa.com.ar/output/COR/C12PosD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Abierto",CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/.m3u8
 #EXTINF:-1 tvg-id="0926" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="Abierto",T5
@@ -386,8 +386,8 @@ https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pop" group-title="Radios", POP
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/live/ehlqDJAb3zc?si=TXy3mlB3PyH94xaf
-#EXTINF:-1 tvg-id="" tvg-name="UrbanaPlay" group-title="Radios", UrbanaPlay
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/live/GZgOoVOwb6E?si=9eVrsdSyyPUZHLXd
+#EXTINF:-1 tvg-id="" tvg-name="FTRd" group-title="Radios", FutuROCK
+https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/playlist.m3u8
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
 http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="HD",Telefe HD
