@@ -136,7 +136,7 @@ http://38-252-223-1.latincable.com.pe/Tooncast/index.m3u8
 http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entrenamiento",Cinecanal
 http://a-ziptv.env.pm:8000/play/a089/index.m3u8
-#EXTINF:-1 tvg-id="2840" group-title="Entrenamiento" audio-track="es",Cinemax
+#EXTINF:-1 tvg-id="0840" group-title="Entrenamiento" audio-track="es",Cinemax
 #EXTVLCOPT:http-user-agent=OttPlayer/6.0.4 (Linux;Android 5.1) ExoPlayerLib/2.11.7
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
