@@ -34,11 +34,11 @@ https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" group-title="Rosario",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Abierto",Canal de la Ciudad
-http://zipserv.env.pm:232/play/a01j/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Abierto",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="0904" tvg-name="La Nacion" group-title="Abierto",La Nacion TV
-http://zipserv.env.pm:232/play/a043/index.m3u8
+http://a-ziptv.env.pm:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="0905" tvg-name="TN" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png",TN
 http://ziptv.env.pm/live/tn.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Abierto",C5N
@@ -77,23 +77,23 @@ http://ziptv.env.pm/live/tyc.m3u8
 #EXTINF:-1 tvg-id="0433" group-title="Abierto",Dsport+
 http://ziptv.env.pm/live/dsportsplus.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN
-http://zipserv.env.pm:232/play/a03n/index.m3u8
+http://ziptv.env.pm/live/espn.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports
-http://zipserv.env.pm:232/play/a05u/index.m3u8
+http://ziptv.env.pm/live/foxs.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 2
-http://190.7.19.197:232/play/a03m/index.m3u8
+http://ziptv.env.pm/live/espn2.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 3
-http://190.7.19.197:232/play/a03o/index.m3u8
+http://ziptv.env.pm/live/espn3.m3u8
 #EXTINF:-1 group-title="Abierto",ESPN 4
-http://190.7.19.197:232/play/a05t/index.m3u8
+http://ziptv.env.pm/live/espn4.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports 2
-http://190.7.19.197:232/play/a03p/index.m3u8
+http://ziptv.env.pm/live/foxs2.m3u8
 #EXTINF:-1 group-title="Abierto",Fox Sports 3
-http://190.7.19.197:232/play/a04x/index.m3u8
+http://ziptv.env.pm/live/foxs3.m3u8
 #EXTINF:-1 group-title="Abierto" ,DeporTV
-http://190.7.19.197:232/play/a05d/index.m3u8
+http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 group-title="Abierto",AM Sports
-http://190.7.19.197:232/play/a044/index.m3u8
+http://a-ziptv.env.pm:8000/play/a061/index.m3u8
 #EXTINF:-1 group-title="Abierto",CarasTV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1  group-title="Abierto",DHE
@@ -113,17 +113,17 @@ http://38.224.175.2:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Baby TV
 http://138.59.227.20:8000/play/a06j/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Nick Jr
-http://190.7.19.197:232/play/a01n/index.m3u8
+http://158.172.155.130:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="0303" group-title="ATP/INFANTIL",Nickelodeon
-http://190.7.19.197:232/play/a03e/index.m3u8
+http://158.172.155.130:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Pakapaka
 http://190.7.19.197:232/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="0305" group-title="ATP/INFANTIL",Cartoon Network
 http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="1323" group-title="ATP/INFANTIL",Discovery Kids
-http://190.7.19.197:232/play/a05i/index.m3u8
+http://158.172.155.130:8000/play/a0aa/index.m3u8
 #EXTINF:-1 tvg-id="0304" group-title="ATP/INFANTIL",Disney Channel
-http://190.7.19.197:232/play/a04v/index.m3u8
+http://158.172.155.130:8000/play/a00c/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Disney Junior
 http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" group-title="ATP/INFANTIL",Nickelodeon Teen
@@ -133,35 +133,35 @@ http://190.7.19.197:232/play/a01w/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Cartoonito
 http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entrenamiento",Cinecanal
-http://190.7.19.197:232/play/a05y/index.m3u8
+http://a-ziptv.env.pm:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="2840" group-title="Entrenamiento",Cinemax
-http://190.7.19.197:232/play/a009/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08r/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Comedy Central
 http://190.108.83.69:8000/play/a02z/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Distrito Comedia
 http://38.224.175.2:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",A&E
-http://190.7.19.197:232/play/a00c/index.m3u8
+http://a-ziptv.env.pm:8000/play/a09h/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AMC SERIES
 http://38.224.175.2:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AMC
 http://138.59.227.20:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",AXN
-http://190.7.19.197:232/play/a00b/index.m3u8
+http://a-ziptv.env.pm:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Cine.AR
 http://138.59.227.20:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="0701" group-title="Entrenamiento",Discovery Channel
-http://190.7.19.197:232/play/a065/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="0601" group-title="Entrenamiento",Discovery H&H
-http://190.7.19.197:232/play/a064/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08f/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery Science
-http://190.7.19.197:232/play/a04o/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" group-title="Entrenamiento",Discovery Theater
-http://190.7.19.197:232/play/a053/index.m3u8
+http://a-ziptv.env.pm:8000/play/a074/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery Turbo
 http://a-ziptv.env.pm:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery World
-http://190.7.19.197:232/play/a055/index.m3u8
+http://a-ziptv.env.pm:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery ID
 http://190.7.19.197:232/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="0811" group-title="Entrenamiento",FX
@@ -169,7 +169,7 @@ http://190.7.19.197:232/play/a04z/index.m3u8
 #EXTINF:-1 tvg-id="0851" group-title="Entrenamiento",Film & Arts
 http://190.7.19.197:232/play/a01e/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",E! Entertainment
-http://190.7.19.197:232/play/a00a/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="2813" group-title="Entrenamiento",HBO
 http://zipserv.env.pm:232/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="1814" group-title="Entrenamiento",HBO 2
