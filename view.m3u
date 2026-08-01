@@ -249,7 +249,7 @@ http://38-252-223-1.latincable.com.pe/Pasiones_HD/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
-http://ziptv.env.pm/live/animalp.m3u8
+http://147.75.122.125:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="sunchannelhd" tvg-name="SunChannelHD" group-title="Entretenimiento" audio-track="es",SunChannel
 #EXTVLCOPT:http-user-agent=OttPlayer/6.0.4 (Linux;Android 5.1) ExoPlayerLib/2.11.7
 #EXTVLCOPT:network-caching=1000
@@ -357,7 +357,7 @@ http://a-ziptv.env.pm:8000/play/a07t/index.m3u8
 #EXTINF:-1 group-title="Internacional",Galicia TV
 http://a-ziptv.env.pm:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.ibb.co/S4LSzxQF/0215.jpg" group-title="Internacional" tvg-id="CNN",CNN Internacional
-http://38.224.175.2:8000/play/a034/index.m3u8
+http://147.75.122.125:8000/play/a01a/index.m3u8
 
 #EXTINF:-1 group-title="Religion",ENLACE
 http://152.231.29.139:8000/play/a0e9/index.m3u8
