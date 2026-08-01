@@ -44,7 +44,7 @@ http://ziptv.env.pm/live/tn.m3u8
 #EXTINF:-1 tvg-id="0932" tvg-name="C5N" group-title="Abierto",C5N
 http://a-ziptv.env.pm:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="0934" tvg-name="Crónica TV" group-title="Abierto",Cronica
-http://ziptv.env.pm/live/cronica.m3u8
+http://a-ziptv.env.pm:8000/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="0210" group-title="Abierto",CNN en Espanol
 http://a-ziptv.env.pm:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-id="0222" tvg-name="A24" group-title="Abierto",A24
@@ -243,7 +243,7 @@ http://38.224.175.2:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Lifetime
 http://a-ziptv.env.pm:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Pasiones
-http://158.172.155.130:8000/play/a08g/index.m3u8
+http://38-252-223-1.latincable.com.pe/Pasiones_HD/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
