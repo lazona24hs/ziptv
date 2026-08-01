@@ -117,7 +117,7 @@ http://158.172.155.130:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="0303" group-title="ATP/INFANTIL",Nickelodeon
 http://158.172.155.130:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Pakapaka
-http://190.7.19.197:232/play/a08e/index.m3u8
+http://a-ziptv.env.pm:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="0305" group-title="ATP/INFANTIL",Cartoon Network
 http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="1323" group-title="ATP/INFANTIL",Discovery Kids
@@ -129,7 +129,7 @@ http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" group-title="ATP/INFANTIL",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",TOONCAST
-http://190.7.19.197:232/play/a01w/index.m3u8
+http://ziptv.env.pm/live/tooncast.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Cartoonito
 http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entrenamiento",Cinecanal
@@ -164,26 +164,26 @@ http://a-ziptv.env.pm:8000/play/a062/index.m3u8
 http://a-ziptv.env.pm:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery ID
 http://ziptv.env.pm/live/did.m3u8
-#EXTINF:-1 tvg-id="0811" group-title="Entrenamiento",FX
-http://190.7.19.197:232/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="0811" group-title="Entrenamiento", FX
+http://a-ziptv.env.pm:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="0851" group-title="Entrenamiento",Film & Arts
-http://190.7.19.197:232/play/a01e/index.m3u8
+http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",E! Entertainment
 http://a-ziptv.env.pm:8000/play/a08z/index.m3u8
 #EXTINF:-1 tvg-id="2813" group-title="Entrenamiento",HBO
-http://zipserv.env.pm:232/play/a05e/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="1814" group-title="Entrenamiento",HBO 2
-http://zipserv.env.pm:232/play/a05g/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",HBO Family
 http://zipserv.env.pm:232/play/a01m/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",HBO POP
 http://190.108.83.69:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",HBO Plus
-http://zipserv.env.pm:232/play/a05f/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",HBO Signature
-http://zipserv.env.pm:232/play/a04g/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06h/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",HBO Xtreme
-http://zipserv.env.pm:232/play/a017/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 tvg-id="1806" group-title="Entrenamiento",Sony
@@ -191,33 +191,33 @@ http://181.209.105.115:2525/play/sonyhd/index.m3u8
 #EXTINF:-1 tvg-id="1810" group-title="Entrenamiento",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="0829" group-title="Entrenamiento",Space
-http://zipserv.env.pm:232/play/a050/index.m3u8
+http://a-ziptv.env.pm:8000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="2801" group-title="Entrenamiento",Star Channel
-http://zipserv.env.pm:232/play/a05w/index.m3u8
+http://a-ziptv.env.pm:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Studio Universal
-http://zipserv.env.pm:232/play/a049/index.m3u8
+http://a-ziptv.env.pm:8000/play/a067/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TCM
-http://zipserv.env.pm:232/play/a014/index.m3u8
+http://a-ziptv.env.pm:8000/play/a065/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento"",HGTV
-http://zipserv.env.pm:232/play/a04n/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TNT
-http://zipserv.env.pm:232/play/a060/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08b/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TNT Novelas
-http://zipserv.env.pm:232/play/a00g/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08e/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TNT Series
-http://zipserv.env.pm:232/play/a088/index.m3u8
+http://a-ziptv.env.pm:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Entrenamiento",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entrenamiento",USA Network
-http://zipserv.env.pm:232/play/a04a/index.m3u8
+http://a-ziptv.env.pm:8000/play/a068/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Universal
-http://zipserv.env.pm:232/play/a03u/index.m3u8
+http://a-ziptv.env.pm:8000/play/a09i/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CINEMA
 http://ziptv.env.pm/live/unicinema.m3u8
 #EXTINF:-1 group-title="Entrenamiento",UNIVERSAL COMEDY
@@ -231,15 +231,15 @@ http://ziptv.env.pm/live/unireality.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Nat Geo
-http://190.7.19.197:232/play/a03s/index.m3u8
+http://a-ziptv.env.pm:8000/play/a09f/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",History 2
-http://190.7.19.197:232/play/a019/index.m3u8
+http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",TLC
 http://38.224.175.2:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Lifetime
-http://190.7.19.197:232/play/a01l/index.m3u8
+http://a-ziptv.env.pm:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Pasiones
 http://zipserv.env.pm:232/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Hola TV
