@@ -377,6 +377,8 @@ https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="pop" group-title="Radios", POP
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/live/ehlqDJAb3zc?si=TXy3mlB3PyH94xaf
+#EXTINF:-1 tvg-id="" tvg-name="UrbanaPlay" group-title="Radios", UrbanaPlay
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/live/GZgOoVOwb6E?si=9eVrsdSyyPUZHLXd
 #EXTINF:-1 tvg-id="0915" tvg-name="El Trece" group-title="HD" ,El Trece HD 
 http://138.59.227.20:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="0909" tvg-name="Telefe" group-title="HD",Telefe HD
