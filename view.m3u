@@ -325,7 +325,7 @@ http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="0204" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/TeleSUR.png" group-title="Internacional",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="0106" group-title="Internacional",CHV
-http://190.7.19.197:232/play/a082/index.m3u8
+http://152.231.29.139:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-id="0104" group-title="Internacional",TVN
 http://38.224.175.2:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="0616" group-title="Internacional",Univision
@@ -358,7 +358,7 @@ http://a-ziptv.env.pm:8000/play/a06v/index.m3u8
 http://38.224.175.2:8000/play/a034/index.m3u8
 
 #EXTINF:-1 group-title="Religion",ENLACE
-http://190.7.19.197:232/play/a020/index.m3u8
+http://152.231.29.139:8000/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="0638" group-title="Religion",ESNE
 http://45.170.130.224:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="1625" group-title="Religion",EWTN
