@@ -131,127 +131,127 @@ https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 http://38-252-223-1.latincable.com.pe/Tooncast/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL",Cartoonito
 http://38.224.175.2:8000/play/a08k/index.m3u8
-#EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entrenamiento",Cinecanal
+#EXTINF:-1 tvg-id="1846" tvg-name="CineCanal" group-title="Entretenimiento",Cinecanal
 http://a-ziptv.env.pm:8000/play/a089/index.m3u8
-#EXTINF:-1 tvg-id="0840" group-title="Entrenamiento" audio-track="es",Cinemax
+#EXTINF:-1 tvg-id="0840" group-title="Entretenimiento" audio-track="es",Cinemax
 #EXTVLCOPT:http-user-agent=OttPlayer/6.0.4 (Linux;Android 5.1) ExoPlayerLib/2.11.7
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Comedy Central
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central
 http://190.108.83.69:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Distrito Comedia
+#EXTINF:-1 group-title="Entretenimiento",Distrito Comedia
 http://38.224.175.2:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",A&E
+#EXTINF:-1 group-title="Entretenimiento",A&E
 http://a-ziptv.env.pm:8000/play/a09h/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",AMC SERIES
+#EXTINF:-1 group-title="Entretenimiento",AMC SERIES
 http://38.224.175.2:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",AMC
+#EXTINF:-1 group-title="Entretenimiento",AMC
 http://138.59.227.20:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",AXN
+#EXTINF:-1 group-title="Entretenimiento",AXN
 http://a-ziptv.env.pm:8000/play/a09e/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Cine.AR
+#EXTINF:-1 group-title="Entretenimiento",Cine.AR
 http://138.59.227.20:8000/play/a069/index.m3u8
-#EXTINF:-1 tvg-id="0701" group-title="Entrenamiento",Discovery Channel
+#EXTINF:-1 tvg-id="0701" group-title="Entretenimiento",Discovery Channel
 http://a-ziptv.env.pm:8000/play/a08g/index.m3u8
-#EXTINF:-1 tvg-id="0601" group-title="Entrenamiento",Discovery H&H
+#EXTINF:-1 tvg-id="0601" group-title="Entretenimiento",Discovery H&H
 http://a-ziptv.env.pm:8000/play/a08f/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Discovery Science
+#EXTINF:-1 group-title="Entretenimiento",Discovery Science
 http://a-ziptv.env.pm:8000/play/a06p/index.m3u8
-#EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" group-title="Entrenamiento",Discovery Theater
+#EXTINF:-1 tvg-id="0704" tvg-name="Discovery Theater" group-title="Entretenimiento",Discovery Theater
 http://a-ziptv.env.pm:8000/play/a074/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Discovery Turbo
+#EXTINF:-1 group-title="Entretenimiento",Discovery Turbo
 http://a-ziptv.env.pm:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Discovery World
+#EXTINF:-1 group-title="Entretenimiento",Discovery World
 http://a-ziptv.env.pm:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Entrenamiento",Discovery ID
 http://ziptv.env.pm/live/did.m3u8
-#EXTINF:-1 tvg-id="0811" group-title="Entrenamiento", FX
+#EXTINF:-1 tvg-id="0811" group-title="Entretenimiento", FX
 http://a-ziptv.env.pm:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="0851" group-title="Entrenamiento",Film & Arts
+#EXTINF:-1 tvg-id="0851" group-title="Entretenimiento",Film & Arts
 http://a-ziptv.env.pm:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",E! Entertainment
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment
 http://a-ziptv.env.pm:8000/play/a08z/index.m3u8
-#EXTINF:-1 tvg-id="2813" group-title="Entrenamiento",HBO
+#EXTINF:-1 tvg-id="2813" group-title="Entretenimiento",HBO
 http://a-ziptv.env.pm:8000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-id="1814" group-title="Entrenamiento",HBO 2
+#EXTINF:-1 tvg-id="1814" group-title="Entretenimiento",HBO 2
 http://a-ziptv.env.pm:8000/play/a07o/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",HBO Family
+#EXTINF:-1 group-title="Entretenimiento",HBO Family
 http://zipserv.env.pm:232/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",HBO POP
+#EXTINF:-1 group-title="Entretenimiento",HBO POP
 http://190.108.83.69:8000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",HBO Plus
+#EXTINF:-1 group-title="Entretenimiento",HBO Plus
 http://a-ziptv.env.pm:8000/play/a07p/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",HBO Signature
+#EXTINF:-1 group-title="Entretenimiento",HBO Signature
 http://a-ziptv.env.pm:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",HBO Xtreme
+#EXTINF:-1 group-title="Entreteniiento",HBO Xtreme
 http://a-ziptv.env.pm:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Cine Premium
+#EXTINF:-1 group-title="Entretenimiento",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
-#EXTINF:-1 tvg-id="1806" group-title="Entrenamiento",Sony
+#EXTINF:-1 tvg-id="1806" group-title="Entretenimiento",Sony
 http://181.209.105.115:2525/play/sonyhd/index.m3u8
-#EXTINF:-1 tvg-id="1810" group-title="Entrenamiento",Sony Movies
+#EXTINF:-1 tvg-id="1810" group-title="Entretenimiento",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
-#EXTINF:-1 tvg-id="0829" group-title="Entrenamiento",Space
+#EXTINF:-1 tvg-id="0829" group-title="Entretenimiento",Space
 http://a-ziptv.env.pm:8000/play/a071/index.m3u8
-#EXTINF:-1 tvg-id="2801" group-title="Entrenamiento",Star Channel
+#EXTINF:-1 tvg-id="2801" group-title="Entretenimiento",Star Channel
 http://a-ziptv.env.pm:8000/play/a087/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Cine Latino
+#EXTINF:-1 group-title="Entretenimiento",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Studio Universal
+#EXTINF:-1 group-title="Entretenimiento",Studio Universal
 http://a-ziptv.env.pm:8000/play/a067/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TCM
+#EXTINF:-1 group-title="Entretenimiento",TCM
 http://a-ziptv.env.pm:8000/play/a065/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento"",HGTV
+#EXTINF:-1 group-title="Entretenimiento"",HGTV
 http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TLNovelas
+#EXTINF:-1 group-title="Entretenimiento",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TNT
+#EXTINF:-1 group-title="Entretenimiento",TNT
 http://a-ziptv.env.pm:8000/play/a08b/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TNT Novelas
+#EXTINF:-1 group-title="Entretenimiento",TNT Novelas
 http://a-ziptv.env.pm:8000/play/a08e/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TNT Series
+#EXTINF:-1 group-title="Entretenimiento",TNT Series
 http://a-ziptv.env.pm:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Golden
+#EXTINF:-1 group-title="Entretenimiento",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Entrenamiento",KANAL DRAMA
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" group-title="Entretenimiento",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
-#EXTINF:-1 group-title="Entrenamiento",USA Network
+#EXTINF:-1 group-title="Entretenimiento",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Universal
+#EXTINF:-1 group-title="Entretenimiento",Universal
 http://a-ziptv.env.pm:8000/play/a09i/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CINEMA
+#EXTINF:-1 group-title="Entretenimiento",UNIVERSAL CINEMA
 http://ziptv.env.pm/live/unicinema.m3u8
-#EXTINF:-1 group-title="Entrenamiento",UNIVERSAL COMEDY
+#EXTINF:-1 group-title="Entretenimiento",UNIVERSAL COMEDY
 http://ziptv.env.pm/live/unicomedy.m3u8
-#EXTINF:-1 group-title="Entrenamiento",UNIVERSAL CRIME
+#EXTINF:-1 group-title="Entretenimiento",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
-#EXTINF:-1 group-title="Entrenamiento",UNIVERSAL PREMIERE
+#EXTINF:-1 group-title="Entretenimiento",UNIVERSAL PREMIERE
 http://ziptv.env.pm/live/unipre.m3u8
-#EXTINF:-1 group-title="Entrenamiento",UNIVERSAL REALITY
+#EXTINF:-1 group-title="Entretenimiento",UNIVERSAL REALITY
 http://ziptv.env.pm/live/unireality.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Warner Channel
+#EXTINF:-1 group-title="Entretenimiento",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Nat Geo
+#EXTINF:-1 group-title="Entretenimiento",Nat Geo
 https://cdn1tlinkgo.tlink.cl/natgeohd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Entrenamiento",History 2
+#EXTINF:-1 group-title="Entretenimiento",History 2
 http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",History Channel
+#EXTINF:-1 group-title="Entretenimiento",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",TLC
+#EXTINF:-1 group-title="Entretenimiento",TLC
 http://38.224.175.2:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Lifetime
+#EXTINF:-1 group-title="Entretenimiento",Lifetime
 http://a-ziptv.env.pm:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Pasiones
+#EXTINF:-1 group-title="Entretenimiento",Pasiones
 http://38-252-223-1.latincable.com.pe/Pasiones_HD/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Hola TV
+#EXTINF:-1 group-title="Entretenimiento",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",ANIMAL PLANET
+#EXTINF:-1 group-title="Entretenimiento",ANIMAL PLANET
 http://147.75.122.125:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="sunchannelhd" tvg-name="SunChannelHD" group-title="Entretenimiento" audio-track="es",SunChannel
 #EXTVLCOPT:http-user-agent=OttPlayer/6.0.4 (Linux;Android 5.1) ExoPlayerLib/2.11.7
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/SunChannelHD/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Food Network
+#EXTINF:-1 group-title="Entretenimiento",Food Network
 http://38.224.175.2:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="0534" tvg-name="Canal de la Música" group-title="Musica",Canal de la Música
 https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
