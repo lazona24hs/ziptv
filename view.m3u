@@ -215,19 +215,19 @@ http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar (src09)",E! Entertainment
 http://a-ziptv.env.pm:8000/play/a08z/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" tvg-id="HBO.ar (src09)",HBO
-http://a-ziptv.env.pm:8000/play/a07m/index.m3u8
+http://181.209.105.115:2525/play/hbo/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-id="HBO2.ar (src09)",HBO 2
-http://a-ziptv.env.pm:8000/play/a07o/index.m3u8
+http://181.209.105.115:2525/play/hbo2/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" tvg-id="HBOFMEH.ar (m3u4u)",HBO Family
-http://zipserv.env.pm:232/play/a01m/index.m3u8
+http://181.209.105.115:2525/play/hbofamily/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="POPLAE.ar (m3u4u)",HBO POP
 http://190.108.83.69:8000/play/a03k/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="HBOPlus.ar (src09)",HBO Plus
-http://a-ziptv.env.pm:8000/play/a07p/index.m3u8
+http://181.209.105.115:2525/play/hboplus/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_gray_360w_270h.png" tvg-id="HBOSignature.ar (src09)",HBO Signature
-http://a-ziptv.env.pm:8000/play/a06h/index.m3u8
+http://181.209.105.115:2525/play/hbosignature/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
-http://a-ziptv.env.pm:8000/play/a06g/index.m3u8
+http://181.209.105.115:2525/play/hboxtreme/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="Canal.Sony.(Argentina).ar (src05)",Sony
