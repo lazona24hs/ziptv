@@ -61,8 +61,19 @@ http://ziptv.env.pm/live/eltrece.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-id="0916" tvg-name="El Nueve" group-title="Abierto",El Nueve
 https://ziptv.env.pm/live/elnueve.m3u8
-#EXTINF:-1 tvg-id="0922" group-title="Abierto",Ar|12
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/123007.ts
+#EXTINF:-1 tvg-id="0922" group-title="Abierto" proxy="true",Ar|12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive_manifest_type=hls
+#KODIPROP:inputstream.adaptive_manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive_play_timeshift_buffer
+#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-continuous
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:no-audio-desync
+#EXTVLCOPT:avcodec-hw=auto
+#EXTVLCOPT:avcodec-fast
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=JrmCaXL5GZs&proxy=1
 #EXTINF:-1 tvg-id="0964" tvg-name="Canal E" tvg-logo="https://files.catbox.moe/h069t6.webp" group-title="Abierto",Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0936" tvg-name="Ciudad Magazine" group-title="Abierto",Ciudad Magazine
