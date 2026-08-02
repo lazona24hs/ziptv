@@ -1,4 +1,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy55e33f995qzy39p" x-generator="https://m3u4u.com/"
+playlist-name="ZIPTV" x-logo-url="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP"
+#PLAYLIST:ZIPTV
+
+####
+#Hello World!
+####
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",Los Simpson 24/7
