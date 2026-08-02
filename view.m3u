@@ -163,7 +163,7 @@ http://a-ziptv.env.pm:8000/play/a074/index.m3u8
 http://a-ziptv.env.pm:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Discovery World
 http://a-ziptv.env.pm:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="Entrenamiento",Discovery ID
+#EXTINF:-1 group-title="Entretenimiento",Discovery ID
 http://ziptv.env.pm/live/did.m3u8
 #EXTINF:-1 tvg-id="0811" group-title="Entretenimiento", FX
 http://a-ziptv.env.pm:8000/play/a070/index.m3u8
