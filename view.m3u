@@ -256,7 +256,7 @@ http://a-ziptv.env.pm:8000/play/a08e/index.m3u8
 http://a-ziptv.env.pm:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar (src09)",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" tvg-id="",KANAL DRAMA
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="Canal.USA.Network.(Argentina).ar (src05)",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
