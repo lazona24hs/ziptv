@@ -32,6 +32,9 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" group-title="Rosario",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png",Canal 9 Multivisión
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-id="0919" tvg-name="Canal de la Ciudad" group-title="Abierto",Canal de la Ciudad
 http://a-ziptv.env.pm:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="0917" tvg-name="Canal 26" group-title="Abierto",Canal 26
@@ -183,7 +186,7 @@ http://190.108.83.69:8000/play/a03k/index.m3u8
 http://a-ziptv.env.pm:8000/play/a07p/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",HBO Signature
 http://a-ziptv.env.pm:8000/play/a06h/index.m3u8
-#EXTINF:-1 group-title="Entreteniiento",HBO Xtreme
+#EXTINF:-1 group-title="Entretenimiento",HBO Xtreme
 http://a-ziptv.env.pm:8000/play/a06g/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
