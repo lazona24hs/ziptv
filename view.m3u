@@ -118,10 +118,10 @@ http://190.7.19.197:232/play/a08c/index.m3u8
 http://a-ziptv.env.pm:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="VOLV.ar (m3u4u)",Volver
 http://a-ziptv.env.pm:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.imgur.com/BfaCaZF.png" tvg-id="",AUNAR
-http://190.7.19.197:232/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.imgur.com/BfaCaZF.png" tvg-id="",Canal 10 MDP
+https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="GARAGETV.ar (m3u4u)",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
+https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Canal 9 Resistencia 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png" tvg-id="BravoTv.ar (src09)",Bravo TV
