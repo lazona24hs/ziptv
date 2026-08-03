@@ -5,6 +5,10 @@
 # Categorias: Streaming/Radios/Entretenimiento/Musica/Noticias
 # Pais: ARG
 #
+#
+#EXTINF:-1 tvg-name="Contrarreloj (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf8bmlofyWyRaaaWC9gR79It8qO.jpg" group-title="VOD",Contrarreloj 2023
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/14720.mkv
+#
 ####
 #Hello World!
 ####
