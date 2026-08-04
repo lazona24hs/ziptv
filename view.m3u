@@ -618,6 +618,62 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",TNT Sports HD
 http://zipserv.env.pm:232/play/a037/index.m3u8
 #
+#EXTINF:-1 tvg-name="15 minutos (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TAwctnWZCJ17Ayo2Ckmwme7t3w.jpg" ,15 minutos 2001
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo antes de ser yo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Yo antes de ser yo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papá a Cargo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qox5OvknYs1XJqw3aS3d9CvSEKO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Papá a Cargo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Is God Is (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u007P0KcvbVMsNUUJkVAnUqzOpm.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Is God Is (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Do Not Enter (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Do Not Enter (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Backrooms: Sin salida (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YTb97zytlWRWZb7HrOiEhk4e6f.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Backrooms: Sin salida (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/561103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Susana y Elvira: Sin plan B (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/amqNq4a3cugpf48nfpZFJwnFzbb.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Susana y Elvira: Sin plan B (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82GKBbN5ovZJiz5H2dSbDBrHcJ2.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Golden Kamuy: Asalto a la prisión de Abashiri (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A una isla de ti (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3siQa1NL6L2wIiZ0r6fKacBIp.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",A una isla de ti (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El último gran golpe (2026) | Subtitulado (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlkeH0s7dDxcnuPcHBqAyXFUxqN.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El último gran golpe (2026) | Subtitulado (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Ases (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMprIGQqKpZ9cD3BjEynVB1sEOn.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El Ases (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boulevard (2026) | Castellano (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Boulevard (2026) | Castellano (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amarga Navidad (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Amarga Navidad (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/560351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucky Lu (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvSNREwGqNj7ksVschtlUUJ9hYu.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Lucky Lu (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/558932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Portero Muy Improbable (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qIny8wROLKOEe89YHJgkMHiBxA.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Un Portero Muy Improbable (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Furious (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryOVzYoGhiOn4QtkwSa8pUTivPO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",The Furious (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Día D: Bajo presión (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0PeqfICHgKnQ2f8YxyRJAg62fK.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El Día D: Bajo presión (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Normal (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KmqwmCPrrs06qHFmwx4kzB58kJ.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Normal (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el final (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SKN8QZptMm8KfCCQtEmyh1Zkgz.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Hasta el final (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pasajero del diablo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q9s0EfBsZVpg2iScoJBVf3WOxWO.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El pasajero del diablo (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/557718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pasado acecha (2026) (D)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/03729127c42d8097f8b0741f910797a7f87ef5966d14596b04bf76da2693cfa3.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",El pasado acecha (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/554847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deseo en Manhattan (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvRBvOyDifX3HNgqscIBtQO9jtP.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Deseo en Manhattan (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/554844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Simpsons: Simpsley (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkJefER6Ym4v2KC1v4qK34AlcVo.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",The Simpsons: Simpsley (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/551852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Strung (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWdpUOhnJ8uWWO1G1vbyUsCliov.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Strung (2026) (D)
+http://somoseluno.blog:80/movie/Bertha123/Bertha123/551481.mp4
+#
+#
+#
+#
+#
+#
 #
 #
 #
