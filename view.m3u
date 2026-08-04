@@ -63,7 +63,7 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg" tvg-id="TVPUHD.ar (m3u4u)",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16044_dark_360w_270h.png" tvg-id="ElTrece.ar (src09)",El Trece
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/57064.ts
+http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar (src09)",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar (src09)",El Nueve
@@ -330,8 +330,6 @@ https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_gray_360w_270h.png" tvg-id="66a11a21a79dea0008aa90ca",MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-id="",Dnews
-http://38.19.16.151:8000/play/a0a3.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s145673_dark_360w_270h.png" tvg-id="",RCN Noticias
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TEFEI.ar (m3u4u)",Telefe Internacional
