@@ -618,6 +618,168 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 #EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",TNT Sports HD
 http://zipserv.env.pm:232/play/a037/index.m3u8
 #
+#
+#EXTINF:-1  tvg-name="Luciérnagas en El Mozote (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNFOpANYLJpq0q4rdKs0m2Zwdiu.jpg" group-title="ACCION PLUS",Luciérnagas en El Mozote 2025
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/218604.mkv
+#EXTINF:-1  tvg-name="Plan de escape 3 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNj1p2rItPNlUXck8yLFIC39T1u.jpg" group-title="ACCION PLUS",Plan de escape 3 2019
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5318.mkv
+#EXTINF:-1  tvg-name="Contrarreloj (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf8bmlofyWyRaaaWC9gR79It8qO.jpg" group-title="ACCION PLUS",Contrarreloj 2023
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/14720.mkv
+#EXTINF:-1  tvg-name="Asesinos de élite (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3Ep5s2af2Fy8hlWCH3lbLGZdAH.jpg" group-title="ACCION PLUS",Asesinos de élite 2011
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5547.mkv
+#EXTINF:-1  tvg-name="Sol naciente (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atwHncyqlt4eckGdwo8Wln8scUK.jpg" group-title="ACCION PLUS",Sol naciente 1993
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/214295.mkv
+#EXTINF:-1  tvg-name="Cold Sweat (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGlBvuqolGpJL4ctFNwPWDR9UlX.jpg" group-title="ACCION PLUS",Cold Sweat 1970
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/213929.mkv
+#EXTINF:-1  tvg-name="'V for Vendetta' Unmasked (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUHco53IU01Mat763FrcPJaGjmD.jpg" group-title="ACCION PLUS",V for Vendetta Unmasked 2006
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6297.mkv
+#EXTINF:-1  tvg-name="(Daylight) Pánico en el túnel (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8UZUYB06tPCixHMM3ymbinYhjg.jpg" group-title="ACCION PLUS",Daylight Pánico en el túnel 1996
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5217.mkv
+#EXTINF:-1  tvg-name="...Y si no, nos enfadamos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uX4FWqSblo88dfxNELoIhBg6e5J.jpg" group-title="ACCION PLUS",...Y si no,nos enfadamos 2022
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6312.mkv
+#EXTINF:-1  tvg-name="007: Casino Royale (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDqq99AIXTpl8lpKQjhk0Xspgsp.jpg" group-title="ACCION PLUS",007 Casino Royale 1967
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5138.mkv
+#EXTINF:-1  tvg-name="007: Contra Goldfinger (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bC3MDg51xgXkd77BmxkOP02Qfvo.jpg" group-title="ACCION PLUS",007 Contra Goldfinger 1964
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5406.mkv
+#EXTINF:-1  tvg-name="007: La espía que me amó (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVijn81lkbtpNLQGTF1wfyU6HmU.jpg" group-title="ACCION PLUS",007 La espía que me amó 1977
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6194.mkv
+#EXTINF:-1  tvg-name="007: Spectre (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NCrCV6tR0Uafp8eVYiZbRsvrAv.jpg" group-title="ACCION PLUS",007 Spectre 2015
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5940.mkv
+#EXTINF:-1  tvg-name="10 asesinos magníficos (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfefSc7jpDhklJrAMVxl0ONEDCJ.jpg" group-title="ACCION PLUS",10 asesinos magníficos 1977
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4914.mkv
+#EXTINF:-1  tvg-name="10 Minutos Para Morir (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AvUEMUZHvlDPpSi5YOjNz0ox6.jpg" group-title="ACCION PLUS",10 Minutos Para Morir 2019
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4915.mkv
+#EXTINF:-1  tvg-name="10 palomas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9uWE05XqlJozwXaklJoLEDEKue.jpg" group-title="ACCION PLUS",10 palomas 2021
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4916.mkv
+#EXTINF:-1  tvg-name="10000 años despues (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyQBg6NsxpFmTAMBPaT69MBdh5w.jpg" group-title="ACCION PLUS",10000 años despues 2015
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4936.mkv
+#EXTINF:-1  tvg-name="12 Desafíos 2: Reloaded (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vPqEwaYU1uV94YXW1ejktuCpQc.jpg" group-title="ACCION PLUS",12 Desafíos 2 Reloaded 2013
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4918.mkv
+#EXTINF:-1  tvg-name="12 trampas (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gybSP8ZNUCoVPFD7d5t0U69zOu2.jpg" group-title="ACCION PLUS",12 trampas 2009
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4917.mkv
+#EXTINF:-1  tvg-name="13 Asesinos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiKnZ7KNcpWBjFHudImi9RB3hqY.jpg" group-title="ACCION PLUS",13 Asesinos 2010
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4920.mkv
+#EXTINF:-1  tvg-name="15 minutos (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TAwctnWZCJ17Ayo2Ckmwme7t3w.jpg" group-title="ACCION PLUS",15 minutos 2001
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4923.mkv
+#EXTINF:-1  tvg-name="16 Calles (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDv96UbDxkmMNx2hQKIlR0mPfIQ.jpg" group-title="ACCION PLUS",16 Calles 2006
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4924.mkv
+#EXTINF:-1  tvg-name="2 Guns (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0osDL7XE6v8pseLPoo1P6TaiDx.jpg" group-title="ACCION PLUS",2 Guns 2013
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4909.mkv
+#EXTINF:-1  tvg-name="2097 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAyoUnIWjROunlcIq6YSbVavD5F.jpg" group-title="ACCION PLUS",2097 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4934.mkv
+#EXTINF:-1  tvg-name="24 horas para vivir (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S313NP60E79qFUaZPOJ3n8wcxP.jpg" group-title="ACCION PLUS",24 horas para vivir 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4928.mkv
+#EXTINF:-1  tvg-name="27: El  Club de los Malditos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg" group-title="ACCION PLUS",27 El Club de los Malditos 2018
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4929.mkv
+#EXTINF:-1  tvg-name="48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHE4O3MjvH8Pv3qXEYaRtKbTwdR.jpg" group-title="ACCION PLUS",48 horas 1982
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4930.mkv
+#EXTINF:-1  tvg-name="4Got10 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43P6TrUiRUdd8aC4Z6KjaBz0fnA.jpg" group-title="ACCION PLUS",4Got10 2015
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4910.mkv
+#EXTINF:-1  tvg-name="6 Balas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ArlTk9TosvIJVmy9fwpD9XFRkw.jpg" group-title="ACCION PLUS",6 Balas 2012
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4911.mkv
+#EXTINF:-1  tvg-name="6 días (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hz3gpUqya5QSZmW7ewvlonw3BAm.jpg" group-title="ACCION PLUS",6 días 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4912.mkv
+#EXTINF:-1  tvg-name="60 Segundos (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48a89gSBAu52u6VpcAdRyV5sNJI.jpg" group-title="ACCION PLUS",60 Segundos 2000
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/91939.mkv
+#EXTINF:-1  tvg-name="A espaldas de la ley (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igjmoArWqD6p0O5fQOfSKzGHMBq.jpg" group-title="ACCION PLUS",A espaldas de la ley 1989
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/99051.mkv
+#EXTINF:-1  tvg-name="A fondo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucazjbwjbLc4iSPPR28ENAgTLLh.jpg" group-title="ACCION PLUS",A fondo 2024
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/123040.mkv
+#EXTINF:-1  tvg-name="A prueba de balas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79DpRL8GW4i1DZ3lKRJqllboaWa.jpg" group-title="ACCION PLUS",A prueba de balas 1996
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5122.mkv
+#EXTINF:-1  tvg-name="A prueba de balas 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGILkFnRrpdiNtDaHeekGZSn5o5.jpg" group-title="ACCION PLUS",A prueba de balas 2 2020
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5123.mkv
+#EXTINF:-1  tvg-name="Abducted (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOlwow34Ze0fZHtRBkOBHI4xkQh.jpg" group-title="ACCION PLUS",Abducted 2018
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4937.mkv
+#EXTINF:-1  tvg-name="Abducted (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT8F9XKglXC9Mtzxg8k1sWQgno7.jpg" group-title="ACCION PLUS",Abducted 2020
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4938.mkv
+#EXTINF:-1  tvg-name="Abierto hasta el amanecer (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CMzEBEYfm6JJ4qSnswHJunSXxm.jpg" group-title="ACCION PLUS",Abierto hasta el amanecer 1996
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5368.mkv
+#EXTINF:-1  tvg-name="Abierto hasta el amanecer 2: Texas Blood Money (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRMRkrkhWlMA0hbzVvA8T6Adi2b.jpg" group-title="ACCION PLUS",Abierto hasta el amanecer 2 Texas Blood Money 1999
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5369.mkv
+#EXTINF:-1  tvg-name="Abismo (Black Water-Abyss) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA3k9LyE2togmIuNnOgw6SmzWus.jpg" group-title="ACCION PLUS",Abismo Black Water-Abyss 2020
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5085.mkv
+#EXTINF:-1  tvg-name="Accident man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYWAwmbx3lG3ssoWYl69GOtsYDU.jpg" group-title="ACCION PLUS",Accident man 2018
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4942.mkv
+#EXTINF:-1  tvg-name="Accidente (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYltPToPSvV0c3HCxje2yWVzajf.jpg" group-title="ACCION PLUS",Accidente 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4941.mkv
+#EXTINF:-1  tvg-name="Acción Policial (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49tAJI3EgjLUIR8BrZULTbJoHZy.jpg" group-title="ACCION PLUS",Acción Policial 2013
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5774.mkv
+#EXTINF:-1  tvg-name="Aceleración Máxima (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gUQU7RobEhARoUzB2ksclr5qDv.jpg" group-title="ACCION PLUS",Aceleración Máxima 2019
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4940.mkv
+#EXTINF:-1  tvg-name="Acorralado (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYHRcd9p3rV3t3w8MHGaA7wdIBl.jpg" group-title="ACCION PLUS",Acorralado 1982
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5347.mkv
+#EXTINF:-1  tvg-name="Acorralado (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOTNPoR82gJ5OXK9hGMJfiA2Ab2.jpg" group-title="ACCION PLUS",Acorralado 1984
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4943.mkv
+#EXTINF:-1  tvg-name="Actos de Venganza (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llp6oHKjNd0VwthPgSkh8lA7Iub.jpg" group-title="ACCION PLUS",Actos de Venganza 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4945.mkv
+#EXTINF:-1  tvg-name="Adrenalina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouYVojGBbTy70n9bu0Q4qzLlQyW.jpg" group-title="ACCION PLUS",Adrenalina 2022
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4948.mkv
+#EXTINF:-1  tvg-name="Aerosol (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAqFQ3djnuEYSHRSq1j41cQhply.jpg" group-title="ACCION PLUS",Aerosol 2015
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4949.mkv
+#EXTINF:-1  tvg-name="Agente 007 contra el Dr. No (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/51Sy8Uu8Qwz6WWeqY17zHqXZU5d.jpg" group-title="ACCION PLUS",Agente 007 contra el Dr. No 1962
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5270.mkv
+#EXTINF:-1  tvg-name="Agente cinturón negro (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53B5aAkXlbT1zufzJGblpR0y7tE.jpg" group-title="ACCION PLUS",Agente cinturón negro 2024
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/123041.mkv
+#EXTINF:-1  tvg-name="Agente Cody Banks: Súper espía (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfXlGYwHdG9Jw286iftY9TiEPX5.jpg" group-title="ACCION PLUS",Agente Cody Banks Súper espía 2003
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4951.mkv
+#EXTINF:-1  tvg-name="Agente Fortune: El gran engaño (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IRm9NM3EPYu4MU59F079vZzn2k.jpg" group-title="ACCION PLUS",Agente Fortune El gran engaño 2023
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5728.mkv
+#EXTINF:-1  tvg-name="Agente internacional (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZ4PQlxChT0uJLaYFwMhghMlCd9.jpg" group-title="ACCION PLUS",Agente internacional 2009
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6089.mkv
+#EXTINF:-1  tvg-name="Agentes 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgU2aIuDdPyKtEi8oZ6yzohpfVF.jpg" group-title="ACCION PLUS",Agentes 355 2022
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5998.mkv
+#EXTINF:-1  tvg-name="Agentes Vanguard (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCYN3bccjOG0w857JTf5UOKsPEH.jpg" group-title="ACCION PLUS",Agentes Vanguard 2020
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6290.mkv
+#EXTINF:-1  tvg-name="Air Collision (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDB2qi2roARWyDzDGWo5LjDpxE9.jpg" group-title="ACCION PLUS",Air Collision 2012
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4955.mkv
+#EXTINF:-1  tvg-name="Air Force One (El avión del presidente) (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92bpypxAUwzlrhoFGtEyXVkGZrL.jpg" group-title="ACCION PLUS",Air Force One El avión del presidente 1997
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4956.mkv
+#EXTINF:-1  tvg-name="Air Force One Down (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hbhI9xOWMHHtQCB5mVOuqp33cJ.jpg" group-title="ACCION PLUS",Air Force One Down 2024
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/123042.mkv
+#EXTINF:-1  tvg-name="Airline Disaster (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z34cm1bbD1wf6uJJeQY0SVdgpCk.jpg" group-title="ACCION PLUS",Airline Disaster 2010
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4957.mkv
+#EXTINF:-1  tvg-name="Airplane vs Volcano (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mh8x0PnFxrEkfICzHGtwhuR7BqE.jpg" group-title="ACCION PLUS",Airplane vs Volcano 2014
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4958.mkv
+#EXTINF:-1  tvg-name="Ajin: Demi-Human (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fINvKAGwJomcALdjB8DWmOC9ZQK.jpg" group-title="ACCION PLUS",Ajin Demi-Human 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4959.mkv
+#EXTINF:-1  tvg-name="Al filo de la muerte (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VMtt5dUN0RiikUsJcOJDqAlgNA.jpg" group-title="ACCION PLUS",Al filo de la muerte 2002
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5425.mkv
+#EXTINF:-1  tvg-name="Al otro lado de la ley (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWyXANkbpWtFwxUjXZTf8VnzkjZ.jpg" group-title="ACCION PLUS",Al otro lado de la ley 2019
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5272.mkv
+#EXTINF:-1  tvg-name="Al servicio secreto de su Majestad (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDwfb63S7bNkKrmOpOcNWJItLVF.jpg" group-title="ACCION PLUS",Al servicio secreto de su Majestad 1969
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5726.mkv
+#EXTINF:-1  tvg-name="Alerta Máxima (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTjwvyBiKNW86e0MOk30r64zWQ.jpg" group-title="ACCION PLUS",Alerta Máxima 1992
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4960.mkv
+#EXTINF:-1  tvg-name="Alerta máxima (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTjwvyBiKNW86e0MOk30r64zWQ.jpg" group-title="ACCION PLUS",Alerta máxima 1992
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6276.mkv
+#EXTINF:-1  tvg-name="Alerta máxima 2 (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v453pRRshPun2gxRRBnNg8AIT0A.jpg" group-title="ACCION PLUS",Alerta máxima 2 1995
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6277.mkv
+#EXTINF:-1  tvg-name="Alta tensión (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwJV5Vr4XbLWfPqYUTCJwTEhZUq.jpg" group-title="ACCION PLUS",Alta tensión 1987
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6120.mkv
+#EXTINF:-1  tvg-name="Amanecer rojo (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z1NgiJ3cq5tasdfKVuAmcJpXyK.jpg" group-title="ACCION PLUS",Amanecer rojo 1984
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5803.mkv
+#EXTINF:-1  tvg-name="Amaran (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVP3rAtgBMFH6RrSa6r4aP4wv1T.jpg" group-title="ACCION PLUS",Amaran 2024
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/123043.mkv
+#EXTINF:-1  tvg-name="Ambulance: Plan de huida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7Lnz3ayJyW9IWmbA0M19vpBbu4.jpg" group-title="ACCION PLUS",Ambulance Plan de huida 2022
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4968.mkv
+#EXTINF:-1  tvg-name="American Assassin (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UFz4TrbVdwBaJTz0rZn3PFI5kp.jpg" group-title="ACCION PLUS",American Assassin 2017
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4970.mkv
+#EXTINF:-1  tvg-name="American Badger (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcc6KxSMQITHWwo0t7IVEqcwHPB.jpg" group-title="ACCION PLUS",American Badger 2021
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4971.mkv
+#EXTINF:-1  tvg-name="American Heist (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjcn8ChaK8qehD4dk99NHkkFNdW.jpg" group-title="ACCION PLUS",American Heist 2014
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4972.mkv
+#EXTINF:-1  tvg-name="American Insurrection (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fbKki3vl4tRNqm3G4B0wMak7Vk.jpg" group-title="ACCION PLUS",American Insurrection 2021
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4973.mkv
+#EXTINF:-1  tvg-name="American Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isN2CPsxUNyU8z5ig1xxoXfHOF5.jpg" group-title="ACCION PLUS",American Night 2021
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4975.mkv
+#EXTINF:-1  tvg-name="American Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg" group-title="ACCION PLUS",American Sicario 2021
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4982.mkv
+#EXTINF:-1  tvg-name="Amor a quemarropa (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wPdBa1Nk70zUfDA7nKbDoynZM1.jpg" group-title="ACCION PLUS",Amor a quemarropa 1993
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/6266.mkv
+#EXTINF:-1  tvg-name="Amor a reacción (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKKfUv04b8Tr871H9F9NYQ0vFQL.jpg" group-title="ACCION PLUS",Amor a reacción 1957
+http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/5509.mkv
+#EXTINF:-1  tvg-name="Anatomy of an Antihero: Redemption (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3
 #EXTINF:-1 tvg-name="15 minutos (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TAwctnWZCJ17Ayo2Ckmwme7t3w.jpg" ,15 minutos 2001
 http://tv.zeuspro.xyz:8080/movie/yas2510/CWemdbrjGe/4923.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Yo antes de ser yo (2026) (D)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSSsjV7hvVS6gBaP9Sua5DEFaEh.jpg" group-title="⏩ FULL ESTRENOS 2026⏪ ",Yo antes de ser yo (2026) (D)
