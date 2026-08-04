@@ -117,6 +117,8 @@ https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782263.png" tvg-id="ArgentinisimaSatelital.ar (src09)",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",Power Max TV 
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",CarasTV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="DHE.ar (src09)",DHE
