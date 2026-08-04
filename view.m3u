@@ -387,8 +387,8 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 https://media425.digitar.net:8091/mitre.mp3
 #EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="RadioCadena.ar (src09)",Cadena3
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",Fm Vida
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA?si=9xTzJgNQWEV16
+#EXTINF:-1 group-title="Radios" tvg-id="1130" tvg-name="Mas FM" tvg-logo="https://cdn.m3u.cl/logo/1130_Mas_FM.png",Mas FM
+https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/RWL10TG.png" tvg-id="",Vorterix
 https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png" tvg-id="radio",Latina
