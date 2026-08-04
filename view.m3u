@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/w16vy55e33f995qzy39p" x-generator="https://m3u4u.com/"
 # ZIPTV
-# Canales: 295
+# Canales: 292
 # Grupo: ZipTV
 # Categorias: Streaming/Radios/Entretenimiento/Musica/Noticias
 # Pais: ARG
@@ -126,14 +126,15 @@ http://190.7.19.197:232/play/a08c/index.m3u8
 http://a-ziptv.env.pm:8000/play/a06d/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="VOLV.ar (m3u4u)",Volver
 http://a-ziptv.env.pm:8000/play/a066/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.imgur.com/BfaCaZF.png" tvg-id="",Canal 10 MDP
+#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Canal 10 MDP
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="GARAGETV.ar (m3u4u)",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Canal 9 Resistencia 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://cdn.m3u.cl/logo/1736_Bravo_TV.png" tvg-id="BravoTv.ar (src09)",Bravo TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#
+#
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://i.imgur.com/sm2oUGF.png" tvg-id="Once", Once Parana
 http://190.7.19.197:232/play/a006/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",SOMOS UNO
@@ -388,8 +389,6 @@ https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=_wQtERpHYSA?si=9xTzJgNQWEV16
 #EXTINF:-1 group-title="Radios" tvg-logo="https://i.imgur.com/RWL10TG.png" tvg-id="",Vorterix
 https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
-#EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="La red",LaRed
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/watch?v=1oDRHCaKh4U?si=P8OwkJGpXiZicXhT
 #EXTINF:-1 group-title="Radios" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7527492_FDEFEA55854A1D7B.png" tvg-id="radio",Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",Red LT
@@ -398,10 +397,8 @@ http://ziptv.env.pm/live/redlt.m3u8
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",AM 1330
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
-#EXTINF:-1 group-title="Radios" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_white_360w_270h.png" tvg-id="",POP
-https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https://www.youtube.com/live/ehlqDJAb3zc?si=TXy3mlB3PyH94xaf
-#EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",FutuROCK
-https://smt-usr-edge01.sensa.com.ar/output/SMT6/FTRd/playlist.m3u8
+#EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",Rock and Pop
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-id="63dac1b78795f300086d5ca6",TikTok Radio en Español
 https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="0432",DSports 2
