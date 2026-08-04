@@ -70,7 +70,7 @@ http://200.91.32.158:8080/telefehdvalle/index.m3u8
 http://somoseluno.blog:80/live/Bertha123/Bertha123/81272.ts
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="ARG12.ar (m3u4u)",Ar|12
 http://ziptv.env.pm/live/ar12.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/h069t6.webp" tvg-id="",Canal E
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109331_dark_360w_270h.png" tvg-id="NetTV.ar (src09)",Net TV
