@@ -318,6 +318,8 @@ http://177.234.249.178:8888/MTV/index.m3u8
 #EXTVLCOPT:http-user-agent=OttPlayer/6.0.4 (Linux;Android 5.1) ExoPlayerLib/2.11.7
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/HTV/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-id="KpopMix.ar@SD",Kpop Mix
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="Canal.MTV.(Argentina).ar (src05)",MTV
 http://38.224.175.2:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="" tvg-id="",MTV FlowLatino
