@@ -593,7 +593,9 @@ https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="61b793ccf571b80007b7a610" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="ZIPTV",Adrenalina Pura TV
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="ZIPTV",Runtime
-https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:-1 tvg-id="bdb3cb29453a137748dfaeadae2f9d2b" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/bdb3cb29453a137748dfaeadae2f9d2b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1765320641655_jira-generated-image-static-b6689660-306d-406e-adcb-d123fd2f979c.png" group-title="ZIPTV",TV Amor
+https://jmp2.uk/rok-bdb3cb29453a137748dfaeadae2f9d2b.m3u8
 #EXTINF:-1 tvg-id="63a084934734f30007457b2c" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="ZIPTV",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 tvg-id="64025592953da40008bf9238" tvg-logo="https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png" group-title="ZIPTV",Obsesión por los Autos
