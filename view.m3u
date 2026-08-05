@@ -175,7 +175,7 @@ http://158.172.155.130:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-id="Nickelodeon.ar (src09)",Nickelodeon
 http://158.172.155.130:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" tvg-id="PakaPaka.ar (src09)",Pakapaka
-http://a-ziptv.env.pm:8000/play/a05t/index.m3u8
+http://181.209.105.115:2525/play/pakapaka/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_light_360w_270h.png" tvg-id="CartoonNetwork.ar (src09)",Cartoon Network
 http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DKLAHD.ar (m3u4u)",Discovery Kids
@@ -199,7 +199,7 @@ http://a-ziptv.env.pm:8000/play/a089/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/Cinemax/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" tvg-id="COMCLAH.ar (m3u4u)",Comedy Central
-http://190.108.83.69:8000/play/a02z/index.m3u8
+http://181.209.105.115:2525/play/comedycentral/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" tvg-id="",Distrito Comedia
 http://38.224.175.2:8000/play/a03y/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AEMX.ar (m3u4u)",A&E
@@ -213,15 +213,15 @@ http://a-ziptv.env.pm:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="CINEAR.ar (m3u4u)",Cine.AR
 http://138.59.227.20:8000/play/a069/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" tvg-id="DISCCHD.ar (m3u4u)",Discovery Channel
-http://38.224.175.2:8000/play/a0u1/index.m3u8
+http://181.209.105.115:2525/play/discoverychannel/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" tvg-id="DiscoveryHomeAndHealth.ar (src09)",Discovery H&H
-http://38.224.175.2:8000/play/a080/index.m3u8
+http://181.209.105.115:2525/play/discoveryhh/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DiscoveryScience.ar (src09)",Discovery Science
-http://38.224.175.2:8000/play/a00g/index.m3u8
+http://181.209.105.115:2525/play/discoveryscience/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" tvg-id="DiscoveryTheater.ar (src09)",Discovery Theater
-http://38.224.175.2:8000/play/a06w/index.m3u8
+http://181.209.105.115:2525/play/discoverytheater/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RMTEM.png_gray_360w_270h.png" tvg-id="DTURBOL.ar (m3u4u)",Discovery Turbo
-http://38.224.175.2:8000/play/a0u9/index.m3u8
+http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" tvg-id="DiscoveryWorld.ar (src09)",Discovery World
 http://181.209.105.115:2525/play/discoveryworld/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar (src09)",Discovery ID
