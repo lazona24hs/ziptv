@@ -68,8 +68,7 @@ http://somoseluno.blog/live/Bertha123/Bertha123/81269.ts
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar (src09)",El Nueve
 http://somoseluno.blog:80/live/Bertha123/Bertha123/81272.ts
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="ARG12.ar (m3u4u)",Ar|12
-http://ziptv.env.pm/live/ar12.m3u8
+
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
@@ -79,6 +78,12 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="NGFederal.ar@SD",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="", +Cine
+http://190.102.242.130:25461/live/tpowercine/1234567/31.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",CarasTV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="DHE.ar (src09)",DHE
+http://38.224.175.2:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="", +CineClassic
 http://190.102.242.130:25461/live/cineclasiipowe/12345/143.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="", +CineFamily
@@ -87,8 +92,7 @@ http://190.102.242.130:25461/live/familypower/12345/149.m3u8
 http://190.102.242.130:25461/live/cinrwarpower/12345678/190.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="", +CineTerror
 http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="", +Cine
-http://190.102.242.130:25461/live/tpowercine/1234567/31.m3u8
+
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar (src09)",Las Estrellas
 http://190.108.83.69:8000/play/a09l/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar (src09)",El Gourmet
@@ -127,10 +131,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",Power Max TV 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",CarasTV
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="DHE.ar (src09)",DHE
-http://38.224.175.2:8000/play/a05h/index.m3u8
+
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
