@@ -9,17 +9,17 @@
 ####
 #Hello World!
 ####
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",El Chavo 24/7
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/450bd279c7c3592fda2b30292f5b91318074310478981123429.jpeg" tvg-id="",El Chavo 24/7
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",Los Simpson 24/7
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/compose2357099384686532056.jpg" tvg-id="",Los Simpson 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",Dragon Ball 24/7
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
 https://lbgo.bozztv.com/ssh101/ssh101/dbslat/playlist.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",RetroPLUS
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000b4c4820e9d7784d8dcdb21965561226375969621839.png" tvg-id="",RetroPLUS
 https://lbgo.bozztv.com/ssh101/ssh101/liveretroplustv/playlist.m3u8
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP" tvg-id="",Canal 01 Senal Eventos
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://drive.usercontent.google.com/download?id=19zyP2qmXz9MI3WnvMyPfbGB3b8W381fg" tvg-id="",GH - La Casa
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar (src09)",El Tres
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
