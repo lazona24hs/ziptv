@@ -94,21 +94,21 @@ http://190.102.242.130:25461/live/cinrwarpower/12345678/190.m3u8
 http://190.102.242.130:25461/live/terrorpower/123456789/99.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar (src09)",Las Estrellas
-http://190.108.83.69:8000/play/a09l/index.m3u8
+http://181.209.105.115:2525/play/elcanaldelasestrellas/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar (src09)",El Gourmet
-http://a-ziptv.env.pm:8000/play/a07u/index.m3u8
+http://181.209.105.115:2525/play/elgourmet/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar (src09)",Metro
-http://a-ziptv.env.pm:8000/play/a06l/index.m3u8
+http://181.209.105.115:2525/play/metro/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" tvg-id="ENCU.ar (m3u4u)",Encuentro
-http://a-ziptv.env.pm:8000/play/a05s/index.m3u8
+http://181.209.105.115:2525/play/encuentro/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="RURAL.ar (m3u4u)",Rural
-http://a-ziptv.env.pm:8000/play/a06k/index.m3u8
+http://181.209.105.115:2525/play/rural/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar (src09)",Canal a
-http://a-ziptv.env.pm:8000/play/a06d/index.m3u8
+http://181.209.105.115:2525/play/canala/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="VOLV.ar (m3u4u)",Volver
-http://a-ziptv.env.pm:8000/play/a066/index.m3u8
+http://181.209.105.115:2525/play/volver/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Canal 10 MDP
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="GARAGETV.ar (m3u4u)",Garage TV
@@ -156,7 +156,7 @@ http://181.209.105.115:2525/play/foxsports3/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" tvg-id="DeporTv.ar (src09)",DeporTV
 http://181.209.105.115:2525/play/deportv/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="AmericaSports.ar (src09)",AM Sports
-http://a-ziptv.env.pm:8000/play/a061/index.m3u8
+http://181.209.105.115:2525/play/amsport/index.m3u8
 
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
@@ -307,7 +307,7 @@ http://138.59.227.20:8000/play/a090/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://38-252-223-1.latincable.com.pe/TLC/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="LIFSURH.ar (m3u4u)",Lifetime
-http://a-ziptv.env.pm:8000/play/a07l/index.m3u8
+http://181.209.105.115:2525/play/lifetime/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar (src09)",Pasiones
 http://38-252-223-1.latincable.com.pe/Pasiones_HD/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="HolaTV.ar (src09)",Hola TV
