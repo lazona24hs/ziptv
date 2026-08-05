@@ -440,7 +440,7 @@ http://147.75.122.125:8000/play/a038/index.m3u8
 http://147.75.122.125:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/a8e9a317-4831-496f-af6f-e724217c3b28-17265047293585361201671434501.jpg" tvg-id="",FREE TV CLASICO
 http://147.75.122.125:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="FreeTV" tvg-logo="" tvg-id="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/bc1ba35f-b802-4af0-8681-44f288491bd5-1707856407840669212181802048.jpg",FREE TV DRAMA
+#EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/bc1ba35f-b802-4af0-8681-44f288491bd5-1707856407840669212181802048.jpg",FREE TV DRAMA
 http://147.75.122.125:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/cf935835-f4b2-4d0a-8bf3-1c7f0c684ecb-17078565005770165670641801296.jpg",FREE TV FAMILIAR
 http://147.75.122.125:8000/play/a036/index.m3u8
