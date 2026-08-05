@@ -430,11 +430,11 @@ http://ziptv.env.pm/live/espnpre.m3u8
 http://neodneoxqha.top:8080/3811785064784/a5386a457864/9980
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/053884f7-7614-44e9-a2e8-73f8705d966b-17078563193998970048101848050.jpg" tvg-id="",FREE ACCION
 http://147.75.122.125:8000/play/a03e/index.m3u8
-#EXTINF:-1 group-title="FreeTV" tvg-logo="" tvg-id="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
+#EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
 http://147.75.122.125:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
 http://147.75.122.125:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="FreeTV" tvg-logo="" tvg-id="",FREE SABER MAS
+#EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/e494073dec0082cc7fb5310e627e31a65724569045594146294.jpg" tvg-id="",FREE SABER MAS
 http://147.75.122.125:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-17078565745022270220199205173.jpg" tvg-id="",FREE TV BANDA
 http://147.75.122.125:8000/play/a03b/index.m3u8
