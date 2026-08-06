@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>M3U Generator Pro</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&display=swap');
+
+  :root {
+    --bg: #050a0f;
+    --panel: #0a1520;
+    --border: #00d4ff22;
+    --accent: #00d4ff;
+    --accent2: #ff6b35;
+    --green: #00ff88;
+    --fb: #1877f2;
+    --fb-glow: #1877f244;
+    --text: #c8e6f0;
+    --muted: #4a7a8a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Share Tech Mono', monospace;
+    min-height: 100vh;
+    background-image:
+      radial-gradient(ellipse at 20% 20%, #00d4ff08 0%, transparent 60%),
+      radial-gradient(ellipse at 80% 80%, #1877f208 0%, transparent 60%),
+      linear-gradient(180deg, #050a0f 0%, #060d18 100%);
+  }
+
+  .scanlines {
+    position: fixed; inset: 0; pointer-events: none; z-index: 999;
+    background: repeating-linear-gradient(0deg, transparent, transparent 2px, #00000008 2px, #00000008 4px);
+  }
+
+  header {
+    text-align: center;
+    padding: 40px 20px 20px;
+    border-bottom: 1px solid var(--border);
+    position: relative;
+  }
+
+  header::after {
+    content: '';
+    position: absolute;
+    bottom: -1px; left: 50%; transform: translateX(-50%);
+    width: 280px; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent), var(--fb), transparent);
+  }
+
+  h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: clamp(1.4rem, 4vw, 2.8rem);
+    font-weight: 900;
+    color: var(--accent);
+    letter-spacing: 4px;
+    animation: glow-pulse 3s ease-in-out infinite;
+  }
+
+  .subtitle { color: var(--muted); font-size: 0.8rem; margin-top: 6px; letter-spacing: 2px; }
+
+  .container { max-width: 960px; margin: 0 auto; padding: 30px 20px; display: grid; gap: 20px; }
+
+  .mode-tabs { display: flex; gap: 0; border: 1px solid var(--border); border-radius: 4px; overflow: hidden; }
+
+  .mode-tab {
+    flex: 1; padding: 14px 10px; text-align: center;
+    font-family: 'Orbitron', sans-serif; font-size: 0.7rem; letter-spacing: 2px;
+    cursor: pointer; background: var(--panel); color: var(--muted);
+    border-right: 1px solid var(--border); transition: all 0.3s; user-select: none;
+  }
+  .mode-tab:last-child { border-right: none; }
+  .mode-tab.active-web { color: var(--accent); background: #00d4ff11; border-bottom: 2px solid var(--accent); }
+  .mode-tab.active-fb  { color: var(--fb);     background: #1877f211; border-bottom: 2px solid var(--fb); }
+  .mode-tab.active-lst { color: var(--green);  background: #00ff8811; border-bottom: 2px solid var(--green); }
+  .mode-icon { font-size: 1.2rem; display: block; margin-bottom: 4px; }
+
+  .panel {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 4px; padding: 24px; position: relative; overflow: hidden;
+  }
+  .panel.fb-panel { border-color: #1877f233; }
+  .panel::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--accent), transparent); opacity: 0.6;
+  }
+  .panel.fb-panel::before { background: linear-gradient(90deg, transparent, var(--fb), transparent); }
+
+  .panel-title {
+    font-family: 'Orbitron', sans-serif; font-size: 0.75rem; color: var(--accent);
+    letter-spacing: 3px; text-transform: uppercase; margin-bottom: 18px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .panel-title.fb-title { color: var(--fb); }
+  .panel-title::before { content: '▶'; color: var(--accent2); }
+  .panel-title.fb-title::before { content: 'f'; color: var(--fb); font-weight: bold; font-style: italic; }
+
+  label { display: block; font-size: 0.72rem; color: var(--muted); letter-spacing: 2px; margin-bottom: 6px; text-transform: uppercase; }
+
+  input, textarea {
+    width: 100%; background: #070e18; border: 1px solid #00d4ff33;
+    border-radius: 3px; color: var(--text); font-family: 'Share Tech Mono', monospace;
+    font-size: 0.85rem; padding: 10px 14px; outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s; margin-bottom: 16px;
+  }
+  input:focus, textarea:focus { border-color: var(--accent); box-shadow: 0 0 12px #00d4ff22; }
+  .fb-panel input:focus, .fb-panel textarea:focus { border-color: var(--fb); box-shadow: 0 0 12px var(--fb-glow); }
+  textarea { resize: vertical; min-height: 70px; }
+
+  .btn {
+    font-family: 'Orbitron', sans-serif; font-size: 0.72rem; font-weight: 700;
+    letter-spacing: 2px; padding: 12px 22px; border: none; border-radius: 3px;
+    cursor: pointer; transition: all 0.2s; text-transform: uppercase; white-space: nowrap;
+  }
+  .btn-primary { background: linear-gradient(135deg, #00d4ff, #0090bb); color: #000; box-shadow: 0 0 20px #00d4ff44; }
+  .btn-primary:hover { box-shadow: 0 0 35px #00d4ff88; transform: translateY(-1px); }
+  .btn-fb { background: linear-gradient(135deg, #1877f2, #0d5bb5); color: #fff; box-shadow: 0 0 20px var(--fb-glow); }
+  .btn-fb:hover { box-shadow: 0 0 35px #1877f266; transform: translateY(-1px); }
+  .btn-secondary { background: transparent; color: var(--accent2); border: 1px solid var(--accent2); }
+  .btn-secondary:hover { background: #ff6b3511; }
+  .btn-green { background: linear-gradient(135deg, #00ff88, #00bb66); color: #000; box-shadow: 0 0 20px #00ff8844; }
+  .btn-green:hover { box-shadow: 0 0 35px #00ff8888; transform: translateY(-1px); }
+  .btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
+
+  .steps { display: flex; gap: 0; border: 1px solid var(--border); border-radius: 4px; overflow: hidden; }
+  .step {
+    flex: 1; text-align: center; padding: 12px 8px;
+    font-family: 'Orbitron', sans-serif; font-size: 0.6rem; letter-spacing: 1px;
+    color: var(--muted); background: var(--panel); border-right: 1px solid var(--border);
+    transition: all 0.3s; cursor: pointer;
+  }
+  .step:last-child { border-right: none; }
+  .step.active    { color: var(--accent); background: #00d4ff11; }
+  .step.active-fb { color: var(--fb);    background: #1877f211; }
+  .step .step-num { font-size: 1rem; display: block; margin-bottom: 4px; }
+
+  .status { padding: 10px 14px; border-radius: 3px; font-size: 0.78rem; margin-bottom: 16px; display: none; white-space: pre-wrap; word-break: break-all; line-height: 1.6; }
+  .status.loading { display: block; border: 1px solid #ffaa00; color: #ffaa00; background: #ffaa0011; }
+  .status.success { display: block; border: 1px solid var(--green); color: var(--green); background: #00ff8811; }
+  .status.error   { display: block; border: 1px solid #ff4444; color: #ff4444; background: #ff444411; }
+  .status.info    { display: block; border: 1px solid var(--fb); color: var(--fb); background: #1877f211; }
+
+  .entries-list { display: grid; gap: 10px; }
+  .entry-card {
+    background: #070e18; border: 1px solid #00d4ff22; border-radius: 3px;
+    padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; gap: 10px;
+  }
+  .entry-card.fb-card { border-color: #1877f233; }
+  .entry-info { flex: 1; overflow: hidden; }
+  .entry-name { font-size: 0.85rem; color: var(--accent); margin-bottom: 3px; }
+  .entry-name.fb-name { color: var(--fb); }
+  .entry-meta { font-size: 0.68rem; color: var(--muted); }
+  .entry-tag { display: inline-block; font-size: 0.6rem; padding: 1px 6px; border-radius: 2px; margin-right: 6px; font-family: 'Orbitron', sans-serif; letter-spacing: 1px; }
+  .tag-web { background: #00d4ff22; color: var(--accent); border: 1px solid #00d4ff44; }
+  .tag-fb  { background: #1877f222; color: var(--fb);     border: 1px solid #1877f244; }
+  .btn-remove { background: transparent; border: 1px solid #ff444444; color: #ff4444; font-family: 'Share Tech Mono', monospace; font-size: 0.75rem; padding: 5px 10px; cursor: pointer; border-radius: 3px; flex-shrink: 0; transition: all 0.2s; }
+  .btn-remove:hover { background: #ff444422; }
+
+  .output-box { background: #020810; border: 1px solid #00ff8833; border-radius: 3px; padding: 16px; font-size: 0.78rem; line-height: 1.9; white-space: pre-wrap; word-break: break-all; min-height: 100px; max-height: 500px; overflow-y: auto; }
+
+  .empty-state { text-align: center; padding: 40px; color: var(--muted); font-size: 0.8rem; letter-spacing: 2px; }
+  .divider { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .spinner { display: inline-block; width: 14px; height: 14px; border: 2px solid #ffaa0033; border-top-color: #ffaa00; border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: middle; margin-right: 6px; }
+
+  @keyframes glow-pulse {
+    0%, 100% { text-shadow: 0 0 30px var(--accent), 0 0 60px #00d4ff44; }
+    50%       { text-shadow: 0 0 50px var(--accent), 0 0 100px #00d4ff66; }
+  }
+
+  .section { display: none; }
+  .section.active { display: block; }
+
+  .counter-badge { display: inline-block; background: var(--accent2); color: #000; font-family: 'Orbitron', sans-serif; font-size: 0.65rem; padding: 2px 8px; border-radius: 2px; margin-left: 8px; }
+
+  .info-box { background: #1877f20a; border: 1px solid #1877f233; border-radius: 3px; padding: 14px 16px; font-size: 0.74rem; color: #5b9cf6; line-height: 1.8; margin-bottom: 16px; }
+  .info-box strong { color: var(--fb); }
+
+  @media (max-width: 600px) { .mode-tab { font-size: 0.6rem; padding: 12px 6px; } .btn { font-size: 0.65rem; padding: 10px 14px; } }
+</style>
+</head>
+<body>
+<div class="scanlines"></div>
+
+<header>
+  <h1>M3U GENERATOR PRO</h1>
+  <p class="subtitle">// WEB STREAMS + FACEBOOK LIVE → M3U PLAYLIST //</p>
+</header>
+
+<div class="container">
+
+  <!-- MODE TABS -->
+  <div class="mode-tabs">
+    <div class="mode-tab active-web" id="tabWeb" onclick="setMode('web')">
+      <span class="mode-icon">🌐</span>WEB STREAM
+    </div>
+    <div class="mode-tab" id="tabFb" onclick="setMode('fb')">
+      <span class="mode-icon" style="color:#1877f2;font-weight:bold;font-style:italic">f</span>FACEBOOK LIVE
+    </div>
+    <div class="mode-tab" id="tabList" onclick="setMode('list')">
+      <span class="mode-icon">📋</span>LISTA / GENERAR
+    </div>
+  </div>
+
+  <!-- ═══════════════ WEB STREAM ═══════════════ -->
+  <div class="section active" id="modeWeb">
+    <div class="steps">
+      <div class="step active" id="ws1" onclick="goWebStep(1)"><span class="step-num">01</span>URL PÁGINA</div>
+      <div class="step" id="ws2" onclick="goWebStep(2)"><span class="step-num">02</span>CONFIGURAR</div>
+    </div>
+
+    <div id="webStep1">
+      <div class="panel">
+        <div class="panel-title">EXTRAER STREAM URL DE PÁGINA WEB</div>
+        <label>LINK DE LA PÁGINA</label>
+        <input type="url" id="pageUrl" placeholder="https://emisorasgt.com/canal-3/" />
+        <div id="fetchStatus" class="status"></div>
+        <label>URL DEL STREAM (extraída o ingresa manualmente)</label>
+        <textarea id="streamUrl" placeholder="https://emisorasgt.com//player.php?url=https%3A%2F...&#10;o directamente: https://...stream.m3u8"></textarea>
+        <div class="btn-row">
+          <button class="btn btn-primary" onclick="fetchStreamUrl()">⚡ ANALIZAR URL</button>
+          <button class="btn btn-secondary" onclick="goWebStep(2)">MANUAL →</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="webStep2" style="display:none;">
+      <div class="panel">
+        <div class="panel-title">CONFIGURAR ENTRADA WEB</div>
+        <label>NOMBRE DEL CANAL</label>
+        <input type="text" id="wChannelName" placeholder="Canal 3 Guatemala" />
+        <label>LOGO / IMAGEN (URL directa)</label>
+        <input type="url" id="wLogoUrl" placeholder="https://i.ytimg.com/vi/RRmCvFvliO4/maxresdefault.jpg" />
+        <label>CATEGORÍA / GRUPO</label>
+        <input type="text" id="wGroupTitle" placeholder="✅ TV GUATEMALA ✅" />
+        <label>ENLACE STREAM</label>
+        <textarea id="wStreamUrl" placeholder="https://...stream.m3u8 o player.php?url=..."></textarea>
+        <div class="btn-row">
+          <button class="btn btn-secondary" onclick="goWebStep(1)">← ATRÁS</button>
+          <button class="btn btn-primary" onclick="addWebEntry()">➕ AGREGAR</button>
+          <button class="btn btn-green" onclick="setMode('list')">VER LISTA →</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════ FACEBOOK LIVE ═══════════════ -->
+  <div class="section" id="modeFb">
+    <div class="steps">
+      <div class="step active-fb" id="fs1" onclick="goFbStep(1)"><span class="step-num">01</span>LINK FB</div>
+      <div class="step" id="fs2" onclick="goFbStep(2)"><span class="step-num">02</span>CONFIGURAR</div>
+    </div>
+
+    <div id="fbStep1">
+      <div class="panel fb-panel">
+        <div class="panel-title fb-title">EXTRAER STREAM DE FACEBOOK LIVE</div>
+
+        <div class="info-box">
+          <strong>📌 CÓMO OBTENER LA URL DEL STREAM (.MPD / .M3U8):</strong><br><br>
+          <strong>Método 1 — DevTools (PC):</strong><br>
+          1. Abre el video en Facebook en Chrome/Firefox<br>
+          2. Presiona <strong>F12</strong> → pestaña <strong>Network</strong><br>
+          3. Filtra por: <strong>mpd</strong> o <strong>m3u8</strong><br>
+          4. Reproduce o recarga el video → aparece la petición<br>
+          5. Clic derecho → <strong>Copy URL</strong> y pégala abajo<br><br>
+          <strong>Método 2 — Pega el link de Facebook y el stream URL directamente:</strong>
+        </div>
+
+        <label>LINK DEL VIDEO FACEBOOK (opcional)</label>
+        <input type="url" id="fbPageUrl" placeholder="https://www.facebook.com/100064879352749/videos/897066102925338/" />
+
+        <div id="fbFetchStatus" class="status"></div>
+
+        <label>URL DEL STREAM (MPD / M3U8 — desde fbcdn.net)</label>
+        <textarea id="fbStreamRaw" rows="4" placeholder="https://scontent.fgua4-1.fna.fbcdn.net/hvideo-cln-odn/.../live-dash/dash-abr5/XXXXXXX.mpd?_nc_zt=28&ccb=2-4&..."></textarea>
+
+        <div class="btn-row">
+          <button class="btn btn-fb" onclick="analyzeFbUrl()"><span style="font-style:italic;font-weight:bold">f</span> ANALIZAR</button>
+          <button class="btn btn-secondary" onclick="goFbStep(2)">MANUAL →</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="fbStep2" style="display:none;">
+      <div class="panel fb-panel">
+        <div class="panel-title fb-title">CONFIGURAR ENTRADA FACEBOOK LIVE</div>
+        <label>NOMBRE DEL CANAL / PÁGINA</label>
+        <input type="text" id="fbChannelName" placeholder="A más Guate" />
+        <label>LOGO / IMAGEN (URL directa)</label>
+        <input type="url" id="fbLogoUrl" placeholder="https://i.ytimg.com/vi/RRmCvFvliO4/maxresdefault.jpg" />
+        <label>CATEGORÍA / GRUPO</label>
+        <input type="text" id="fbGroupTitle" placeholder="✅ TV ENvIVo ✅" />
+        <label>ENLACE STREAM (MPD / M3U8 de Facebook)</label>
+        <textarea id="fbStreamUrl" rows="4" placeholder="https://scontent.fgua4-1.fna.fbcdn.net/.../live-dash/dash-abr5/XXXXXXX.mpd?..."></textarea>
+        <div class="btn-row">
+          <button class="btn btn-secondary" onclick="goFbStep(1)">← ATRÁS</button>
+          <button class="btn btn-fb" onclick="addFbEntry()"><span style="font-style:italic;font-weight:bold">f</span> AGREGAR FB LIVE</button>
+          <button class="btn btn-green" onclick="setMode('list')">VER LISTA →</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════ LISTA / OUTPUT ═══════════════ -->
+  <div class="section" id="modeList">
+    <div class="panel">
+      <div class="panel-title">ENTRADAS EN LISTA <span class="counter-badge" id="countBadge">0</span></div>
+      <div class="entries-list" id="entriesList">
+        <div class="empty-state">[ SIN ENTRADAS — AGREGA CANALES DESDE WEB STREAM O FACEBOOK LIVE ]</div>
+      </div>
+      <div class="btn-row" style="margin-top:16px;">
+        <button class="btn btn-primary" onclick="setMode('web')">➕ WEB STREAM</button>
+        <button class="btn btn-fb" onclick="setMode('fb')"><span style="font-style:italic;font-weight:bold">f</span> FB LIVE</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title">LISTA M3U GENERADA</div>
+      <div class="output-box" id="outputBox"><div class="empty-state">[ SIN CONTENIDO ]</div></div>
+      <div class="divider"></div>
+      <div class="btn-row">
+        <button class="btn btn-primary" onclick="copyOutput()">📋 COPIAR TODO</button>
+        <button class="btn btn-green" onclick="downloadM3U()">💾 DESCARGAR .M3U</button>
+        <button class="btn btn-secondary" onclick="clearAll()">🗑 LIMPIAR</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+  const entries = [];
+
+  function setMode(mode) {
+    ['web','fb','list'].forEach(m => {
+      document.getElementById('mode' + m.charAt(0).toUpperCase() + m.slice(1)).classList.toggle('active', m === mode);
+    });
+    const tabMap = { web:'tabWeb', fb:'tabFb', list:'tabList' };
+    const activeClass = { web:'active-web', fb:'active-fb', list:'active-lst' };
+    Object.keys(tabMap).forEach(m => {
+      const el = document.getElementById(tabMap[m]);
+      el.className = 'mode-tab' + (m === mode ? ' ' + activeClass[m] : '');
+    });
+    if (mode === 'list') renderOutput();
+  }
+
+  // Web steps
+  function goWebStep(n) {
+    document.getElementById('webStep1').style.display = n===1?'block':'none';
+    document.getElementById('webStep2').style.display = n===2?'block':'none';
+    document.getElementById('ws1').className = 'step'+(n===1?' active':'');
+    document.getElementById('ws2').className = 'step'+(n===2?' active':'');
+    if (n===2) {
+      const url = document.getElementById('streamUrl').value.trim();
+      if (url && !document.getElementById('wStreamUrl').value.trim())
+        document.getElementById('wStreamUrl').value = url;
+    }
+  }
+
+  async function fetchStreamUrl() {
+    const pageUrl = document.getElementById('pageUrl').value.trim();
+    if (!pageUrl) { setStatus('fetchStatus','error','⚠ Ingresa una URL primero.'); return; }
+    setStatus('fetchStatus','loading','<span class="spinner"></span> Analizando URL...');
+    await sleep(800);
+    const base = pageUrl.replace(/\/$/,'').split('/').slice(0,3).join('/');
+    setStatus('fetchStatus','success',
+      `✓ Dominio: ${base}\nPatrón típico: ${base}//player.php?url=[URL_CODIFICADA]\n\nPega la URL completa del stream en el campo inferior.`
+    );
+  }
+
+  // FB steps
+  function goFbStep(n) {
+    document.getElementById('fbStep1').style.display = n===1?'block':'none';
+    document.getElementById('fbStep2').style.display = n===2?'block':'none';
+    document.getElementById('fs1').className = 'step'+(n===1?' active-fb':'');
+    document.getElementById('fs2').className = 'step'+(n===2?' active-fb':'');
+    if (n===2) {
+      const url = document.getElementById('fbStreamRaw').value.trim();
+      if (url && !document.getElementById('fbStreamUrl').value.trim())
+        document.getElementById('fbStreamUrl').value = url;
+    }
+  }
+
+  async function analyzeFbUrl() {
+    const fbUrl    = document.getElementById('fbPageUrl').value.trim();
+    const streamRaw = document.getElementById('fbStreamRaw').value.trim();
+    if (!fbUrl && !streamRaw) { setStatus('fbFetchStatus','error','⚠ Ingresa el link de Facebook o la URL del stream MPD/M3U8.'); return; }
+    setStatus('fbFetchStatus','loading','<span class="spinner"></span> Analizando...');
+    await sleep(800);
+
+    if (streamRaw && (streamRaw.includes('.mpd') || streamRaw.includes('.m3u8') || streamRaw.includes('fbcdn.net'))) {
+      setStatus('fbFetchStatus','success',`✓ Stream URL detectada correctamente.\nRedirigiendo a configuración...`);
+      setTimeout(()=>goFbStep(2), 1200);
+    } else if (fbUrl.includes('facebook.com')) {
+      const vidId = (fbUrl.match(/\/videos\/(\d+)/)||[])[1];
+      setStatus('fbFetchStatus','info',
+        `ℹ Video de Facebook detectado${vidId?' (ID: '+vidId+')':''}.\n\n` +
+        `Para obtener la URL del stream:\n` +
+        `1. Abre el video en Chrome → F12 → Network\n` +
+        `2. Filtra por "mpd" o "m3u8"\n` +
+        `3. Reproduce el video\n` +
+        `4. Copia la URL de fbcdn.net y pégala en el campo "URL DEL STREAM".`
+      );
+    } else {
+      setStatus('fbFetchStatus','error','⚠ Pega directamente la URL .mpd o .m3u8 del CDN de Facebook en el campo inferior.');
+    }
+  }
+
+  // Add entries
+  function addWebEntry() {
+    const name   = document.getElementById('wChannelName').value.trim();
+    const logo   = document.getElementById('wLogoUrl').value.trim();
+    const group  = document.getElementById('wGroupTitle').value.trim();
+    const stream = document.getElementById('wStreamUrl').value.trim();
+    if (!name || !stream) { alert('⚠ Nombre y enlace stream son obligatorios.'); return; }
+    entries.push({name,logo,group,stream,type:'web'});
+    renderEntries(); flashBadge();
+    document.getElementById('wChannelName').value='';
+    document.getElementById('wLogoUrl').value='';
+    document.getElementById('wStreamUrl').value='';
+    showAddedMsg('wStreamUrl', name);
+  }
+
+  function addFbEntry() {
+    const name   = document.getElementById('fbChannelName').value.trim();
+    const logo   = document.getElementById('fbLogoUrl').value.trim();
+    const group  = document.getElementById('fbGroupTitle').value.trim();
+    const stream = document.getElementById('fbStreamUrl').value.trim();
+    if (!name || !stream) { alert('⚠ Nombre y enlace stream son obligatorios.'); return; }
+    entries.push({name,logo,group,stream,type:'fb'});
+    renderEntries(); flashBadge();
+    document.getElementById('fbChannelName').value='';
+    document.getElementById('fbLogoUrl').value='';
+    document.getElementById('fbStreamUrl').value='';
+    document.getElementById('fbStreamRaw').value='';
+    setStatus('fbFetchStatus','success',`✓ "${name}" agregado a la lista. Puedes agregar más.`);
+    goFbStep(1);
+  }
+
+  function showAddedMsg(fieldId, name) {
+    // brief flash on the field
+    const el = document.getElementById(fieldId);
+    el.style.borderColor = 'var(--green)';
+    setTimeout(()=> el.style.borderColor='', 1500);
+  }
+
+  function removeEntry(i) {
+    entries.splice(i,1);
+    renderEntries();
+    renderOutput();
+  }
+
+  function clearAll() {
+    if (!entries.length || confirm('¿Limpiar toda la lista?')) {
+      entries.length=0; renderEntries(); renderOutput();
+    }
+  }
+  function renderEntries() {
+    const list = document.getElementById('entriesList');
+    document.getElementById('countBadge').textContent = entries.length;
+    if (!entries.length) {
+      list.innerHTML='<div class="empty-state">[ SIN ENTRADAS ]</div>'; return;
+    }
+    list.innerHTML = entries.map((e,i)=>`
+      <div class="entry-card ${e.type==='fb'?'fb-card':''}">
+        <div class="entry-info">
+          <div class="entry-name ${e.type==='fb'?'fb-name':''}">
+            <span class="entry-tag ${e.type==='fb'?'tag-fb':'tag-web'}">${e.type==='fb'?'FB LIVE':'WEB'}</span>
+            ${esc(e.name)}
+          </div>
+          <div class="entry-meta">${esc(e.group||'Sin grupo')} &middot; ${esc(e.stream.substring(0,60))}...</div>
+        </div>
+        <button class="btn-remove" onclick="removeEntry(${i})">✕</button>
+      </div>
+    `).join('');
+  }
+
+  function generateM3U() {
+    if (!entries.length) return '';
+    let m3u = '#EXTM3U\n\n';
+    entries.forEach(e=>{
+      const logo  = e.logo  ? ` tvg-logo="${e.logo}"`      : '';
+      const group = e.group ? ` group-title="${e.group}"` : '';
+      m3u += `#EXTINF:-1${logo}${group},${e.name}\n${e.stream}\n\n`;
+    });
+    return m3u.trim();
+  }
+
+  function renderOutput() {
+    const box = document.getElementById('outputBox');
+    const content = generateM3U();
+    if (!content) { box.innerHTML='<div class="empty-state">[ SIN CONTENIDO — AGREGA ENTRADAS PRIMERO ]</div>'; return; }
+
+    // Syntax coloring
+    const lines = content.split('\n');
+    box.innerHTML = lines.map(line => {
+      if (!line) return '';
+      if (line.startsWith('#EXTM3U')) return `<span style="color:#555">${esc(line)}</span>`;
+      if (line.startsWith('#EXTINF')) {
+        let l = esc(line);
+        l = l.replace(/(tvg-logo=&quot;[^&]*&quot;)/g, '<span style="color:#ffaa00">$1</span>');
+        l = l.replace(/(group-title=&quot;[^&]*&quot;)/g, '<span style="color:var(--accent2)">$1</span>');
+        l = l.replace(/(,[^<]*)$/, '<span style="color:#fff">$1</span>');
+        return l;
+      }
+      if (line.includes('fbcdn.net') || line.includes('dash-abr') || line.includes('.mpd')) {
+        return `<span style="color:var(--fb)">${esc(line)}</span>`;
+      }
+      if (line.startsWith('http')) return `<span style="color:var(--accent)">${esc(line)}</span>`;
+      return esc(line);
+    }).join('\n');
+  }
+
+  async function copyOutput() {
+    const content = generateM3U();
+    if (!content) { alert('No hay contenido.'); return; }
+    try {
+      await navigator.clipboard.writeText(content);
+      const btn = event.target;
+      const orig = btn.textContent;
+      btn.textContent = '✓ COPIADO!';
+      setTimeout(()=> btn.textContent = orig, 2000);
+    } catch(e) { alert('Selecciona el texto manualmente del cuadro verde.'); }
+  }
+
+  function downloadM3U() {
+    const content = generateM3U();
+    if (!content) { alert('No hay contenido.'); return; }
+    const blob = new Blob([content], {type:'audio/x-mpegurl'});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href=url; a.download='lista_canales.m3u'; a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function setStatus(id, type, msg) {
+    const el = document.getElementById(id);
+    el.className = 'status ' + type;
+    el.innerHTML = msg;
+  }
+
+  function flashBadge() {
+    const b = document.getElementById('countBadge');
+    b.style.background='#00ff88';
+    setTimeout(()=> b.style.background='var(--accent2)', 500);
+  }
+
+  function sleep(ms) { return new Promise(r=>setTimeout(r,ms)); }
+
+  function esc(str) {
+    return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+</body>
+</html>
