@@ -341,13 +341,13 @@ http://190.151.80.244:9990/play/a0oj/index.m3u8
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/25716.png" tvg-id="Telemundo.ar (src09)",Telemundo
 http://38.224.175.2:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-id="",Telemundo Noticias
+#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-id="https://images.seeklogo.com/logo-png/30/1/telemundo-logo-png_seeklogo-302213.png",Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar (src05)",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TELESUR.ar (m3u4u)",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-id="",CHV
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="",CHV
 http://152.231.29.139:8000/play/a09q/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNI.ar (m3u4u)",TVN
 http://38.224.175.2:8000/play/a02r/index.m3u8
