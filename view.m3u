@@ -427,6 +427,9 @@ http://lamtv.site:8080/27116808/zs2Bbc7Zu5/196698.ts
 http://147.75.122.125:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
 http://147.75.122.125:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="FreeTV" tvg-logo="https://lge-static.ottera.tv/prod/oly/linear_channel/thumbnails/poster/267x400/drama_2x3.png",621 FreeTV Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
 http://147.75.122.125:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/e494073dec0082cc7fb5310e627e31a65724569045594146294.jpg" tvg-id="",FREE SABER MAS
