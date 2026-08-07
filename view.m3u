@@ -37,7 +37,7 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 http://lamtv.site:8080/27116808/zs2Bbc7Zu5/123063.ts
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://drive.usercontent.google.com/download?id=1MCQI1XqMt7gc9pI689pzgIZdLx47TTaP" tvg-id="",TyC Sports - Señal Alternativa
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" tvg-id="",TyC Sports - Señal Alternativa
 http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="0907",Canal 9 Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
@@ -135,7 +135,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",Power Max TV 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",TyC Sports FAN
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar (src09)",TyC Sports
