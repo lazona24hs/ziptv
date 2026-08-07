@@ -15,8 +15,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/178841
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/179196
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/280x400/runtime_1400x2000_0.png" tvg-id="",Runtime Cine y Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=12857&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
+
+#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/GustoTV_SPA_Wlogo_PPG%20400X200.png" group-title="Exclusiva",Gusto TV Espanol
+https://amg01077-gustofast-amg01077c8-lg-mx-10562.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
