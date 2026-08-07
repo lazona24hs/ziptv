@@ -106,13 +106,13 @@ http://181.209.105.115:2525/play/metro/index.m3u8
 http://181.209.105.115:2525/play/encuentro/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="RURAL.ar (m3u4u)",Rural
 http://181.209.105.115:2525/play/rural/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Eco TV
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar (src09)",Canal a
 http://181.209.105.115:2525/play/canala/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="VOLV.ar (m3u4u)",Volver
 http://181.209.105.115:2525/play/volver/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",Canal 10 MDP
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png/250px-Canal_10_Mar_del_Plata_nuevo_logo.png" tvg-id="",Canal 10 MDP
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="GARAGETV.ar (m3u4u)",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
