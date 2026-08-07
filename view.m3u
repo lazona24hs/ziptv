@@ -319,6 +319,8 @@ http://177.234.249.178:8888/MTV/index.m3u8
 http://181.209.105.115:2525/play/htv/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-id="KpopMix.ar@SD",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 group-title="Musica" tvg-logo"https://www.francetvpub.fr/wp-content/uploads/2019/12/TRACE-LATINA-LOGO.png",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="Canal.MTV.(Argentina).ar (src05)",MTV
 http://38.224.175.2:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-id="",MTV FlowLatino
@@ -356,7 +358,7 @@ http://ziptv.env.pm/live/u40k.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RTSPAN.ar (m3u4u)",RT en Español
 http://138.59.227.20:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125383_light_360w_270h.png" tvg-id="Rcn",RCN Más
-https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/16782340.png" tvg-id="HispanTV.ar (src09)",HispanTV
 http://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_white_360w_270h.png" tvg-id="CGTNE.uy (m3u4u)",CGTN Español
