@@ -310,7 +310,7 @@ http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="ANIPLH.ar (m3u4u)",ANIMAL PLANET
 http://147.75.122.125:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="SunChannel.ar (src09)" ,SunChannel
-http://38.224.175.2:8000/play/a0pd/index.m3u8
+http://38.137.192.250:8000/play/a0f1
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar (src09)",Food Network
 http://38.224.175.2:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="" tvg-id="CM.ar (m3u4u)",Canal de la Música
