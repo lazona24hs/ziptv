@@ -347,7 +347,7 @@ https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s145673_dark_360w_270h.png" tvg-id="",RCN Noticias
 https://aka-live1050.delivery.roku.com/63a55317-8cde-4c4a-9a5f-3e6a97ae7c9e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TEFEI.ar (m3u4u)",Telefe Internacional
-http://190.151.80.244:9990/play/a0oj/index.m3u8
+http://190.108.83.69:8000/play/a08l/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="TRESATH.ar (m3u4u)",El Trece Internacional
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/25716.png" tvg-id="Telemundo.ar (src09)",Telemundo
