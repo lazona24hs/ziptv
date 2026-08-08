@@ -163,8 +163,7 @@ http://181.209.105.115:2525/play/foxsports3/index.m3u8
 http://181.209.105.115:2525/play/deportv/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="AmericaSports.ar (src09)",AM Sports
 http://181.209.105.115:2525/play/amsport/index.m3u8
-#EXTINF:-1 tvg-logo="https://beam-images.warnermediacdn.com/2025-06/tnt_sports.png?host=wbd-dotcom-drupal-prd-us-east-1.s3.amazonaws.com" group-title="Abierto",TNT Sports 
-http://186.33.57.100:8000/play/a1ex/index.m3u8
+
 
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
