@@ -299,12 +299,12 @@ http://181.209.105.115:2525/play/natgeo/index.m3u8
 http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar (src09)",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.ar (src09)" audio-track="es",TLC
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.ar (src09)",TLC
 http://38.224.175.2:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="LIFSURH.ar (m3u4u)",Lifetime
 http://181.209.105.115:2525/play/lifetime/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar (src09)",Pasiones
-http://38-252-223-1.latincable.com.pe/Pasiones_HD/index.m3u8
+http://181.224.200.5:2277/play/4324/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="HolaTV.ar (src09)",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="ANIPLH.ar (m3u4u)",ANIMAL PLANET
