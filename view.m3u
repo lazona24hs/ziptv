@@ -221,7 +221,7 @@ http://181.209.105.115:2525/play/discoveryhh/index.m3u8
 http://181.209.105.115:2525/play/discoveryscience/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" tvg-id="DiscoveryTheater.ar (src09)",Discovery Theater
 http://181.209.105.115:2525/play/discoverytheater/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RMTEM.png_gray_360w_270h.png" tvg-id="DTURBOL.ar (m3u4u)",Discovery Turbo
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" tvg-id="DTURBOL.ar (m3u4u)",Discovery Turbo
 http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" tvg-id="DiscoveryWorld.ar (src09)",Discovery World
 http://181.209.105.115:2525/play/discoveryworld/index.m3u8
@@ -253,7 +253,7 @@ http://ziptv.env.pm/live/c01k.m3u8
 http://181.209.105.115:2525/play/sonyhd/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar (src09)",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68021_gray_360w_270h.png" tvg-id="SPACMHD.ar (m3u4u)",Space
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/space.png" tvg-id="SPACMHD.ar (m3u4u)",Space
 http://181.209.105.115:2525/play/space/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" tvg-id="StarChannel.ar (src09)",Star Channel
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9721
