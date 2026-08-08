@@ -39,7 +39,7 @@ http://lamtv.site:8080/27116808/zs2Bbc7Zu5/123063.ts
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" tvg-id="",TyC Sports - Señal Alternativa
 http://152.230.229.66:8001/play/a04h/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="0907",Canal 9 Multivisión
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="CanaldelaCiudad.ar (src09)",Canal de la Ciudad
 http://138.59.227.20:8000/play/a07c/index.m3u8
