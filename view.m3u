@@ -68,7 +68,7 @@ http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar (src09)",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar (src09)",El Nueve
-http://186.33.57.100:8000/play/a2rl/index.m3u8
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157621
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
@@ -429,7 +429,7 @@ https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="0432",DSports 2
 http://186.33.57.100:8000/play/a2pq/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="",DSports
-http://186.33.57.100:8000/play/a2pp/index.m3u8
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9560
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar (src09)",ESPN Premium
 http://ziptv.env.pm/live/espnpre.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSPOR.ar (m3u4u)",TNT Sports Premium
