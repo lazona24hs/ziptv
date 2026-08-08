@@ -16,8 +16,8 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/178841
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/179196
 
-#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/gusto/GustoTV_SPA_Wlogo_PPG%20400X200.png" group-title="Exclusiva",Gusto TV Espanol
-https://amg01077-gustofast-amg01077c8-lg-mx-10562.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
