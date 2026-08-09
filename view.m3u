@@ -105,7 +105,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://138.59.227.20:8000/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar (src09)",Metro
 http://138.59.227.20:8000/play/a06l/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" tvg-id="ENCU.ar (m3u4u)",Encuentro
+#EXTINF:-1 tvg-id="ENCU.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="Abierto",Encuentro
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="RURAL.ar (m3u4u)",Rural
 http://138.59.227.20:8000/play/a06k/index.m3u8
@@ -137,33 +137,36 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",Power Max TV 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
-
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar (src09)",TyC Sports
 http://ziptv.env.pm/live/tyc.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="",Dsport+
 http://ziptv.env.pm/live/dsportsplus.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="Espn.ar (src09)",ESPN
-http://181.209.105.115:2525/play/espn/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" tvg-id="FSARH.ar (m3u4u)",Fox Sports
-http://181.209.105.115:2525/play/foxsports/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" tvg-id="ESP2LS.ar (m3u4u)",ESPN 2
-http://181.209.105.115:2525/play/espn2/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="Espn3.ar (src09)",ESPN 3
-http://181.209.105.115:2525/play/espn3/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="Espn4.ar (src09)",ESPN 4
-http://181.209.105.115:2525/play/espn4/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="FS2AR.ar (m3u4u)",Fox Sports 2
-http://181.209.105.115:2525/play/foxsports2/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_light_360w_270h.png" tvg-id="FoxSports3.ar (src09)",Fox Sports 3
-http://181.209.105.115:2525/play/foxsports3/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" tvg-id="DeporTv.ar (src09)",DeporTV
-http://181.209.105.115:2525/play/deportv/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="AmericaSports.ar (src09)",AM Sports
-http://181.209.105.115:2525/play/amsport/index.m3u8
-
+#EXTINF:-1 tvg-id="Espn.ar (src09)" group-title="Abierto",ESPN
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9521
+#EXTINF:-1 tvg-id="FSARH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9575
+#EXTINF:-1 tvg-id="ESP2LS.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Abierto",ESPN 2
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9526
+#EXTINF:-1 tvg-id="Espn3.ar (src09)" group-title="Abierto",ESPN 3
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9533
+#EXTINF:-1 tvg-id="Espn4.ar (src09)" group-title="Abierto",ESPN 4
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9538
+#EXTINF:-1 tvg-id="FS2AR.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Abierto",Fox Sports 2
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9581
+#EXTINF:-1 tvg-id="FoxSports3.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_light_360w_270h.png" group-title="Abierto",Fox Sports 3
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9589
+#EXTINF:-1 tvg-id="DeporTv.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Abierto",DeporTV
+http://138.59.227.20:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar (src09)" group-title="Abierto",AM Sports
+http://138.59.227.20:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
+http://38.224.175.2:8000/play/a0nl/index.m3u8
+#EXTINF:-1 group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar (src09)",ENLACE
+http://152.231.29.139:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
+http://45.170.130.224:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
 http://38.224.175.2:8000/play/a0nl/index.m3u8
