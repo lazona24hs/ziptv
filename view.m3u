@@ -437,9 +437,9 @@ http://190.232.196.93:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="",DSports
 http://190.232.196.93:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar (src09)",ESPN Premium
-http://ziptv.env.pm/live/espnpre.m3u8
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157562
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSPOR.ar (m3u4u)",TNT Sports Premium
-http://181.209.105.115:2525/play/tntsports/index.m3u8
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157585
 
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/053884f7-7614-44e9-a2e8-73f8705d966b-17078563193998970048101848050.jpg" tvg-id="",FREE ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
