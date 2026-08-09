@@ -203,9 +203,9 @@ http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar (src09)",Cinecanal
 http://a-ziptv.env.pm:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="MAXSURH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" group-title="Entretenimiento",Cinemax
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9633
+http://190.108.93.180:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="COMCLAH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="Entretenimiento",Comedy Central
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9637
+http://38.224.175.2:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" group-title="Entretenimiento",Distrito Comedia
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9644
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AEMX.ar (m3u4u)",A&E
