@@ -241,16 +241,21 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9646
 http://181.209.105.115:2525/play/hbo/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-id="HBO2.ar (src09)",HBO 2
 http://181.209.105.115:2525/play/hbo2/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
+http://181.209.105.115:2525/play/hboxtreme/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" tvg-id="HBOFMEH.ar (m3u4u)",HBO Family
 http://181.209.105.115:2525/play/hbofamily/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="",HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="",HBO Pop
+http://190.232.196.93:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="HBOPlus.ar (src09)",HBO Plus
 http://181.209.105.115:2525/play/hboplus/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="",HBO Mundi
+http://181.209.105.115:2525/play/hbomondi/index.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_gray_360w_270h.png" tvg-id="HBOSignature.ar (src09)",HBO Signature
 http://181.209.105.115:2525/play/hbosignature/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
-http://181.209.105.115:2525/play/hboxtreme/index.m3u8
+http://190.232.196.93:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="Canal.Sony.(Argentina).ar (src05)",Sony
@@ -426,9 +431,9 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-id="63dac1b78795f300086d5ca6",TikTok Radio en Español
 https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="0432",DSports 2
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9566
+http://190.232.196.93:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="",DSports
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9560
+http://190.232.196.93:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar (src09)",ESPN Premium
 http://ziptv.env.pm/live/espnpre.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSPOR.ar (m3u4u)",TNT Sports Premium
