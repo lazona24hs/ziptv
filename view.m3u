@@ -207,7 +207,7 @@ http://190.108.93.180:8000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="COMCLAH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="Entretenimiento",Comedy Central
 http://38.224.175.2:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" group-title="Entretenimiento",Distrito Comedia
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9644
+http://147.75.122.125:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AEMX.ar (m3u4u)",A&E
 http://190.232.196.93:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GM3XW.png_gray_360w_270h.png" tvg-id="AMCSRS.ar (m3u4u)",AMC SERIES
