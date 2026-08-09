@@ -271,7 +271,7 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9721
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar (src09)",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9732
+http://138.59.227.20:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="TCMLI.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9740
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar (src09)" ",HGTV
