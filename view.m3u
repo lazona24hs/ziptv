@@ -144,7 +144,7 @@ http://ziptv.env.pm/live/tyc.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="",Dsport+
 http://ziptv.env.pm/live/dsportsplus.m3u8
 #EXTINF:-1 tvg-id="Espn.ar (src09)" group-title="Abierto",ESPN
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9521
+http://138.59.227.20:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="FSARH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9575
 #EXTINF:-1 tvg-id="ESP2LS.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Abierto",ESPN 2
