@@ -202,12 +202,12 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9883
 http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar (src09)",Cinecanal
 http://a-ziptv.env.pm:8000/play/a089/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" tvg-id="MAXSURH.ar (m3u4u)" ,Cinemax
-http://181.209.105.115:2525/play/cinemax/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" tvg-id="COMCLAH.ar (m3u4u)",Comedy Central
-http://181.209.105.115:2525/play/comedycentral/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" tvg-id="",Distrito Comedia
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/40217.ts
+#EXTINF:-1 tvg-id="MAXSURH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" group-title="Entretenimiento",Cinemax
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9633
+#EXTINF:-1 tvg-id="COMCLAH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="Entretenimiento",Comedy Central
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9637
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" group-title="Entretenimiento",Distrito Comedia
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9644
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AEMX.ar (m3u4u)",A&E
 http://190.232.196.93:8000/play/a049/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GM3XW.png_gray_360w_270h.png" tvg-id="AMCSRS.ar (m3u4u)",AMC SERIES
@@ -220,79 +220,78 @@ http://179.60.51.134:8888/AXN/index.m3u8
 http://138.59.227.20:8000/play/a069/index.m3u8
 #EXTINF:-1 tvg-name="CindieTV" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png" tvg-language="Spanish" group-title="Entretenimiento",Cindie TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" tvg-id="DISCCHD.ar (m3u4u)",Discovery Channel
-http://181.209.105.115:2525/play/discoverychannel/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" tvg-id="DiscoveryHomeAndHealth.ar (src09)",Discovery H&H
-http://181.209.105.115:2525/play/discoveryhh/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DiscoveryScience.ar (src09)",Discovery Science
-http://181.209.105.115:2525/play/discoveryscience/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" tvg-id="DiscoveryTheater.ar (src09)",Discovery Theater
-http://181.209.105.115:2525/play/discoverytheater/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" tvg-id="DTURBOL.ar (m3u4u)",Discovery Turbo
-http://181.209.105.115:2525/play/discoveryturbo/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" tvg-id="DiscoveryWorld.ar (src09)",Discovery World
-http://181.209.105.115:2525/play/discoveryworld/index.m3u8
+#EXTINF:-1 tvg-id="DISCCHD.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" group-title="Entretenimiento",Discovery Channel
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9816
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar (src09)" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9820
+#EXTINF:-1 tvg-id="DiscoveryScience.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9823
+#EXTINF:-1 tvg-id="DiscoveryTheater.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9787
+#EXTINF:-1 tvg-id="DTURBOL.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9829
+#EXTINF:-1 tvg-id="DiscoveryWorld.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9831
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar (src09)",Discovery ID
 http://ziptv.env.pm/live/did.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" tvg-id="FX.ar (src09)",FX
-http://181.209.105.115:2525/play/fx/index.m3u8
+#EXTINF:-1 tvg-id="FX.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="Entretenimiento",FX
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9652
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FABL.ar (m3u4u)",Film & Arts
 http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar (src09)",E! Entertainment
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9646
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" tvg-id="HBO.ar (src09)",HBO
-http://181.209.105.115:2525/play/hbo/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-id="HBO2.ar (src09)",HBO 2
-http://181.209.105.115:2525/play/hbo2/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
-http://181.209.105.115:2525/play/hboxtreme/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" tvg-id="HBOFMEH.ar (m3u4u)",HBO Family
-http://181.209.105.115:2525/play/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="HBO.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/217050
+#EXTINF:-1 tvg-id="HBO2.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9671
+#EXTINF:-1 tvg-id="HBOXLEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9700
+#EXTINF:-1 tvg-id="HBOFMEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" group-title="Entretenimiento",HBO Family
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9679
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="",HBO Pop
 http://190.232.196.93:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="HBOPlus.ar (src09)",HBO Plus
-http://181.209.105.115:2525/play/hboplus/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" tvg-id="",HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" tvg-id="HBOSignature.ar (src09)",HBO Signature
-http://181.209.105.115:2525/play/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlus.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Entretenimiento",HBO Plus
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9686
+#EXTINF:-1 tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento",HBO Mundi
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9683
+#EXTINF:-1 tvg-id="HBOSignature.ar (src09)" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" group-title="Entretenimiento",HBO Signature
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9693
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme15625599616626598075.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
 http://190.232.196.93:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="Canal.Sony.(Argentina).ar (src05)",Sony
-http://181.209.105.115:2525/play/sonyhd/index.m3u8
+#EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar (src05)" group-title="Entretenimiento",Sony
+http://138.59.227.20:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar (src09)",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://i.tvcluboficial.com/space.png" tvg-id="SPACMHD.ar (m3u4u)",Space
-http://181.209.105.115:2525/play/space/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" tvg-id="StarChannel.ar (src09)",Star Channel
-http://181.209.105.115:2525/play/starchannel/index.m3u8
+#EXTINF:-1 tvg-id="SPACMHD.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9717
+#EXTINF:-1 tvg-id="StarChannel.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9721
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar (src09)",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" tvg-id="StudioUniversal.ar (src09)",Studio Universal
-http://181.209.105.115:2525/play/studiouniversal/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" tvg-id="TCMLI.ar (m3u4u)",TCM
-http://181.209.105.115:2525/play/tcm/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9732
+#EXTINF:-1 tvg-id="TCMLI.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9740
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar (src09)" ",HGTV
 http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar (src09)",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-id="TNT.ar (src09)",TNT
-http://181.209.105.115:2525/play/tnt/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" tvg-id="TNOVES.ar (m3u4u)",TNT Novelas
-http://181.209.105.115:2525/play/tntnovelas/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" tvg-id="TNTSeries.ar (src09)",TNT Series
-http://181.209.105.115:2525/play/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9742
+#EXTINF:-1 tvg-id="TNOVES.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9737
+#EXTINF:-1 tvg-id="TNTSeries.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9748
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar (src09)",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="Canal.USA.Network.(Argentina).ar (src05)",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" tvg-id="UniversalTV.ar (src09)",Universal
-http://181.209.105.115:2525/play/universal/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.ar (src09)" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9753
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" tvg-id="[UNICI].Universal.Cinema.uy (src05)",UNIVERSAL CINEMA
 http://ziptv.env.pm/live/unicinema.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg" tvg-id="[UNICO].Universal.Comedy.uy (src05)",UNIVERSAL COMEDY
