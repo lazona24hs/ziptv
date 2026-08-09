@@ -243,7 +243,7 @@ http://190.108.93.180:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="HBO.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
 http://190.108.93.180:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
-http://38.224.175.2:8000/play/a026/index.m3u8
+http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="HBOXLEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
 http://38.224.175.2:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOFMEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" group-title="Entretenimiento",HBO Family
