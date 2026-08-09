@@ -182,7 +182,7 @@ http://158.172.155.130:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-id="Nickelodeon.ar (src09)",Nickelodeon
 http://158.172.155.130:8000/play/a0di/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" tvg-id="PakaPaka.ar (src09)",Pakapaka
-http://181.209.105.115:2525/play/pakapaka/index.m3u8
+http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_light_360w_270h.png" tvg-id="CartoonNetwork.ar (src09)",Cartoon Network
 http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DKLAHD.ar (m3u4u)",Discovery Kids
