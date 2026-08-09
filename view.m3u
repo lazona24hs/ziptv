@@ -227,7 +227,7 @@ http://147.75.122.125:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
 http://190.108.93.180:8000/play/a023/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheater.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9787
+http://190.108.93.180:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="DTURBOL.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
 http://147.75.122.125:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
