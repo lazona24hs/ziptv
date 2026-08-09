@@ -46,7 +46,7 @@ http://138.59.227.20:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar (src09)",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="LaNacion+.ar (src09)",LaNacion+
-http://138.59.227.20:8000/play/a05y/index.m3u8
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157592
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar (src09)",TN
 http://138.59.227.20:8000/play/a097/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5NARG.ar (m3u4u)",C5N
