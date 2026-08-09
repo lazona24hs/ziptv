@@ -241,21 +241,21 @@ http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar (src09)",E! Entertainment
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9646
 #EXTINF:-1 tvg-id="HBO.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/217050
+http://38.224.175.2:8000/play/a0tr/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9671
+http://38.224.175.2:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="HBOXLEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9700
+http://38.224.175.2:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOFMEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" group-title="Entretenimiento",HBO Family
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9679
+http://38.224.175.2:8000/play/a07x/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="",HBO Pop
 http://190.232.196.93:8000/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Entretenimiento",HBO Plus
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9686
+http://38.224.175.2:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento",HBO Mundi
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9683
+http://38.224.175.2:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.ar (src09)" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" group-title="Entretenimiento",HBO Signature
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9693
+http://38.224.175.2:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme15625599616626598075.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
 http://190.232.196.93:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
@@ -305,7 +305,7 @@ http://ziptv.env.pm/live/unireality.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="WOLEARH.ar (m3u4u)",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NGCLAH.ar (m3u4u)",Nat Geo
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9846
+http://38.224.175.2:8000/play/a0td/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="H2LAT.ar (m3u4u)",History 2
 http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar (src09)",History Channel
