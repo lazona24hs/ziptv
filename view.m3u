@@ -241,7 +241,7 @@ http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar (src09)",E! Entertainment
 http://190.108.93.180:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="HBO.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
-http://38.224.175.2:8000/play/a0tr/index.m3u8
+http://190.108.93.180:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
 http://38.224.175.2:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="HBOXLEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
@@ -265,9 +265,9 @@ http://138.59.227.20:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar (src09)",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-id="SPACMHD.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
-http://38.224.175.2:8000/play/a0u2/index.m3u8
+http://190.108.93.180:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
-http://38.224.175.2:8000/play/a0sy/index.m3u8
+http://190.108.93.180:8000/play/a048/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar (src09)",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
@@ -279,11 +279,11 @@ http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar (src09)",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
-http://38.224.175.2:8000/play/a06y/index.m3u8
+http://190.108.93.180:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="TNOVES.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
-http://38.224.175.2:8000/play/a08p/index.m3u8
+http://190.108.93.180:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
-http://38.224.175.2:8000/play/a071/index.m3u8
+http://190.108.93.180:8000/play/a02w/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar (src09)",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
