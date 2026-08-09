@@ -249,12 +249,12 @@ http://181.209.105.115:2525/play/hbofamily/index.m3u8
 http://190.232.196.93:8000/play/a014/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="HBOPlus.ar (src09)",HBO Plus
 http://181.209.105.115:2525/play/hboplus/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" tvg-id="",HBO Mundi
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" tvg-id="",HBO Mundi
 http://181.209.105.115:2525/play/hbomondi/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80120_gray_360w_270h.png" tvg-id="HBOSignature.ar (src09)",HBO Signature
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" tvg-id="HBOSignature.ar (src09)",HBO Signature
 http://181.209.105.115:2525/play/hbosignature/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme15625599616626598075.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
 http://190.232.196.93:8000/play/a015/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
