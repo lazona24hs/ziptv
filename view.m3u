@@ -197,7 +197,7 @@ http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63109_dark_360w_270h.png" tvg-id="TOONCST.ar (m3u4u)" ,Tooncast
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9883
+http://190.108.93.180:8000/play/a026/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" tvg-id="CARTOA.ar (m3u4u)",Cartoonito
 http://38.224.175.2:8000/play/a08k/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar (src09)",Cinecanal
