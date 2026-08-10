@@ -201,7 +201,7 @@ http://38.224.175.2:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" group-title="Entretenimiento",Distrito Comedia
 http://147.75.122.125:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AEMX.ar (m3u4u)",A&E
-http://190.232.196.93:8000/play/a049/index.m3u8
+http://190.108.93.180:8000/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GM3XW.png_gray_360w_270h.png" tvg-id="AMCSRS.ar (m3u4u)",AMC SERIES
 http://38.224.175.2:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_gray_360w_270h.png" tvg-id="Amc.ar (src09)",AMC
@@ -241,7 +241,7 @@ http://38.224.175.2:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="HBOFMEH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" group-title="Entretenimiento",HBO Family
 http://38.224.175.2:8000/play/a07x/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="",HBO Pop
-http://190.232.196.93:8000/play/a014/index.m3u8
+http://190.108.93.180:8000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlus.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Entretenimiento",HBO Plus
 http://38.224.175.2:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento",HBO Mundi
@@ -249,7 +249,7 @@ http://38.224.175.2:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.ar (src09)" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" group-title="Entretenimiento",HBO Signature
 http://38.224.175.2:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme15625599616626598075.png" tvg-id="HBOXLEH.ar (m3u4u)",HBO Xtreme
-http://190.232.196.93:8000/play/a015/index.m3u8
+http://190.108.93.180:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar (src05)" group-title="Entretenimiento",Sony
