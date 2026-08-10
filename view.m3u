@@ -397,7 +397,7 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--FOXN.png" group-title="Internacional",FOX LiveNOW
 https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/playlist/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://programacion-tv.elpais.com/imagenes/canales/37.jpg" tvg-id="Canal.Galicia.TV.ar (src05)",Galicia TV
-http://a-ziptv.env.pm:8000/play/a06v/index.m3u8
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png" tvg-id="Canal.CNN.Internacional.ar (src05)",CNN Internacional
 http://147.75.122.125:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="",CBS News 24/7
