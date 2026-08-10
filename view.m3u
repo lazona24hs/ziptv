@@ -161,15 +161,9 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9589
 http://138.59.227.20:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="AmericaSports.ar (src09)" group-title="Abierto",AM Sports
 http://138.59.227.20:8000/play/a061/index.m3u8
-#EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
-http://38.224.175.2:8000/play/a0nl/index.m3u8
-#EXTINF:-1 group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar (src09)",ENLACE
-http://152.231.29.139:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
-http://45.170.130.224:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar (src09)",Canal LUZ
-http://38.224.175.2:8000/play/a0nl/index.m3u8
+https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar (src09)",ENLACE
 http://152.231.29.139:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
