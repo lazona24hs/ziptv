@@ -16,8 +16,6 @@ http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/178841
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/179196
 
-#EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
-https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
@@ -258,6 +256,8 @@ http://ziptv.env.pm/live/c01k.m3u8
 http://138.59.227.20:8000/play/a09c/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar (src09)",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
+https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="SPACMHD.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
 http://190.108.93.180:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
