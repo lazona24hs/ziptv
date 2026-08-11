@@ -420,6 +420,11 @@ https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-id="63dac1b78795f300086d5ca6",TikTok Radio en Español
 https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT28.png" group-title="Radios",LT28 Rafaela
+https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
+EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLSPO.png" group-title="Radios",Sol Play
+https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
+
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="0432",DSports 2
 http://190.232.196.93:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="",DSports
