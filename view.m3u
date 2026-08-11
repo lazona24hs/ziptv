@@ -387,7 +387,10 @@ http://a-ziptv.env.pm:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella News
 https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-name="adn Noticias" tvg-logo="https://lge-static.ottera.tv/prod/azt/linear_channel/thumbnails/poster/667x400/app_icons_general_layered_app_icon_front_-_tvos_-_1280_x_768.png" group-title="Internacional",adn Noticias
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13741&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16217_dark_360w_270h.png" tvg-id="Canal.TVE.Internacional.(Televisión.Española).ar (src05)",TVE
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Entretenimiento",Estrella TV
 https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---FTV.png" group-title="Internacional",Fashion TV
