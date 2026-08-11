@@ -273,9 +273,9 @@ http://138.59.227.20:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
 http://190.60.36.103:8000/play/a0cf/index.m3u8
 #EXTINF:-1 tvg-id="TNOVES.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
-http://190.108.93.180:8000/play/a031/index.m3u8
+http://138.59.227.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
-http://190.108.93.180:8000/play/a02w/index.m3u8
+http://138.59.227.20:8000/play/a08c/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar (src09)",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
@@ -285,13 +285,13 @@ http://a-ziptv.env.pm:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.ar (src09)" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
 http://190.60.36.103:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" tvg-id="[UNICI].Universal.Cinema.uy (src05)",UNIVERSAL CINEMA
-http://ziptv.env.pm/live/unicinema.m3u8
+http://190.60.36.103:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg" tvg-id="[UNICO].Universal.Comedy.uy (src05)",UNIVERSAL COMEDY
-http://ziptv.env.pm/live/unicomedy.m3u8
+http://190.60.36.103:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="[UNICR].Universal.Crime.uy (src05)",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151267_white_360w_270h.png" tvg-id="[UNIPR].Universal.Premiere.uy (src05)",UNIVERSAL PREMIERE
-http://ziptv.env.pm/live/unipre.m3u8
+http://190.60.36.103:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151268_light_360w_270h.png" tvg-id="[UNIRE].Universal.Reality.uy (src05)",UNIVERSAL REALITY
 http://ziptv.env.pm/live/unireality.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="WOLEARH.ar (m3u4u)",Warner Channel
