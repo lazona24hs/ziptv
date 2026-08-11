@@ -31,8 +31,8 @@ https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/x5EA74J.png" tvg-id="SomosAmba.ar (src09)",SOMOS
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/123063.ts
+#EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/x5EA74J.png" tvg-id="", Cadena Regional
+https://vivo.solumedia.com:19360/argento/argento.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" tvg-id="",TyC Sports - Señal Alternativa
