@@ -9,12 +9,6 @@
 ####
 #Hello World!
 ####
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/450bd279c7c3592fda2b30292f5b91318074310478981123429.jpeg" tvg-id="",El Chavo 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/compose2357099384686532056.jpg" tvg-id="",Los Simpson 24/7
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/178841
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/179196
 
 
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
@@ -40,7 +34,7 @@ http://152.230.229.66:8001/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="CanaldelaCiudad.ar (src09)",Canal de la Ciudad
-http://138.59.227.20:8000/play/a07c/index.m3u8
+https://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar (src09)",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="LaNacion+.ar (src09)",LaNacion+
@@ -434,12 +428,24 @@ http://190.232.196.93:8000/play/a058/index.m3u8
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157562
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSPOR.ar (m3u4u)",TNT Sports Premium
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157585
-
+#
+#
+#
+#Exclusiva
+#
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/450bd279c7c3592fda2b30292f5b91318074310478981123429.jpeg" tvg-id="",El Chavo 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/compose2357099384686532056.jpg" tvg-id="",Los Simpson 24/7
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/178841
+#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/179196
+#
+#
+#
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/053884f7-7614-44e9-a2e8-73f8705d966b-17078563193998970048101848050.jpg" tvg-id="",FREE ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
 http://147.75.122.125:8000/play/a039/index.m3u8
-
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16563&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/e494073dec0082cc7fb5310e627e31a65724569045594146294.jpg" tvg-id="",FREE SABER MAS
