@@ -44,17 +44,17 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 http://45.226.28.9:8085/Live/fd94e32854b9daefc1df85517b387b95/local-lntv.playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 http://45.226.28.9:8085/Live/fd94e32854b9daefc1df85517b387b95/local-tn.playlist.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5NARG.ar",C5N
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5N.ar",C5N
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-c5n.playlist.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/33228636.jpg" tvg-id="CronicaTV.ar",Cronica
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="Canal.CNN.en.Español.ar (src05)",CNN en Espanol
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/02103792899990055273012.jpg" tvg-id="CNNenEspañol.ar",CNN en Espanol
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/02224808600615585287248.jpg" tvg-id="A24.ar",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar",America TV
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg" tvg-id="TVPUHD.ar",TV Publica
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/26.svg" tvg-id="CiudadMagazine.ar",Ciudad Magazine
 http://138.59.227.20:8000/play/a06m/index.m3u8
@@ -65,7 +65,7 @@ http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playl
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/channels4_profile8101886587540652499.jpg" tvg-id="Ar12.ar",AR12
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="",+Perfil
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="+Perfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telediario Now" tvg-logo="https://play-lh.googleusercontent.com/T1Lo-sP-9uFGvXhT3jkyrIEUp9X1DR31_Cnl19vWaKyKPycPVtCmhKDDbtT7vWU4Sb3TY2w3o8GShHzEvolVpw" group-title="Abierto",Telediario Now
@@ -75,7 +75,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13771&avod=1&coppa=0&td=6&
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-kzo.playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109331_dark_360w_270h.png" tvg-id="NetTV.ar",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="",Unife TV
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="Unife.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://yt3.googleusercontent.com/NLkqseNFqh8p_slwbnlXvwSbcXBkQGJTxlfPsVtaH9fBjZpJfC8QPLqd4BX4koXijw0i_LHHCA=s900-c-k-c0x00ffffff-no-rj" tvg-id="NGFederal.ar@SD",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
