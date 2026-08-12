@@ -45,7 +45,10 @@ http://138.59.227.20:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTNTODONOTI
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5N.ar",C5N
-http://138.59.227.20:8000/play/a05v/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+https://cdn.sensa.com.ar/live/eds/C5N/live_dash_cld/C5N.mpd
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
 https://g4.proy-hor.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/02103792899990055273012.jpg" tvg-id="CNNenEspañol.ar",CNN en Espanol
