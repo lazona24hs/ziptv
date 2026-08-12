@@ -139,8 +139,8 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar (src09)",TyC Sports
 http://ziptv.env.pm/live/tyc.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="",Dsport+
-http://ziptv.env.pm/live/dsportsplus.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="DSportsPlus.uy",Dsport+
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9557
 #EXTINF:-1 tvg-id="Espn.ar (src09)" group-title="Abierto",ESPN
 http://138.59.227.20:8000/play/a099/index.m3u8
 #EXTINF:-1 tvg-id="FSARH.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
@@ -415,6 +415,12 @@ https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 http://147.75.122.125:8000/play/a01a/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="",CBS News 24/7
 https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
+#
+#
+#
+#Radios y Streamings
+#
+#
 #EXTINF:-1 tvg-name="ZIP Radio" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png" group-title="Radios" radio="true",ZIP Radio
 https://stream.zeno.fm/idqecp6rhbnvv
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.open-epg.com/x991.png" tvg-id="RadioLa100.ar",Radio La 100
@@ -443,11 +449,17 @@ https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLSPO.png" group-title="Radios",Sol Play
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
-
-#EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="0432",DSports 2
-http://190.232.196.93:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="",DSports
-http://190.232.196.93:8000/play/a058/index.m3u8
+#
+#
+#
+#PackFutbol
+#
+#
+#
+#EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="DSports2.uy",DSports 2
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9566
+#EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="DSportsArgentina.uy",DSports
+http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9560
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157562
 #EXTINF:-1 group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium",TNT Sports Premium
@@ -468,6 +480,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288&avod=1&coppa=0&td=6&
 #
 #
 #
+#FreeTV
+#
+#
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/053884f7-7614-44e9-a2e8-73f8705d966b-17078563193998970048101848050.jpg" tvg-id="",FREE ACCION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16881&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
@@ -486,6 +501,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16562&avod=1&coppa=0&td=6&
 http://147.75.122.125:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/3693de83-bebe-4a5a-80a2-8e5c71cf8d6c-1707856437444384576843353838.jpg",FREE TV SUREÑO
 http://147.75.122.125:8000/play/a037/index.m3u8
+#
+#
+#
+#PlutoTV
+#
+#
+#
 #EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" tvg-id="5dcb62e63d4d8f0009f36881",Pluto TV Cine Acción
 https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
 #EXTINF:-1 group-title="PlutoTV" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG_1762281945243.png" tvg-id="5dcdde78f080d900098550e4",Pluto TV Cine Comedia
