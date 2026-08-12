@@ -29,7 +29,7 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 https://vivo.solumedia.com:19360/argento/argento.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="" tvg-id="",Somos Rosario 
+#EXTINF:-1 group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="",Somos Rosario 
 http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal.playlist.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" tvg-id="",TyC Sports - Señal Alternativa
@@ -62,7 +62,7 @@ http://138.59.227.20:8000/play/a06m/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar (src09)",El Nueve
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/157621
-#EXTINF:-1 group-title="Abierto" tvg-logo="" tvg-id="",AR12
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/channels4_profile8101886587540652499.jpg" tvg-id="",AR12
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="",+Perfil
