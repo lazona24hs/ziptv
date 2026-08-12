@@ -15,9 +15,9 @@
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar (src09)",El Tres
+#EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar (src09)",Telefe Rosario
+#EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
@@ -29,7 +29,7 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 https://vivo.solumedia.com:19360/argento/argento.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="",Somos Rosario 
+#EXTINF:-1 group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="SomosAmba.ar",Somos Rosario 
 http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal.playlist.m3u8
 
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/TyC_Sports_Logo.svg/3840px-TyC_Sports_Logo.svg.png" tvg-id="",TyC Sports - Señal Alternativa
