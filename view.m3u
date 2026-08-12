@@ -303,9 +303,9 @@ http://ziptv.env.pm/live/unireality.m3u8
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NGCLAH.ar (m3u4u)",Nat Geo
 http://190.108.83.69:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="H2LAT.ar (m3u4u)",History 2
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="History2.ar",History 2
 http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar (src09)",History Channel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.ar",TLC
 http://38.224.175.2:8000/play/a038/index.m3u8
@@ -367,11 +367,11 @@ http://152.231.29.139:8000/play/a09q/index.m3u8
 http://38.224.175.2:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg" tvg-id="Uni",Univision
 http://ziptv.env.pm/live/u40k.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RTSPAN.ar (m3u4u)",RT en Español
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RTSPAN.ar",RT en Español
 http://138.59.227.20:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125383_light_360w_270h.png" tvg-id="Rcn",RCN Más
 https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/16782340.png" tvg-id="HispanTV.ar (src09)",HispanTV
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/16782340.png" tvg-id="HispanTV.ar",HispanTV
 http://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_white_360w_270h.png" tvg-id="CGTNE.uy (m3u4u)",CGTN Español
 http://190.108.83.69:8000/play/a0ao/index.m3u8
