@@ -327,7 +327,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="Canal.HTV.ar (src05)" audio-track="es",HTV
 http://138.59.227.20:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-id="KpopMix.ar@SD",Kpop Mix
+#EXTINF:-1 group-title="Musica" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1280px-TRACE_Latina_Logo.png",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
