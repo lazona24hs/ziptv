@@ -255,39 +255,39 @@ http://38.224.175.2:8000/play/a082/index.m3u8
 http://190.108.93.180:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
-#EXTINF:-1 tvg-id="Canal.Sony.(Argentina).ar (src05)" group-title="Entretenimiento",Sony
+#EXTINF:-1 tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
 http://138.59.227.20:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar (src09)",Sony Movies
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar",Sony Movies
 http://190.108.83.69:8000/play/a08j/index.m3u8
 #EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
-#EXTINF:-1 tvg-id="SPACMHD.ar (m3u4u)" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
+#EXTINF:-1 tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
 http://190.108.93.180:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
 http://190.108.93.180:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar (src09)",Cine Latino
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
-#EXTINF:-1 tvg-id="StudioUniversal.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
 http://138.59.227.20:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="TCMLI.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
+#EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
 http://38.224.175.2:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar (src09)" ",HGTV
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
 http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar (src09)",TLNovelas
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
-#EXTINF:-1 tvg-id="TNT.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
+#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
 http://190.60.36.103:8000/play/a0cf/index.m3u8
-#EXTINF:-1 tvg-id="TNOVES.ar (m3u4u)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
+#EXTINF:-1 tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
 http://138.59.227.20:8000/play/a08e/index.m3u8
-#EXTINF:-1 tvg-id="TNTSeries.ar (src09)" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
 http://138.59.227.20:8000/play/a08c/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar (src09)",Golden
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png" tvg-id="Golden.ar",Golden
 http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="Canal.USA.Network.(Argentina).ar (src05)",USA Network
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
-#EXTINF:-1 tvg-id="UniversalTV.ar (src09)" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
+#EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
 http://190.60.36.103:8000/play/a006/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" tvg-id="[UNICI].Universal.Cinema.uy (src05)",UNIVERSAL CINEMA
 http://190.60.36.103:8000/play/a04t/index.m3u8
@@ -299,7 +299,7 @@ http://ziptv.env.pm/live/unicrime.m3u8
 http://190.60.36.103:8000/play/a04s/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151268_light_360w_270h.png" tvg-id="[UNIRE].Universal.Reality.uy (src05)",UNIVERSAL REALITY
 http://ziptv.env.pm/live/unireality.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="WOLEARH.ar (m3u4u)",Warner Channel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NGCLAH.ar (m3u4u)",Nat Geo
 http://190.108.83.69:8000/play/a046/index.m3u8
@@ -307,33 +307,33 @@ http://190.108.83.69:8000/play/a046/index.m3u8
 http://a-ziptv.env.pm:8000/play/a06n/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar (src09)",History Channel
 http://138.59.227.20:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.ar (src09)",TLC
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.ar",TLC
 http://38.224.175.2:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="LIFSURH.ar (m3u4u)",Lifetime
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://38.224.175.2:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar (src09)",Pasiones
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
 http://181.224.200.5:2277/play/4324/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="HolaTV.ar (src09)",Hola TV
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
 http://38.224.175.2:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="ANIPLH.ar (m3u4u)",ANIMAL PLANET
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" tvg-id="AnimalPlanet.ar",ANIMAL PLANET
 http://147.75.122.125:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="SunChannel.ar (src09)" ,SunChannel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="" tvg-id="SunChannel.ar" ,SunChannel
 http://38.137.192.250:8000/play/a0f1
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar (src09)",Food Network
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
 http://38.224.175.2:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="" tvg-id="CM.ar (m3u4u)",Canal de la Música
+#EXTINF:-1 group-title="Musica" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar (src09)",MusicTOP
+#EXTINF:-1 group-title="Musica" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar (src09)",Quiero Musica
+#EXTINF:-1 group-title="Musica" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="Canal.HTV.ar (src05)" audio-track="es",HTV
+#EXTINF:-1 group-title="Musica" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 http://138.59.227.20:8000/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/1280px-TRACE_Latina_Logo.png",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00520-tcl-tracelatina-tcl/playlist.m3u8
-#EXTINF:-1 group-title="Musica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="Canal.MTV.(Argentina).ar (src05)",MTV
+#EXTINF:-1 group-title="Musica" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" tvg-id="MTV.ar",MTV
 http://38.224.175.2:8000/play/a087/index.m3u8
 #EXTINF:-1 group-title="Musica" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-id="",MTV FlowLatino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
@@ -355,11 +355,11 @@ http://190.108.83.69:8000/play/a08l/index.m3u8
 http://190.108.83.69:8000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://images.open-epg.com/25716.png" tvg-id="Telemundo.ar",Telemundo
 http://38.224.175.2:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-id="https://images.seeklogo.com/logo-png/30/1/telemundo-logo-png_seeklogo-302213.png",Telemundo Noticias
+#EXTINF:-1 group-title="Internacional" tvg-logo="" tvg-logo="https://images.seeklogo.com/logo-png/30/1/telemundo-logo-png_seeklogo-302213.png",Telemundo Noticias
 http://38.224.175.2:8000/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).ar (src05)",NTN 24 Horas
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="NTN24NuestraTeleNoticias.ar",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TELESUR.ar (m3u4u)",TeleSUR
+#EXTINF:-1 group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TeleSUR.ar",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="",CHV
 http://152.231.29.139:8000/play/a09q/index.m3u8
