@@ -436,6 +436,8 @@ https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="" tvg-id="",Rock and Pop
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Realpolitik" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Radios",Radio Realpolitik
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-id="63dac1b78795f300086d5ca6",TikTok Radio en Español
 https://jmp2.uk/rok-8e04e4c0e2cd5fe49b087a6ce5fd0d91.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LT28.png" group-title="Radios",LT28 Rafaela
