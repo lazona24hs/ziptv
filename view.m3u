@@ -479,23 +479,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288&avod=1&coppa=0&td=6&
 #
 #
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/053884f7-7614-44e9-a2e8-73f8705d966b-17078563193998970048101848050.jpg" tvg-id="",FREE ACCION
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317
+http://147.75.122.125:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322
+http://147.75.122.125:8000/play/a039/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318
+http://147.75.122.125:8000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/e494073dec0082cc7fb5310e627e31a65724569045594146294.jpg" tvg-id="",FREE SABER MAS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16321
+http://147.75.122.125:8000/play/a038/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/0ee1ae4a-4921-45b1-a7da-64b5637ce1cd-17078565745022270220199205173.jpg" tvg-id="",FREE TV BANDA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16334
+http://147.75.122.125:8000/play/a03b/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/a8e9a317-4831-496f-af6f-e724217c3b28-17265047293585361201671434501.jpg" tvg-id="",FREE TV CLASICO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
+http://147.75.122.125:8000/play/a03c/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/bc1ba35f-b802-4af0-8681-44f288491bd5-1707856407840669212181802048.jpg",FREE TV DRAMA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316
+http://147.75.122.125:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/cf935835-f4b2-4d0a-8bf3-1c7f0c684ecb-17078565005770165670641801296.jpg",FREE TV FAMILIAR
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16320
+http://147.75.122.125:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/3693de83-bebe-4a5a-80a2-8e5c71cf8d6c-1707856437444384576843353838.jpg",FREE TV SUREÑO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16323
+http://147.75.122.125:8000/play/a037/index.m3u8
 #
 #
 #
