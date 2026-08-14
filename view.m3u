@@ -211,13 +211,13 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" group-title="Entretenimiento",Discovery Channel
 http://138.59.227.20:8000/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
-http://147.75.122.125:8000/play/a01g/index.m3u8
+http://138.59.227.20:8000/play/a08f/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
-http://147.75.122.125:8000/play/a01m/index.m3u8
+http://200.59.213.66:8000/play/a01r/index.m3u8?hls
 #EXTINF:-1 tvg-id="DiscoveryTheater.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
 http://138.59.227.20:8000/play/a074/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
-http://147.75.122.125:8000/play/a01j/index.m3u8
+http://200.59.213.66:8000/play/a013/index.m3u8?hls
 #EXTINF:-1 tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
 http://138.59.227.20:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
