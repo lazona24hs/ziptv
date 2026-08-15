@@ -229,7 +229,7 @@ http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
 http://190.108.93.180:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
-https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8
+http://158.172.155.130:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
 http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
@@ -281,7 +281,7 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
-http://45.226.28.9:8085/Live/fd94e32854b9daefc1df85517b387b95/local-universalchannel.playlist.m3u8
+http://158.172.155.130:8000/play/a08n/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" tvg-id="UniversalCinema.uy",UNIVERSAL CINEMA
 http://190.60.36.103:8000/play/a04t/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg" tvg-id="UniversalComedy.uy",UNIVERSAL COMEDY
