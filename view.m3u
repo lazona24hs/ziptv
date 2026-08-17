@@ -11,11 +11,11 @@
 ####
 
 
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
+#EXTINF:-1 tvg-chno="0.1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 http://45.226.28.9:8085/Live/fd94e32854b9daefc1df85517b387b95/local-evento6.playlist.m3u8
-#EXTINF:-1 group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
+#EXTINF:-1 tvg-chno="0.2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
+#EXTINF:-1 tvg-chno="22.5" group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
