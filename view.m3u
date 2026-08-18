@@ -677,26 +677,29 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 #
 #
 #Relay
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0915",El Trece
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0909",Telefe Santa Fe
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",Telefe Santa Fe
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",RTS Medios
 http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", C5N
-http://15.204.246.24:8080/elnueveHD/index.m3u8
+http://181.209.91.106:2222/Live/a48828ddb4e07ae6386530c3c8f01682/c5n.playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TyC Sports HD
 http://ziptv.env.pm/live/tychd.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
 http://ziptv.env.pm/live/history.m3u8
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", El Gourmet HD
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 group-title="Relay" tvg-id="",Film & Arts HD
-http://15.204.246.24:8080/FilmArtsHD/index.m3u8
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Cronica
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="Relay" tvg-id="",Canal de la Ciudad
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica
 http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TN HD
-http://15.204.246.24:8080/TNHD/index.m3u8
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TNT
+https://iptv.bitred.cl/Tnt/index.m3u8
 
 #
 #
