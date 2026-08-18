@@ -702,6 +702,12 @@ https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TNT
 https://iptv.bitred.cl/Tnt/index.m3u8
+#EXTINF:-1 group-title="Relay" http-user-agent="VisualOn OSMP+ Playera(Linux;Android)" http-referrer="https://player.sensa.com.ar/&webtoken=1.0" referrer="https://player.sensa.com.ar/&webtoken=1.0",Telefe Rosario
+#EXTVLCOPT:http-user-agent="VisualOn OSMP+ Playera(Linux;Android)"
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
 
 #
 #
