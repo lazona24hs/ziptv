@@ -21,12 +21,8 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 group-title="Rosario" http-user-agent="VisualOn OSMP+ Playera(Linux;Android)" http-referrer="https://player.sensa.com.ar/&webtoken=1.0" referrer="https://player.sensa.com.ar/&webtoken=1.0",Telefe Rosario [ALT]
-#EXTVLCOPT:http-user-agent="VisualOn OSMP+ Playera(Linux;Android)"
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
+#EXTINF:-1 group-title="Rosario",Telefe Rosario [ALT]
+http://181.209.91.106:2222/Live/a48828ddb4e07ae6386530c3c8f01682/canal5.playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
