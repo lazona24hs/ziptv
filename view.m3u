@@ -429,7 +429,7 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 #
 #EXTINF:-1 tvg-name="ZIP Radio" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png" group-title="Radios" radio="true",ZIP Radio
 https://stream.zeno.fm/idqecp6rhbnvv
-#EXTINF:-1 tvg-name="Frecuencia Plus" tvg-logo="" group-title="Radios" radio="true",Fm Plus Rosario
+#EXTINF:-1 tvg-name="Frecuencia Plus" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Radios" radio="true",Fm Plus Rosario
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 
 
