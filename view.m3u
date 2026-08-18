@@ -65,7 +65,8 @@ http://138.59.227.20:8000/play/a06m/index.m3u8
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ2S21wNlNDNVdVelkzclB6MEY1M1ZYLw
-
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Abierto",Ciudad Magazine [ALT]
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/channels4_profile8101886587540652499.jpg" tvg-id="Ar12.ar",AR12
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 
@@ -137,6 +138,9 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-id="1382" tvg-name="Power Max TV" tvg-logo="https://cdn.m3u.cl/logo/1382_Power_Max_TV.png",Power Max TV 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+#EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Abierto" user-agent="iPhone",Canal 10 de Junin
+#EXTVLCOPT:http-user-agent=iPhone
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
