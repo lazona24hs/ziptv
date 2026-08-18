@@ -425,6 +425,9 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 #
 #EXTINF:-1 tvg-name="ZIP Radio" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png" group-title="Radios" radio="true",ZIP Radio
 https://stream.zeno.fm/idqecp6rhbnvv
+
+#EXTINF:-1 tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Radios", Cumbia Argentina
+https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.open-epg.com/x991.png" tvg-id="RadioLa100.ar",Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
