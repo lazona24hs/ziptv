@@ -22,10 +22,8 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario [ALT]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://854248.xyz/flow/license.php
-#EXTHTTP:{"Accept": "*/*", "Accept-Encoding": "gzip, deflate", "Accept-Language": "es-ES,es;q=0.9", "Origin": "https://portal.app.flow.com.py", "Referer": "https://portal.app.flow.com.py/", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
-https://edge-mix03-cte.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MTg1MjQ1Iiwic2lwIjoiMTkwLjEyMi45MS4xMTEiLCJwYXRoIjoiL291dC92MS9URUxFRkVfVGVuZC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjFmY2U1YmY4MTFhNjBiNDUiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMzI4Iiwic291cmNlcyI6Wzc3LDg1LDE0NCwyMTAsODYsODhdfQ==.dtJQ8tHKxCY5H05dOstXiqvsj7N-8dy_eyyxHoX-7mzMHaosAXEOFPv0pvpondHfSk99a2jYMy4TeL8_qemYvQ==/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd
+#EXTHTTP:{"Accept": "*/*", "Accept-Encoding": "gzip, deflate", "Accept-Language": "es-ES,es;q=0.9", "Origin": "https://player.sensa.com.ar/&webtoken=1.0", "Referer": "https://player.sensa.com.ar/&webtoken=1.0", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"}
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
