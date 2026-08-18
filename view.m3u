@@ -129,7 +129,9 @@ https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://yt3.googleusercontent.com/rH_NXIbAbMz-ShGm0I9kD6Nv9k1_bk9lqXusl9YirffW1qF_UOd3Qfq2I3Rv1I1IRPTanqf9xg=s900-c-k-c0x00ffffff-no-rj" tvg-id="",SOMOS UNO
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" tvg-id="",CANAL 9 PARANA
-https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/.m3u8
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/.m3u8 
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/2banner2180670149719750452.jpg" tvg-id="", Canal AVC
+https://nd106.republicaservers.com/hls/c8186/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-id="", T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/x1006.png" tvg-id="Telemax.ar",Telemax
