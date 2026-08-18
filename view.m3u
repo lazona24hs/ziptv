@@ -694,7 +694,9 @@ https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",RTS Medios
 http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", C5N
-http://181.209.91.106:2222/Live/a48828ddb4e07ae6386530c3c8f01682/c5n.playlist.m3u8
+https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TyC Sports HD
 http://ziptv.env.pm/live/tychd.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
