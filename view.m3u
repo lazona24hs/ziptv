@@ -19,8 +19,6 @@ http://ziptv.env.pm/live/gh.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario [ALT]
-https://live.eu-north-1a.cf.dmcdn.net/sec2(TeKJ-UaJ2UD10IFwgoBxorHL0M9i0LyIvWA9rhfeKUtz3gl7eChbyKxTk2wEVpxgxsVH4X1l39fOYMKBovuFsobJr9Hn-7iHs4xIHpOUbBpFbIo7bHU0zo6CXnyU6xc9)/dm/3/xaekt76/s/live-720.m3u8#cell=lcf-eu-north-1a
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
@@ -679,25 +677,25 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 #
 #
 #Relay
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="0915",El Trece HD
-http://15.204.246.24:8080/eltreceHD/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="0909",Telefe HD
-http://15.204.246.24:8080/telefeHD/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",TV Publica HD
-http://138.59.227.20:8000/play/a095/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="", El Nueve HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0915",El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0909",Telefe Santa Fe
+https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",RTS Medios
+http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", C5N
 http://15.204.246.24:8080/elnueveHD/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",TyC Sports HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TyC Sports HD
 http://ziptv.env.pm/live/tychd.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",History Channel HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
 http://ziptv.env.pm/live/history.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="", El Gourmet HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", El Gourmet HD
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-id="",Film & Arts HD
+#EXTINF:-1 group-title="Relay" tvg-id="",Film & Arts HD
 http://15.204.246.24:8080/FilmArtsHD/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="0510",Quiero Musica HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica HD
 http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 group-title="HD" tvg-logo="" tvg-id="",TN HD
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TN HD
 http://15.204.246.24:8080/TNHD/index.m3u8
 
 #
