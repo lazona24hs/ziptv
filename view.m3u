@@ -21,8 +21,7 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-#EXTINF:-1 group-title="Rosario",Telefe Rosario [ALT]
-https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
+
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
@@ -38,13 +37,15 @@ http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
-http://181.209.105.115:2525/play/ciudadtv/index.m3u8
+https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="Relay" tvg-id="",Canal de la Ciudad
+http://138.59.227.20:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
 http://181.209.91.106:2222/Live/a48828ddb4e07ae6386530c3c8f01682/lntv.playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5N.ar",C5N
-http://181.209.105.115:2525/play/c5n/index.m3u8
+http://138.59.227.20:8000/play/a05v/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -689,8 +690,6 @@ http://ziptv.env.pm/live/tychd.m3u8
 http://ziptv.env.pm/live/history.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Cronica
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-#EXTINF:-1 group-title="Relay" tvg-id="",Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TNT
