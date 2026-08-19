@@ -245,20 +245,6 @@ http://190.108.93.180:8000/play/a024/index.m3u8
 http://158.172.155.130:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
 http://138.59.227.20:8000/play/a07o/index.m3u8
-#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80211_dark_360w_270h.png" group-title="Entretenimiento",HBO Xtreme
-http://38.224.175.2:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_white_360w_270h.png" group-title="Entretenimiento",HBO Family
-http://38.224.175.2:8000/play/a07x/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png" tvg-id="HBOPop.ar",HBO Pop
-http://190.108.93.180:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34725_dark_360w_270h.png" group-title="Entretenimiento",HBO Plus
-http://38.224.175.2:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento" tvg-id="HBOMundi.ar",HBO Mundi
-http://38.224.175.2:8000/play/a084/index.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbosignature4327230632041923488.png" group-title="Entretenimiento",HBO Signature
-http://38.224.175.2:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbo-xtreme15625599616626598075.png" tvg-id="HBOXtreme.ar",HBO Xtreme
-http://190.108.93.180:8000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
@@ -295,16 +281,8 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
 http://181.209.105.115:2525/play/universal/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6979.svg" tvg-id="UniversalCinema.uy",UNIVERSAL CINEMA
-http://190.60.36.103:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/6978.svg" tvg-id="UniversalComedy.uy",UNIVERSAL COMEDY
-http://190.60.36.103:8000/play/a04w/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151267_white_360w_270h.png" tvg-id="UniversalPremiere.uy",UNIVERSAL PREMIERE
-http://190.60.36.103:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s151268_light_360w_270h.png" tvg-id="UniversalReality.uy",UNIVERSAL REALITY
-http://ziptv.env.pm/live/unireality.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
 http://138.59.227.20:8000/play/a09d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NationalGeographic.ar",Nat Geo
