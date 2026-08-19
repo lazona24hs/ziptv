@@ -59,9 +59,11 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
-http://181.209.105.115:2525/play/cronica/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Cronica
+http://138.59.227.20:8000/play/a05w/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/26.svg" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
+http://138.59.227.20:8000/play/a06m/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
@@ -280,7 +282,7 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
 http://a-ziptv.env.pm:8000/play/a068/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
-http://181.209.105.115:2525/play/universal/index.m3u8
+http://138.59.227.20:8000/play/a09i/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
@@ -688,8 +690,6 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 http://ziptv.env.pm/live/tychd.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
 http://ziptv.env.pm/live/history.m3u8
-#EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Cronica
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="",TNT
