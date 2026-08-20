@@ -248,7 +248,7 @@ http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
-http://138.59.227.20:8000/play/a09c/index.m3u8
+http://45.188.229.33:8000/play/a1b2/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar",Sony Movies
 http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
