@@ -144,11 +144,11 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
-https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1_1080p/index.m3u8
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4ck05WEhQaDFiMUlzWDNJaWZpM2U4bXR0eU5lSDRNMG5FRGNqb1JRdG1CTg
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="DSportsPlus.uy",Dsport+
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9557
 #EXTINF:-1 tvg-id="Espn.ar" group-title="Abierto",ESPN
-http://138.59.227.20:8000/play/a099/index.m3u8
+http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4djlEdmp2OWg3WjJqZ0Y0OWQyTW11TXlqWmhhc01PTWRrS29seUg5bk1IWQ
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9575
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Abierto",ESPN 2
