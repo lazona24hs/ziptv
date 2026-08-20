@@ -43,7 +43,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
 http://181.209.91.106:2222/Live/a48828ddb4e07ae6386530c3c8f01682/lntv.playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75994_dark_360w_270h.png" tvg-id="C5N.ar",C5N
-http://138.59.227.20:8000/play/a05v/index.m3u8
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/490448
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -58,8 +58,8 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
 http://138.59.227.20:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Abierto" tvg-logo="http://resources.nuevosiglo.com.uy/reportv/img/senales/26.svg" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-http://138.59.227.20:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/490453
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
 http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
