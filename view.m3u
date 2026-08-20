@@ -248,7 +248,7 @@ http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
-http://45.188.229.33:8000/play/a1b2/index.m3u8
+http://45.188.229.33:8000/play/a1ah/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s124605_dark_360w_270h.png" tvg-id="SonyMovies.ar",Sony Movies
 http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
@@ -256,11 +256,11 @@ https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
 http://45.188.229.33:8000/play/a1hy/index.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
-http://181.209.38.115:8000/play/a019/index.m3u8?hls
+http://45.188.229.33:8000/play/a1ku/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
 http://ziptv.env.pm/live/c02k.m3u8
 #EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
-http://138.59.227.20:8000/play/a067/index.m3u8
+http://45.188.229.33:8000/play/a1li/index.m3u8
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
 http://38.224.175.2:8000/play/a03w/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
