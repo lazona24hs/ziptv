@@ -268,7 +268,7 @@ http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
-http://45.188.229.33:8000/play/a1kv/index.m3u8
+http://solutionspremium.net:8080/live/user3675/374738883/248839.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
 http://138.59.227.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
