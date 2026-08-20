@@ -37,8 +37,6 @@ http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
-https://g4.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
-#EXTINF:-1 group-title="Relay" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="",Canal de la Ciudad
 http://45.188.229.33:8000/play/a1cn/index.m3u8
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
