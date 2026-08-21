@@ -68,7 +68,7 @@ http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4cmpBVmxDOEp3dnc5aDh3R2UzcmJ
 #EXTINF:-1 group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/channels4_profile8101886587540652499.jpg" tvg-id="Ar12.ar",AR12
 http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-ar12.playlist.m3u8
 
-#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="+Perfil.ar",+Perfil
+#EXTINF:-1 group-title="Abierto" tvg-logo="https://i.ytimg.com/vi/E_GXl62SugE/hq720.jpg" tvg-id="MásPerfil.ar",+Perfil
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Telediario Now" tvg-logo="https://play-lh.googleusercontent.com/T1Lo-sP-9uFGvXhT3jkyrIEUp9X1DR31_Cnl19vWaKyKPycPVtCmhKDDbtT7vWU4Sb3TY2w3o8GShHzEvolVpw" group-title="Abierto",Telediario Now
