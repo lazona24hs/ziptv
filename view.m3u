@@ -179,7 +179,7 @@ http://138.59.227.20:8000/play/a083/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DiscoveryKids.ar",Discovery Kids
 http://158.172.155.130:8000/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_gray_360w_270h.png" tvg-id="DisneyChannel.ar",Disney Channel
-http://158.172.155.130:8000/play/a00c/index.m3u8
+https://ndigital.com.ar/tvstream/disney_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-id="DisneyJunior.ar",Disney Junior
 http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 group-title="ATP/INFANTIL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
