@@ -204,7 +204,7 @@ https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar",Cinecanal
 http://a-ziptv.env.pm:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_white_360w_270h.png" group-title="Entretenimiento",Cinemax
-http://138.59.227.20:8000/play/a08r/index.m3u8
+https://ndigital.com.ar/tvstream/cinemax_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_gray_360w_270h.png" group-title="Entretenimiento",Comedy Central
 http://38.224.175.2:8000/play/a07t/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" tvg-id="DistritoComedia.uy" group-title="Entretenimiento",Distrito Comedia
@@ -236,13 +236,13 @@ http://138.59.227.20:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
 http://ziptv.env.pm/live/did.m3u8
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="Entretenimiento",FX
-http://38.224.175.2:8000/play/a02i/index.m3u8
+https://ndigital.com.ar/tvstream/fx_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
 http://a-ziptv.env.pm:8000/play/a075/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
 http://45.188.229.33:8000/play/a1ap/index.m3u8
 #EXTINF:-1 tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
-http://158.172.155.130:8000/play/a00g/index.m3u8
+https://ndigital.com.ar/tvstream/hbo_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
 http://138.59.227.20:8000/play/a07o/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
@@ -254,7 +254,7 @@ http://45.188.229.33:8000/play/a1jo/index.m3u8
 #EXTINF:-1 tvg-name="Sony One Cinema" tvg-logo="http://img.platform.wurl.dev/channel/1003/lg/003d48/LG-Logo-PNG-100x100_v2.png" group-title="Abierto",Sony One Cinema
 https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneCinema/playlist.m3u8
 #EXTINF:-1 tvg-id="Space.ar" tvg-logo="http://i.tvcluboficial.com/space.png" group-title="Entretenimiento",Space
-http://45.188.229.33:8000/play/a1hy/index.m3u8
+https://ndigital.com.ar/tvstream/space_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
 http://45.188.229.33:8000/play/a1ku/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
