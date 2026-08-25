@@ -458,6 +458,20 @@ https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/NME-l75Q_DdhLxbr0eVkNZv-JAsRyiMdLElAltMdAlkcHiobPmGxrJyy0XuscrY80ObUWXvudA=s900-c-k-c0x00ffffff-no-rj" group-title="Radios" group-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png",Comunidad FAN
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https%3A%2F%2Fwww.youtube.com%2F%40ComunidadFAN
 #
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive_manifest_type=hls
+#KODIPROP:inputstream.adaptive_manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive_play_timeshift_buffer
+#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-continuous
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:no-audio-desync
+#EXTVLCOPT:avcodec-hw=auto
+#EXTVLCOPT:avcodec-fast
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/qRgru305XOPil6Gjf1Sud5i280-qMZVFYXstKUDk6hVH4A_T_MR8O-c317l3i_XdFqZ2upQR=s900-c-k-c0x00ffffff-no-rj" group-title="" group-logo="",FM VIDA
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https%3A%2F%2Fwww.youtube.com%2F%40FM-VIDA
+#
 #
 #
 #PackFutbol
