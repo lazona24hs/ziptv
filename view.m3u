@@ -469,7 +469,7 @@ https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https%3A%2F%2Fw
 #EXTVLCOPT:no-audio-desync
 #EXTVLCOPT:avcodec-hw=auto
 #EXTVLCOPT:avcodec-fast
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/qRgru305XOPil6Gjf1Sud5i280-qMZVFYXstKUDk6hVH4A_T_MR8O-c317l3i_XdFqZ2upQR=s900-c-k-c0x00ffffff-no-rj" group-title="" group-logo="",FM VIDA
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/qRgru305XOPil6Gjf1Sud5i280-qMZVFYXstKUDk6hVH4A_T_MR8O-c317l3i_XdFqZ2upQR=s900-c-k-c0x00ffffff-no-rj" group-title="Radios" group-logo="",FM VIDA
 https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https%3A%2F%2Fwww.youtube.com%2F%40FM-VIDA
 #
 #
@@ -743,12 +743,20 @@ https://iptv.bitred.cl/Tnt/index.m3u8
 
 #EXTINF:-1 group-title="Relay" tvg-logo="" tvg-id="", Cronica
 https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/playlist_360p.m3u8?sense=true
-#EXTINF:-1 group-title="Relay" http-user-agent="VisualOn OSMP+ Playera(Linux;Android)" http-referrer="https://player.sensa.com.ar/&webtoken=1.0" referrer="https://player.sensa.com.ar/&webtoken=1.0",Telefe Rosario [MPD]
-#EXTVLCOPT:http-user-agent="VisualOn OSMP+ Playera(Linux;Android)"
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://smt-usr-edge05.sensa.com.ar/live/eds/TelefeRosarioD/live_dash_cld/TelefeRosarioD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive_manifest_type=hls
+#KODIPROP:inputstream.adaptive_manifest_update_parameter=full
+#KODIPROP:inputstream.adaptive_play_timeshift_buffer
+#EXTVLCOPT:http-reconnect
+#EXTVLCOPT:http-continuous
+#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:clock-jitter=0
+#EXTVLCOPT:no-audio-desync
+#EXTVLCOPT:avcodec-hw=auto
+#EXTVLCOPT:avcodec-fast
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mJhLkdMg2zNnhppHHLaqmtPWaI_BN2vMXy9QsVfPS0NA=s160-c-k-c0x00ffffff-no-rj" group-title="Relay" group-logo="",Telefe Rosario YT
+https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=@teleferosarioAR&proxy=1
 #
 #
 #
