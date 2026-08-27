@@ -130,7 +130,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-chno="54" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
 http://45.188.229.33:8000/play/a18u/index.m3u8
-#EXTINF:-1 tvg-chno="55" group-title="Abierto" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1782028333229" tvg-id="DSportsPlus.uy",Dsport+
+#EXTINF:-1 tvg-chno="55" group-title="Abierto" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9557
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Abierto",ESPN
 http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4djlEdmp2OWg3WjJqZ0Y0OWQyTW11TXlqWmhhc01PTWRrS29seUg5bk1IWQ
@@ -525,9 +525,9 @@ https://m3ukodiiptv.alwaysdata.net/root/youtube/yt_stream.php?id=https%3A%2F%2Fw
 #
 #
 #
-#EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png" tvg-id="DSports2.uy",DSports 2
+#EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
 http://45.188.229.33:8000/play/a1ix/index.m3u8
-#EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" tvg-id="DSportsArgentina.uy",DSports
+#EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.188.229.33:8000/play/a1iw/index.m3u8
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 http://181.209.38.115:8000/play/a00f/index.m3u8?hls
