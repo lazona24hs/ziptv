@@ -268,7 +268,7 @@ http://a-ziptv.env.pm:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-chno="120" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s37232_dark_360w_270h.png" tvg-id="TLNovelas.ar",TLNovelas
 http://138.59.227.20:8000/play/a07y/index.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="TNT.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Entretenimiento",TNT
-http://solutionspremium.net:8080/live/user3675/374738883/248839.m3u8
+http://45.188.229.33:8000/play/a1cs/index.m3u8
 #EXTINF:-1 tvg-chno="122" tvg-id="TNTNovelas.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s140026_dark_360w_270h.png" group-title="Entretenimiento",TNT Novelas
 http://138.59.227.20:8000/play/a08e/index.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-id="TNTSeries.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91993_dark_360w_270h.png" group-title="Entretenimiento",TNT Series
@@ -336,7 +336,10 @@ https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
 #EXTINF:-1 tvg-chno="154" group-title="Regionales", Regionales - Canales AR
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-chno="155" group-title="Regionales", Regionales - Canales AR
-http://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="156" group-title="Regionales", Regionales - Canales AR
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-chno="157" group-title="Regionales", Regionales - Canales AR
@@ -360,11 +363,11 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" group-title="Regionales", Regionales - Canales AR
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="167" group-title="Regionales", Regionales - Canales AR
-https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 #EXTINF:-1 tvg-chno="168" group-title="Regionales", Regionales - Canales AR
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" group-title="Regionales", Regionales - Canales AR
-https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null
+http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
 #EXTINF:-1 tvg-chno="170" group-title="Regionales", Regionales - Canales AR
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-chno="171" group-title="Regionales", Regionales - Canales AR
@@ -372,7 +375,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-chno="172" group-title="Regionales", Regionales - Canales AR
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-chno="173" group-title="Regionales", Regionales - Canales AR
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+http://45.188.229.33:8000/play/a1dc/index.m3u8
 #EXTINF:-1 tvg-chno="174" group-title="Regionales", Regionales - Canales AR
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-chno="175" group-title="Regionales", Regionales - Canales AR
