@@ -133,19 +133,19 @@ http://45.188.229.33:8000/play/a18u/index.m3u8
 #EXTINF:-1 tvg-chno="55" group-title="Abierto" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
 http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9557
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Abierto",ESPN
-http://zonacero.lat:8080/YnJDTHJSdXRDQ1dRQy9wczcrQkY4djlEdmp2OWg3WjJqZ0Y0OWQyTW11TXlqWmhhc01PTWRrS29seUg5bk1IWQ
+http://ar.eradio.xubi.org:8000/play/a1ac/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9575
+http://ar.eradio.xubi.org:8000/play/a1cp/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Abierto",ESPN 2
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9526
+http://ar.eradio.xubi.org:8000/play/a1ab/index.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="Abierto",ESPN 3
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9533
+http://ar.eradio.xubi.org:8000/play/a0wf/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="Abierto",ESPN 4
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9538
+http://ar.eradio.xubi.org:8000/play/a1dg/index.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Abierto",Fox Sports 2
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9581
+http://ar.eradio.xubi.org:8000/play/a1ae/index.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="FoxSports3.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_light_360w_270h.png" group-title="Abierto",Fox Sports 3
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9589
+http://138.121.113.175:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Abierto" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
