@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Iniciar Sesión</title>
+  <title>Control Panel - ZipTV</title>
   <style>
     * {
       box-sizing: border-box;
@@ -48,9 +48,16 @@
       color: #b3b3b3;
     }
 
+    /* Contenedor relativo para posicionar el botón de la contraseña */
+    .password-wrapper {
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+
     .form-group input {
       width: 100%;
-      padding: 0.75rem 1rem;
+      padding: 0.75rem 2.5rem 0.75rem 1rem; /* Espacio extra a la derecha para el botón */
       border: 1px solid #3d3d5c;
       border-radius: 6px;
       background: #1a1a2e;
@@ -62,6 +69,25 @@
 
     .form-group input:focus {
       border-color: #00d2ff;
+    }
+
+    .toggle-password {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: #b3b3b3;
+      cursor: pointer;
+      font-size: 1.1rem;
+      padding: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      user-select: none;
+    }
+
+    .toggle-password:hover {
+      color: #00d2ff;
     }
 
     .btn-submit {
@@ -94,41 +120,60 @@
 <body>
 
   <div class="login-card">
-    <h2>Bienvenido</h2>
+    <h2>CONTROL PANEL</h2>
     <form id="loginForm">
       <div class="form-group">
         <label for="username">Usuario</label>
         <input type="text" id="username" required placeholder="Tu usuario" autocomplete="off">
       </div>
+      
       <div class="form-group">
         <label for="password">Contraseña</label>
-        <input type="password" id="password" required placeholder="••••••••" autocomplete="off">
+        <div class="password-wrapper">
+          <input type="password" id="password" required placeholder="••••••••" autocomplete="off">
+          <button type="button" id="togglePasswordBtn" class="toggle-password" title="Mostrar/Ocultar contraseña">
+            👁️
+          </button>
+        </div>
       </div>
+
       <button type="submit" class="btn-submit">Ingresar</button>
       <p id="errorMsg" class="error-msg">Usuario o contraseña incorrectos</p>
     </form>
   </div>
 
   <script>
-    // Hash SHA-256 de "admin"
+    // 
     const TARGET_USER = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918";
 
-    // Hash SHA-256 de "3radio2026"
+    // 
     const TARGET_PASS = "c0fa4a86dbf8ca149ee681121d15bf1dd4ef7c06ca4ca7ec31a6135ef00a061d";
 
-    // Base64 de "https://eradio.env.pm"
+    //
     const TARGET_URL = "aHR0cHM6Ly9lcmFkaW8uZW52LnBt";
 
+    // 
+    const passwordInput = document.getElementById("password");
+    const togglePasswordBtn = document.getElementById("togglePasswordBtn");
+
+    togglePasswordBtn.addEventListener("click", function() {
+      const isPassword = passwordInput.getAttribute("type") === "password";
+      passwordInput.setAttribute("type", isPassword ? "text" : "password");
+      this.textContent = isPassword ? "🙈" : "👁️";
+    });
+
+    // Función para calcular hash SHA-256
     async function getHash(text) {
       const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
       return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
     }
 
+    // Validar formulario de Login
     document.getElementById("loginForm").addEventListener("submit", async function(e) {
       e.preventDefault();
 
       const userInput = document.getElementById("username").value.trim().toLowerCase();
-      const passInput = document.getElementById("password").value.trim();
+      const passInput = passwordInput.value.trim();
       const errorMsg = document.getElementById("errorMsg");
 
       const userHash = await getHash(userInput);
