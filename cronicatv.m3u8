@@ -1,1 +1,5 @@
-<html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>HLS Cache not ready</p><hr /><i>Astra</i></body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="Cronica" tvg-name="Cronica TV", Crónica TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=http://181.209.105.115:2525
+http://181.209.105.115:2525/play/cronica/index.m3u8
