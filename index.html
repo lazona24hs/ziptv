@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Control Panel - ZipTV</title>
+  <title>Iniciar Sesión</title>
   <style>
     * {
       box-sizing: border-box;
@@ -102,7 +102,7 @@
       </div>
       <div class="form-group">
         <label for="password">Contraseña</label>
-        <input type="password" id="password" required placeholder="••••••••">
+        <input type="password" id="password" required placeholder="••••••••" autocomplete="off">
       </div>
       <button type="submit" class="btn-submit">Ingresar</button>
       <p id="errorMsg" class="error-msg">Usuario o contraseña incorrectos</p>
@@ -110,42 +110,34 @@
   </div>
 
   <script>
-    // Hash SHA-256 del usuario "admin"
-    const USER_HASH_TARGET = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918";
+    // Hash SHA-256 de "admin"
+    const TARGET_USER = "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918";
 
-    // Hash SHA-256 de la contraseña "3radio2026"
-    const PASS_HASH_TARGET = "c0fa4a86dbf8ca149ee681121d15bf1dd4ef7c06ca4ca7ec31a6135ef00a061d";
+    // Hash SHA-256 de "3radio2026"
+    const TARGET_PASS = "c0fa4a86dbf8ca149ee681121d15bf1dd4ef7c06ca4ca7ec31a6135ef00a061d";
 
-    // URL codificada en Base64 para "https://eradio.env.pm"
-    const ENCRYPTED_REDIRECT_URL = "aHR0cHM6Ly9lcmFkaW8uZW52LnBt";
+    // Base64 de "https://eradio.env.pm"
+    const TARGET_URL = "aHR0cHM6Ly9lcmFkaW8uZW52LnBt";
 
-    // Función segura para generar hash SHA-256 en formato Hexadecimal
-    async function sha256Hex(str) {
-      const msgUint8 = new TextEncoder().encode(str);
-      const hashBuffer = await crypto.subtle.digest('SHA-256', msgUint8);
-      const hashArray = Array.from(new Uint8Array(hashBuffer));
-      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    async function getHash(text) {
+      const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+      return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
     }
 
-    document.getElementById('loginForm').addEventListener('submit', async function(e) {
+    document.getElementById("loginForm").addEventListener("submit", async function(e) {
       e.preventDefault();
 
-      const user = document.getElementById('username').value.trim();
-      const pass = document.getElementById('password').value;
-      const errorMsg = document.getElementById('errorMsg');
+      const userInput = document.getElementById("username").value.trim().toLowerCase();
+      const passInput = document.getElementById("password").value.trim();
+      const errorMsg = document.getElementById("errorMsg");
 
-      // Ocultar mensaje de error anterior
-      errorMsg.style.display = 'none';
+      const userHash = await getHash(userInput);
+      const passHash = await getHash(passInput);
 
-      // Calcular hashes Hexadecimales de las entradas
-      const userHash = await sha256Hex(user);
-      const passHash = await sha256Hex(pass);
-
-      // Comparación estricta de hashes
-      if (userHash === USER_HASH_TARGET && passHash === PASS_HASH_TARGET) {
-        window.location.href = atob(ENCRYPTED_REDIRECT_URL);
+      if (userHash === TARGET_USER && passHash === TARGET_PASS) {
+        window.location.href = atob(TARGET_URL);
       } else {
-        errorMsg.style.display = 'block';
+        errorMsg.style.display = "block";
       }
     });
   </script>
