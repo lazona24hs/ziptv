@@ -1,33 +1,51 @@
-name: Actualizar Streams HLS
+
+name: Actualizar streams M3U8
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 5 minutos
-    - cron: '*/5 * * * *'
-  workflow_dispatch: # Permite ejecución manual desde GitHub
+    - cron: '*/30 * * * *' # Corre cada 30 minutos
+  workflow_dispatch:
 
 jobs:
-  fetch-m3u8:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Descargar repositorio
-        uses: actions/checkout@v3
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
 
-      - name: Obtener archivos M3U8 originales
+      - name: Descargar y corregir streams
         run: |
-          # Stream 1
-          curl -s "https://stream.zeno.fm/idqecp6rhbnvv" -o eradio.m3u8
+          # Define las parejas URL_ORIGEN|DOMINIO_BASE separadas por espacios
+          STREAMS=(
+            "http://181.209.105.115:2525/play/ae/index.m3u8|http://181.209.105.115:2525/play/ae|ae.m3u8"
+            "http://181.209.105.115:2525/play/cronica/index.m3u8|http://181.209.105.115:2525/play/cronica|cronicatv.m3u8"
+            "https://stream.zeno.fm/idqecp6rhbnvv.m3u|https://stream.zeno.fm/idqecp6rhbnvv|eradio.m3u8"
+          )
 
-          # Stream 2 (Agrega aquí otro canal o fuente)
-          curl -s "http://181.209.105.115:2525/play/ae/index.m3u8" -o ae.m3u8
+          for entry in "${STREAMS[@]}"; do
+            IFS="|" read -r stream_url base_url file_name <<< "$entry"
+            echo "Procesando $file_name..."
 
-          # Stream 3
-          curl -s "http://181.209.105.115:2525/play/cronica/index.m3u8" -o cronicatv.m3u8
+            # Descargar archivo original
+            curl -s "$stream_url" -o temp.m3u8
 
-      - name: Publicar cambios
+            # Convertir segmentos relativos (.ts) a URLs absolutas
+            awk -v base="$base_url" '{
+              if ($0 ~ /\.ts$/ && $0 !~ /^http/) {
+                print base $0
+              } else {
+                print $0
+              }
+            }' temp.m3u8 > "$file_name"
+
+            rm temp.m3u8
+          done
+
+      - name: Guardar cambios
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add *.m3u8
-          git commit -m "Actualizar streams M3U8" || exit 0
+          git commit -m "Actualizar URLs absolutas en listas m3u8" || exit 0
           git push
