@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:4984
-#EXTINF:6,
-4984_ab67.ts
-#EXTINF:6,
-4985_8388.ts
-#EXTINF:6,
-4986_1d94.ts
-#EXTINF:6,
-4987_29d1.ts
+<html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>HLS Cache not ready</p><hr /><i>Astra</i></body></html>
