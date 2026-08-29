@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:2608
+#EXT-X-MEDIA-SEQUENCE:4098
 #EXTINF:6,
-http://181.209.105.115:2525/play/cronica2608_28dc.ts
+http://181.209.105.115:2525/play/cronica4098_eda0.ts
 #EXTINF:6,
-http://181.209.105.115:2525/play/cronica2609_292b.ts
+http://181.209.105.115:2525/play/cronica4099_c2c1.ts
 #EXTINF:6,
-http://181.209.105.115:2525/play/cronica2610_d3fe.ts
+http://181.209.105.115:2525/play/cronica4100_6dde.ts
 #EXTINF:6,
-http://181.209.105.115:2525/play/cronica2611_51bf.ts
+http://181.209.105.115:2525/play/cronica4101_1b0e.ts
