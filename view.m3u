@@ -131,7 +131,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-chno="54" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
 http://45.188.229.33:8000/play/a18u/index.m3u8
 #EXTINF:-1 tvg-chno="55" group-title="Abierto" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
-http://live.fuxxionpro.com:8080/PXf7or35edu/8cT3f2K2Cv/9557
+http://38.224.175.2:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Abierto",ESPN
 http://ar.eradio.xubi.org:8000/play/a1ac/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
