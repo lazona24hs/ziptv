@@ -1,5 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cronica" tvg-name="Cronica TV", Crónica TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=http://181.209.105.115:2525
-http://181.209.105.115:2525/play/cronica/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:27
+#EXTINF:6,
+http://181.209.105.115:2525/play/cronica27_504b.ts
+#EXTINF:6,
+http://181.209.105.115:2525/play/cronica28_6566.ts
+#EXTINF:6,
+http://181.209.105.115:2525/play/cronica29_2061.ts
+#EXTINF:6,
+http://181.209.105.115:2525/play/cronica30_af3f.ts
