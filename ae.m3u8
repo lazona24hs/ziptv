@@ -1,12 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:25
-#EXTINF:6,
-http://181.209.105.115:2525/play/ae25_4a2b.ts
-#EXTINF:6,
-http://181.209.105.115:2525/play/ae26_4324.ts
-#EXTINF:6,
-http://181.209.105.115:2525/play/ae27_bd38.ts
-#EXTINF:6,
-http://181.209.105.115:2525/play/ae28_bb38.ts
+<html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>HLS Cache not ready</p><hr /><i>Astra</i></body></html>
