@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1,tele
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=cdb1b2e8016a1cea9fc10952cd92a117:86e36ab9a083bb08d467f3cf07e7172e
-https://cdn02.gigared.com.ar/live/eds/DNews/sa_live_dash/DNews.mpd
