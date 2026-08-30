@@ -744,7 +744,7 @@ https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 #EXTINF:-1 tvg-chno="328" group-title="Relay" tvg-logo="" tvg-id="",RTS Medios
 http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
 #EXTINF:-1 tvg-chno="329" tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Abierto",Ciudad Magazine [ALT]
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/3787.m3u8
 #EXTINF:-1 tvg-chno="330" group-title="Relay" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar",America TV
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1 tvg-chno="331" group-title="Relay" http-user-agent="VisualOn OSMP+ Playera(Linux;Android)" http-referrer="https://player.sensa.com.ar/&webtoken=1.0" referrer="https://player.sensa.com.ar/&webtoken=1.0",C5N [MPD]
@@ -775,7 +775,7 @@ http://177.234.249.178:8888/MTV/index.m3u8
 https://iptv.bitred.cl/Tnt/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" group-title="Relay" tvg-logo="" tvg-id="", Cronica
-https://g5.vxral-slo.transport.edge-access.net/a09/ngrp:cronicatv_video1-100044_all/playlist_360p.m3u8?sense=true
+https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/4188.m3u8
 #
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive_manifest_type=hls
