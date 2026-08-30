@@ -144,14 +144,14 @@ http://ar.eradio.xubi.org:8000/play/a0wf/index.m3u8
 http://ar.eradio.xubi.org:8000/play/a1dg/index.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Abierto",Fox Sports 2
 http://ar.eradio.xubi.org:8000/play/a1ae/index.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="FoxSports3.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105006_light_360w_270h.png" group-title="Abierto",Fox Sports 3
-http://138.121.113.175:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Abierto",DAZN
+http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Abierto" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Abierto",DeporTV
-http://138.59.227.20:8000/play/a07f/index.m3u8
+http://45.188.229.33:8000/play/a1cq/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="Abierto",AM Sports
 http://138.59.227.20:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Abierto",Claro Sports
@@ -226,15 +226,15 @@ http://45.188.229.33:8000/play/a1jw/index.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
 http://45.188.229.33:8000/play/a1d7/index.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="DiscoveryScience.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
-http://200.59.213.66:8000/play/a01r/index.m3u8?hls
+http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="DiscoveryTheater.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
-http://138.59.227.20:8000/play/a074/index.m3u8
+http://45.188.229.33:8000/play/a133/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
-http://200.59.213.66:8000/play/a013/index.m3u8?hls
+http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
-http://138.59.227.20:8000/play/a076/index.m3u8
+http://45.134.141.161:2200/ARG/Discovery_World_HD/index.m3u8
 #EXTINF:-1 tvg-chno="104" group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
-http://ziptv.env.pm/live/did.m3u8
+http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="Entretenimiento",FX
 https://ndigital.com.ar/tvstream/fx_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-chno="106" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
