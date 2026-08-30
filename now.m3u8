@@ -126,33 +126,33 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-chno="52" tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Regionales" user-agent="iPhone",Canal 10 de Junin
 #EXTVLCOPT:http-user-agent=iPhone
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
-#EXTINF:-1 tvg-chno="53" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
+#EXTINF:-1 tvg-chno="53" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-chno="54" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
+#EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
 http://45.188.229.33:8000/play/a18u/index.m3u8
-#EXTINF:-1 tvg-chno="55" group-title="Abierto" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
+#EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
 http://38.224.175.2:8000/play/a011/index.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Abierto",ESPN
+#EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Deportes",ESPN
 http://ar.eradio.xubi.org:8000/play/a1ac/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Abierto",Fox Sports
+#EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Deportes",Fox Sports
 http://ar.eradio.xubi.org:8000/play/a1cp/index.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Abierto",ESPN 2
+#EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Deportes",ESPN 2
 http://ar.eradio.xubi.org:8000/play/a1ab/index.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="Abierto",ESPN 3
+#EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="Deportes",ESPN 3
 http://ar.eradio.xubi.org:8000/play/a0wf/index.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="Abierto",ESPN 4
+#EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="Deportes",ESPN 4
 http://ar.eradio.xubi.org:8000/play/a1dg/index.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Abierto",Fox Sports 2
+#EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Deportes",Fox Sports 2
 http://ar.eradio.xubi.org:8000/play/a1ae/index.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Abierto",DAZN
+#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Deportes",DAZN
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Abierto" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
+#EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
-#EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Abierto",DeporTV
+#EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Deportes",DeporTV
 http://45.188.229.33:8000/play/a1cq/index.m3u8
-#EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="Abierto",AM Sports
+#EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="Deportes",AM Sports
 http://138.59.227.20:8000/play/a061/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Abierto",Claro Sports
 http://187.245.231.226:8000/play/a0qe/index.m3u8
@@ -732,8 +732,8 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 #
 #
 #Relay
-#EXTINF:-1 tvg-chno="325" group-title="Relay" tvg-logo="" tvg-id="", Telefe HD
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62A486/TelefeHD.m3u8
+#EXTINF:-1 tvg-chno="325" group-title="Deportes" tvg-logo="" tvg-id="", EuroSport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="326" group-title="Relay" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece
 #EXTVLCOPT:http-referrer=https://vodgc.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -741,8 +741,8 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/sa_hls_full_e_95AEFABF606F67368D62
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="327" group-title="Relay" tvg-logo="" tvg-id="TelefeSantaFe.ar",Telefe Santa Fe
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
-#EXTINF:-1 tvg-chno="328" group-title="Relay" tvg-logo="" tvg-id="",RTS Medios
-http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
+#EXTINF:-1 tvg-chno="328" group-title="Deportes" tvg-logo="" tvg-id="",EuroSport 2
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="329" tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Abierto",Ciudad Magazine [ALT]
 https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/3787.m3u8
 #EXTINF:-1 tvg-chno="330" group-title="Relay" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar",America TV
@@ -765,13 +765,13 @@ https://cdn.cvattv.com.ar/live/c6eds/Volver/sa_hls_full_e_95AEFABF606F67368D62A4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://portal.app.flow.com.py/
 https://edge-live08-hr.cvattv.com.ar/tok_{token}/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd
-#EXTINF:-1 tvg-chno="334" group-title="Relay" tvg-logo="" tvg-id="",TyC Sports HD
+#EXTINF:-1 tvg-chno="334" group-title="Deportes" tvg-logo="" tvg-id="",TyC Sports HD
 http://ziptv.env.pm/live/tychd.m3u8
 #EXTINF:-1 tvg-chno="335" group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
 http://ziptv.env.pm/live/history.m3u8
 #EXTINF:-1 tvg-chno="336" group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica
 http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 tvg-chno="337" group-title="Relay" tvg-logo="" tvg-id="",TNT
+#EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="" tvg-id="",TNT Sport - Chile
 https://iptv.bitred.cl/Tnt/index.m3u8
 
 #EXTINF:-1 tvg-chno="338" group-title="Relay" tvg-logo="" tvg-id="", Cronica
