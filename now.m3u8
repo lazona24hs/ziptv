@@ -286,7 +286,7 @@ http://45.188.229.33:8000/play/a1aj/index.m3u8
 #EXTINF:-1 tvg-chno="129" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
-http://45.188.229.33:8000/play/a1ai/index.m3u8
+http://45.188.229.33:8000/play/a1kw/index.m3u8
 #EXTINF:-1 tvg-chno="131" group-title="Entretenimiento" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="NationalGeographic.ar",Nat Geo
 http://45.188.229.33:8000/play/a1ar/index.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="History2.ar",History 2
