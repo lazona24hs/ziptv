@@ -259,11 +259,11 @@ http://45.188.229.33:8000/play/a0x5/index.m3u8
 http://45.188.229.33:8000/play/a0ty/index.m3u8
 #EXTINF:-1 tvg-chno="344" tvg-id="" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hboplus1428396294149288788.png" group-title="Entretenimiento" group-logo="",HBO +
 http://45.188.229.33:8000/play/a1km/index.m3u8
-#EXTINF:-1 tvg-chno="345" tvg-id="" tvg-logo="https://i.ibb.co/7J4m3W0T/0819.jpg" group-title="Entretenimiento" group-logo="",HBO POP
+#EXTINF:-1 tvg-chno="345" tvg-id="" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="Entretenimiento" group-logo="",HBO POP
 http://45.188.229.33:8000/play/a139/index.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-id="" tvg-logo="https://i.ibb.co/fY9Kg3PL/0818.jpg" group-title="Entretenimiento" group-logo="",HBO Mundi
+#EXTINF:-1 tvg-chno="346" tvg-id="" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento" group-logo="",HBO Mundi
 http://45.188.229.33:8000/play/a0x6/index.m3u8
-#EXTINF:-1 tvg-chno="347" tvg-id="" tvg-logo="https://i.ibb.co/gLYjY3w5/0816.jpg" group-title="Entretenimiento" group-logo="",HBO Family
+#EXTINF:-1 tvg-chno="347" tvg-id="" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
 http://45.188.229.33:8000/play/a13m/index.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 http://ziptv.env.pm/live/c01k.m3u8
