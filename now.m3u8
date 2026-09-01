@@ -16,23 +16,19 @@
 https://cdn.sensa.com.ar/bpk-tv/SensaEventos1/default/index.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTINF:-1 tvg-chno="2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
-#EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
+https://access.cdn.rcs.net.ar/mnp/cm/output.mpd
+#EXTINF:-1 tvg-chno="4" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TelefeInternacional.uy",Telefe Internacional
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional.m3u8
 
-#EXTINF:-1 tvg-chno="5" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
-https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+#EXTINF:-1 tvg-chno="5" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
+https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
-#EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VI----CR.png" tvg-id="", Cadena Regional
-https://vivo.solumedia.com:19360/argento/argento.m3u8
+#EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
+https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="SomosRosario.ar",Somos Rosario 
@@ -61,10 +57,15 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
 http://45.179.152.42:8000/play/a03b
-#EXTINF:-1 tvg-chno="22" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-https://access.cdn.rcs.net.ar/mnp/cm/output.mpd
-#EXTINF:-1 tvg-chno="23" group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
+#EXTINF:-1 tvg-chno="22" group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 https://ndigital.com.ar/tvstream/elnueve_hls/user/pass/onhls/playlist.m3u8
 
@@ -360,8 +361,8 @@ https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
 https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
 #EXTINF:-1 tvg-chno="154" group-title="Regionales" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar", America TV  [ Clone ]
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_360p.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece" group-title="Regionales", El Trece
-https://ndigital.com.ar/tvstream/el13_hls/user/pass/onhls/playlist.m3u8
+#EXTINF:-1 tvg-chno="155" tvg-logo="" group-title="Regionales", Regionales - Canales AR
+http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UCL_Televisi%C3%B3n.png/1280px-UCL_Televisi%C3%B3n.png" tvg-id="UCLTV.uy" group-title="Regionales", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://i.imgur.com/OGxsW2H.png" group-title="Regionales", Canal 5 Corrientes
@@ -388,29 +389,26 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Regionales", CeltaTV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-logo="" group-title="Regionales", Regionales - Canales AR
-http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-somossantafe.playlist.m3u8
+#EXTINF:-1 tvg-chno="169" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar" group-title="Regionales", El Trece
+https://ndigital.com.ar/tvstream/el13_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Regionales", Power HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Regionales", RTN TV
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Regionales", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
-#EXTINF:-1 tvg-chno="173" group-title="Regionales", Regionales - Canales AR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
+#EXTINF:-1 tvg-chno="173" group-title="Abierto" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
+http://200.91.32.158:8080/telefehdvalle/index.m3u8
 #EXTINF:-1 tvg-chno="174"  tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Regionales", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Regionales", Canal 3 Pinamar
 https://csc-tlp-edge01.sensa.com.ar/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-chno="176" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s145673_dark_360w_270h.png" tvg-id="",RCN Noticias
 https://9757738f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2VsZWN0VFZfUkNOTm90aWNpYXNfSExT/playlist.m3u8
-#EXTINF:-1 tvg-chno="177" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TelefeInternacional.uy",Telefe Internacional
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Telefe_Internacional.m3u8
-#EXTINF:-1 tvg-chno="178" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
-https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional.m3u8
+#EXTINF:-1 tvg-chno="177" tvg-id="" tvg-logo="https://i.ibb.co/QF230yLz/0618.jpg" group-title="Internacional", A3Series
+http://45.188.229.33:8000/play/a1em/index.m3u8
+#EXTINF:-1 tvg-chno="178" group-title="Internacional" tvg-logo="https://i.ibb.co/nqgp93Vg/0910.jpg" tvg-id="",Latina
+http://45.188.229.33:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-chno="179" group-title="Internacional" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
 http://38.224.175.2:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://i.ibb.co/nMDKzP1z/1615.jpg",Telemundo Noticias
@@ -758,8 +756,8 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-chno="327" group-title="Relay" tvg-logo="" tvg-id="TelefeSantaFe.ar",Telefe Santa Fe
 https://smt-usr-edge01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="329" tvg-id="" tvg-logo="https://i.ibb.co/QF230yLz/0618.jpg" group-title="Internacional", A3Series
-http://181.209.105.115:2525/play/a0fw/index.m3u8
+#EXTINF:-1 tvg-chno="329" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VI----CR.png" tvg-id="", Cadena Regional
+https://vivo.solumedia.com:19360/argento/argento.m3u8
 #EXTINF:-1 tvg-chno="330" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/6c2jd8hr/0831.jpg" tvg-id="Clover.ar",Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 #EXTINF:-1 tvg-chno="331" group-title="Internacional" tvg-logo="https://i.imgur.com/IL6hpV8.png" tvg-id="",La Tele
