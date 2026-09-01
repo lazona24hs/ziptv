@@ -301,11 +301,11 @@ https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 http://45.188.229.33:8000/play/a0xz/index.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
 https://ndigital.com.ar/tvstream/universal_hls/user/pass/onhls/playlist.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="Entretenimiento" group-logo="",Universal Cinema
+#EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="Entretenimiento" group-logo="",Universal Cinema
 http://45.188.229.33:8000/play/a1lj/index.m3u8
 #EXTINF:-1 tvg-chno="129" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
 http://ziptv.env.pm/live/unicrime.m3u8
-#EXTINF:-1 tvg-chno="348" tvg-id="" tvg-logo="https://i.ibb.co/HDQYnWhY/0844.png" group-title="Entretenimiento" group-logo="",Universal Premiere
+#EXTINF:-1 tvg-chno="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://i.ibb.co/HDQYnWhY/0844.png" group-title="Entretenimiento" group-logo="",Universal Premiere
 http://45.188.229.33:8000/play/a0u4/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
 http://45.188.229.33:8000/play/a1b3/index.m3u8
