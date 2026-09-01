@@ -17,8 +17,9 @@ https://cdn.sensa.com.ar/bpk-tv/SensaEventos1/default/index.mpd|referer=https://
 #EXTINF:-1 tvg-chno="2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
 http://ziptv.env.pm/live/gh.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/output/ARR2/C3RD/output.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
