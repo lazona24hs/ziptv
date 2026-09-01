@@ -395,7 +395,8 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Regionales", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-chno="173" group-title="Regionales", Regionales - Canales AR
-https://cdn.cvattv.com.ar/live/c4eds/TV_Publica_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/TV_Publica_Internacional.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ARR2/C3RD/output.mpd|referer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTINF:-1 tvg-chno="174"  tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" group-title="Regionales", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Regionales", Canal 3 Pinamar
