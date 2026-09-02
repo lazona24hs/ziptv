@@ -41,7 +41,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
 http://181.209.91.106:2222/Live/827ebef218dd88e9d03fac6b902f5bec/lntv_480.m3u8
 #EXTINF:-1 tvg-chno="15" group-title="Abierto" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" tvg-id="C5N.ar",C5N
-https://ndigital.com.ar/tvstream/c5n_hls/user/pass/onhls/playlist.m3u8
+https://access.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 tvg-chno="16" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
