@@ -169,7 +169,7 @@ http://187.245.231.226:8000/play/a0qe/index.m3u8
 #EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="https://i.ibb.co/tPLH77vG/0403.jpg" tvg-id="",TNT Sport - Chile
 https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.ibb.co/s9v0mW7j/Picsart-26-06-09-23-00-55-307.png" group-title="Deportes",Sportv
-https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/167774
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Showsport.png" tvg-name="Show Sports" group-title="Deportes",Show Sports
 https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
@@ -564,11 +564,11 @@ http://181.209.38.115:8000/play/a00j/index.m3u8?hls
 #Exclusiva
 #
 #EXTINF:-1 tvg-chno="231" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/450bd279c7c3592fda2b30292f5b91318074310478981123429.jpeg" tvg-id="",El Chavo 24/7
-https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/526348
 #EXTINF:-1 tvg-chno="232" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/compose2357099384686532056.jpg" tvg-id="",Los Simpson 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/526379
 #EXTINF:-1 tvg-chno="233" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/scbnapnkzvct5p3shns5cpj3ci3136327241110378940.jpg" tvg-id="",Dragon Ball 24/7
-https://live20.bozztv.com/akamaissh101/ssh101/dbsuperlat/playlist.m3u8
+http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/526356
 #EXTINF:-1 tvg-chno="234" group-title="Exclusiva" tvg-logo="https://lge-static.ottera.tv/prod/run/linear_channel/thumbnails/poster/305x400/rebelde_vertical_logo_320x419.png", Rebelde 24/7 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&keep_scte=1
 #
