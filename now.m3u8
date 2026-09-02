@@ -236,7 +236,7 @@ http://38.224.175.2:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-chno="94" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_gray_360w_270h.png" tvg-id="Amc.ar",AMC
 http://45.188.229.33:8000/play/a1jn/index.m3u8
 #EXTINF:-1 tvg-chno="95" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82178_white_360w_270h.png" tvg-id="Axn.ar",AXN
-http://45.170.130.224:8000/play/a03g/index.m3u8
+http://45.188.229.33:8000/play/a1kr/index.m3u8
 #EXTINF:-1 tvg-chno="96" group-title="Entretenimiento" tvg-logo="" tvg-id="CineAr.ar",Cine.AR
 https://ndigital.com.ar/tvstream/cinear_hls/user/pass/onhls/playlist.m3u8
 #EXTINF:-1 tvg-chno="97" tvg-name="CindieTV" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png" tvg-language="Spanish" group-title="Entretenimiento",Cindie TV
