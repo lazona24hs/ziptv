@@ -25,7 +25,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/sa_hls_full_e_95AEFABF
 #EXTINF:-1 tvg-chno="5" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 https://cdn.cvattv.com.ar/live/c4eds/Artear_Internacional/sa_hls_full_e_95AEFABF606F67368D62A486/Artear_Internacional.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="SomosRosario.ar",Somos Rosario 
-https://cdn.cvattv.com.ar/live/c4eds/Somos_Rosario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Somos_Rosario.mpd
+http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal.playlist.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
