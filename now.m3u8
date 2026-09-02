@@ -29,7 +29,7 @@ https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/490453
+http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-ciudadmagazine_720.m3u8
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
@@ -39,9 +39,9 @@ http://45.188.229.33:8000/play/a1cn/index.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
-http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/490466
+http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-lntv_720.m3u8
 #EXTINF:-1 tvg-chno="15" group-title="Abierto" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" tvg-id="C5N.ar",C5N
-http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/490448
+http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-c5n_480.m3u8
 #EXTINF:-1 tvg-chno="16" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -88,7 +88,8 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" tvg-id="Canal9Televida.ar" group-title="Regionales",LV83 Televida 9
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-chno="480" tvg-logo="https://i.imgur.com/NEL0AjM.png" tvg-id="KZO.ar" group-title="Abierto",KZO TV
+http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-kzo.m3u8
 #EXTINF:-1 tvg-chno="33" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
@@ -365,10 +366,10 @@ https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
 https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 tvg-chno="151" group-title="Musica" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" tvg-id="66a11a21a79dea0008aa90ca",MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-id="60db737695c95b599dad50d2c5595fe3" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/60db737695c95b599dad50d2c5595fe3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113591743_Info_HUD_Logo_260X147_center_%25281%2529_%25281%2529.png" group-title="Musica",Vevo Reggaeton & Trap
-https://jmp2.uk/rok-60db737695c95b599dad50d2c5595fe3.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0d5283959d3a59bf87411e7077fd9e58/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675113444761_Info_HUD_Logo_260X147_center_%252815%2529.png" group-title="Musica",Vevo Latino
-https://jmp2.uk/rok-0d5283959d3a59bf87411e7077fd9e58.m3u8
+#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-logo="https://i.imgur.com/Cf01Ybw.png" group-title="Musica",Vevo POP
+https://d1ktssaxrjabsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1vshdbah8e4f8/playlist.m3u8
+#EXTINF:-1 tvg-chno="153" tvg-id="0d5283959d3a59bf87411e7077fd9e58" tvg-logo="https://i.imgur.com/Cf01Ybw.png" group-title="Musica",Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevolatinoes-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-chno="154" group-title="Regionales" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar", America TV  [ Clone ]
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_360p.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Doce_TV_Posadas_%28Logo_2023_-_6%29.svg/revision/latest/scale-to-width-down/250?cb=20251015181522" group-title="Regionales", Canal 12 Misiones 
