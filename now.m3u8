@@ -486,6 +486,20 @@ http://147.75.122.125:8000/play/a027/index.m3u8
 http://45.188.229.33:8000/play/a0uy/index.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-name="TV Cultura Brasil" tvg-logo="https://graph.facebook.com/tvcultura/picture?width=200&height=200" group-title="Internacional",TV Cultura Brasil
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-chno="420" tvg-name="BAND" tvg-logo="https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg" group-title="Internacional",BAND
+https://media.cdntvms.com.br/band_sat/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="421" group-title="Internacional" tvg-name="GLOBO R.D.J" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" ,GLOBO R.D.J
+http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-chno="422" group-title="Internacional"  tvg-name="TV FRONTEIRA" tvg-logo="https://i.imgur.com/NtcoW6G.png" ,TV FRONTEIRA
+https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
+#EXTINF:-1 tvg-chno="423" group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br" ,SBT
+http://45.190.28.50/SBT_HD/index.m3u8
+#EXTINF:-1 tvg-chno="424" group-title="Internacional" tvg-name="RECORD TV" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es" ,RECORD TV
+http://45.190.28.50/RECORD/index.m3u8
+#EXTINF:-1 tvg-chno="425" group-title="Internacional" tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" ,TELEFUTURO
+https://04@copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-chno="426" group-title="Internacional" tvg-name="MONUMENTAL" tvg-logo="https://i.imgur.com/kEcOYML.png" ,MONUMENTAL
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-chno="333" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/BV1xk9ps/0858.jpg" tvg-id="",Claro Cinema
 http://45.188.229.33:8000/play/a0wb/index.m3u8
 #EXTINF:-1 tvg-chno="338" group-title="Internacional" tvg-logo="https://i.ibb.co/zT6yrz4J/0105.jpg" tvg-id="", Mega
@@ -519,6 +533,8 @@ https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-chno="212" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
 https://media425.digitar.net:8091/mitre.mp3
+#EXTINF:-1 tvg-chno="430" tvg-name="DSports Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Radios",DSports Radio
+https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1 tvg-chno="213" group-title="Radios" tvg-logo="" tvg-id="RadioCadena.ar",Cadena3
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-chno="214" group-title="Radios" tvg-id="" tvg-name="Mas FM" tvg-logo="https://cdn.m3u.cl/logo/1130_Mas_FM.png",Mas FM
@@ -527,13 +543,13 @@ https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
 #EXTINF:-1 tvg-chno="216" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png" tvg-id="radio",Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="" tvg-id="",Red LT
+#EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="blob:https://imgur.com/f002cf53-5b77-4a73-9314-04da52d77d4d" tvg-id="",Red LT
 http://ziptv.env.pm/live/redlt.m3u8
-#EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="" tvg-id="",POP Rosario
+#EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="https://i.imgur.com/iMrNUGf.png" tvg-id="",POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
-#EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="" tvg-id="",AM 1330
+#EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="https://i.imgur.com/oZq1bTN.jpeg" tvg-id="",AM 1330
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
-#EXTINF:-1 tvg-chno="220" group-title="Radios" tvg-logo="" tvg-id="",Rock and Pop
+#EXTINF:-1 tvg-chno="220" group-title="Radios" tvg-logo="https://i.imgur.com/DljGu3V.png" tvg-id="",Rock and Pop
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-name="Radio Realpolitik" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Radios",Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
