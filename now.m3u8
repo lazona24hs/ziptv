@@ -557,7 +557,7 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 #
 #
 #EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
-http://45.188.229.33:8000/play/a1ix/index.m3u8
+https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.188.229.33:8000/play/a1iw/index.m3u8
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
