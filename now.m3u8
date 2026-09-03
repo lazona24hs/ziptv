@@ -401,7 +401,7 @@ http://45.226.28.9:8085/Live/f6a4fcaf4ec8aba3143d297b68b311f6/local-canal13santa
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Regionales", CeltaTV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar" group-title="Regionales", El Trece
-https://cyberuno.cdn.rcs.net.ar/mnp/el13_hls/user/pass/onhls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Regionales", Power HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Regionales", RTN TV
