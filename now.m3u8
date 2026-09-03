@@ -52,15 +52,15 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/am
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="19" group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar",America TV
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
-#EXTINF:-1 tvg-chno="20" group-title="Abierto" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg" tvg-id="TVPublica.ar",TV Publica
+#EXTINF:-1 tvg-chno="20" group-title="Abierto" tvg-logo="https://i.imgur.com/5zn3GRi.png" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
 http://45.179.152.42:8000/play/a03b
-#EXTINF:-1 tvg-chno="22" group-title="Rosario" tvg-logo="https://images.open-epg.com/25745.png" tvg-id="Canal3Rosario.ar",El Tres
+#EXTINF:-1 tvg-chno="22" group-title="Rosario" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
-#EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.ibb.co/N24WhfkK/2909.jpg" tvg-id="TelefeRosario.ar",Telefe Rosario
+#EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
@@ -90,6 +90,8 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="480" tvg-logo="https://i.imgur.com/NEL0AjM.png" tvg-id="KZO.ar" group-title="Abierto",KZO TV
 http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-kzo_720.m3u8
+#EXTINF:-1 tvg-chno="481" group-title="Abierto" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
+https://cyberuno.cdn.rcs.net.ar/mnp/tecnopolis_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
