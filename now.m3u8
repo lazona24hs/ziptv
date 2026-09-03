@@ -39,9 +39,9 @@ http://45.188.229.33:8000/play/a1cn/index.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
-https://cyberuno.cdn.rcs.net.ar/mnp/lnmas_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-chno="15" group-title="Abierto" tvg-logo="https://i.ibb.co/L6qCp0d/c5n.png" tvg-id="C5N.ar",C5N
-https://cyberuno.cdn.rcs.net.ar/mnp/c5n_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 tvg-chno="16" group-title="Abierto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/3840px-TN_todo_noticias_logo.svg.png" tvg-id="TN.ar",TN
 #EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -67,7 +67,7 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
-https://cyberuno.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 tvg-chno="25" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/channels4_profile8101886587540652499.jpg" tvg-id="Ar12.ar",AR12
 https://cyberuno.cdn.rcs.net.ar/mnp/ip/output.mpd
@@ -113,7 +113,7 @@ https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playl
 #EXTINF:-1 tvg-chno="42" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="ElGarage.ar",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-name="Canal10 CBA HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_10_C%C3%B3rdoba_%28Logo_2025%29.svg" group-title="Regionales" tvg-chno="351",Canal10 CBA HD
-https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_CBA_HD.mpd
+https://cdn.cvattv.com.ar/live/c3eds/Canal10_CBA_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_CBA_HD.mpd
 #EXTINF:-1 tvg-chno="43" group-title="Regionales" tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="",Canal 9 Resistencia 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="44" group-title="Regionales" tvg-logo="https://www.iteltv.com.ar/public/img/iconos/logo%20footer.png" tvg-id="",Itel TV
@@ -138,7 +138,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-chno="53" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
-http://45.188.229.33:8000/play/a18u/index.m3u8
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyC_Internacional.mpd
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
 http://38.224.175.2:8000/play/a011/index.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Deportes",ESPN
@@ -174,7 +174,7 @@ https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="Deportes",Sportv
 http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/167774
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Showsport.png" tvg-name="Show Sports" group-title="Deportes",Show Sports
-https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd
+https://cdn.cvattv.com.ar/live/c3eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
@@ -205,7 +205,7 @@ http://45.188.229.33:8000/play/a1d1/index.m3u8
 #EXTINF:-1 tvg-chno="77" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16680_dark_360w_270h.png" tvg-id="DiscoveryKids.ar",Discovery Kids
 https://cyberuno.cdn.rcs.net.ar/mnp/disc_kids_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="78" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_gray_360w_270h.png" tvg-id="DisneyChannel.ar",Disney Channel
-https://cyberuno.cdn.rcs.net.ar/mnp/disney_hls/user/pass/onhls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="79" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-id="DisneyJunior.ar",Disney Junior
 http://ziptv.env.pm/live/disneyjr.m3u8
 #EXTINF:-1 tvg-chno="80" group-title="ATP/INFANTIL" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png" tvg-id="NickelodeonTeen.us@LatAm",Nickelodeon Teen
@@ -572,10 +572,14 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 #
 #
 #
-#EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
+#EXTINF:-1 tvg-chno="500" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
 https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
+#EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
+https://cdn.cvattv.com.ar/live/c3eds/DSports_2/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_2.mpd
+#EXTINF:-1 tvg-chno="501" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.188.229.33:8000/play/a1iw/index.m3u8
+#EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
+https://cdn.cvattv.com.ar/live/c3eds/DSports_1/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_1.mpd
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 http://181.209.38.115:8000/play/a00f/index.m3u8?hls
 #EXTINF:-1 tvg-chno="230" group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium",TNT Sports Premium
