@@ -525,8 +525,8 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 https://stream.zeno.fm/idqecp6rhbnvv
 #EXTINF:-1 tvg-chno="209" tvg-name="Frecuencia Plus" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Radios" radio="true",Fm Plus Rosario
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
-
-
+#EXTINF:-1 tvg-chno="431" tvg-name="Fm Vida" tvg-logo="https://i.imgur.com/0d3xdG4.png" group-title="Radios" radio="true",Fm Vida
+https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
 #EXTINF:-1 tvg-chno="210" tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Radios", Cumbia Argentina
 https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
 #EXTINF:-1 tvg-chno="211" group-title="Radios" tvg-logo="https://images.open-epg.com/x991.png" tvg-id="RadioLa100.ar",Radio La 100
