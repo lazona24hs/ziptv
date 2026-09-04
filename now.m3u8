@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos1HD.mpd
 #EXTINF:-1 tvg-chno="2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
-http://ziptv.env.pm/live/gh.m3u8
+http://stratusnex.xubi.org/live/gh.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
@@ -284,7 +284,7 @@ http://net.stratusnex.xubi.org/a0x6/index.m3u8
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
 http://net.stratusnex.xubi.org/a13m/index.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
-http://ziptv.env.pm/live/c01k.m3u8
+http://stratusnex.xubi.org/live/c01k.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
 http://net.stratusnex.xubi.org/a1ah/index.m3u8
 #EXTINF:-1 tvg-chno="112" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" tvg-id="SonyMovies.ar",Sony Movies
@@ -296,7 +296,7 @@ http://access.stratusnex.xubi.org/space/output.mpd
 #EXTINF:-1 tvg-chno="115" tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
 http://access.stratusnex.xubi.org/foxhd/output.mpd
 #EXTINF:-1 tvg-chno="116" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
-http://ziptv.env.pm/live/c02k.m3u8
+http://stratusnex.xubi.org/live/c02k.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
 http://net.stratusnex.xubi.org/a0u2/index.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
@@ -322,7 +322,7 @@ http://access.stratusnex.xubi.org/universal_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="Entretenimiento" group-logo="",Universal Cinema
 http://net.stratusnex.xubi.org/a1lj/index.m3u8
 #EXTINF:-1 tvg-chno="129" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138454_light_360w_270h.png" tvg-id="UniversalCrime.uy",UNIVERSAL CRIME
-http://ziptv.env.pm/live/unicrime.m3u8
+http://stratusnex.xubi.org/live/unicrime.m3u8
 #EXTINF:-1 tvg-chno="348" tvg-id="UniversalPremiere.uy" tvg-logo="https://i.ibb.co/HDQYnWhY/0844.png" group-title="Entretenimiento" group-logo="",Universal Premiere
 http://net.stratusnex.xubi.org/a0u4/index.m3u8
 #EXTINF:-1 tvg-chno="130" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GH.png_white_360w_270h.png" tvg-id="Warner.ar",Warner Channel
@@ -445,7 +445,7 @@ http://152.231.29.139:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-chno="184" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNChile.uy",TVN
 http://38.224.175.2:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-chno="185" group-title="Internacional" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg" tvg-id="Univision.uy",Univision
-http://ziptv.env.pm/live/u40k.m3u8
+http://stratusnex.xubi.org/live/u40k.m3u8
 #EXTINF:-1 tvg-chno="186" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RT.uy",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="187" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125383_light_360w_270h.png" tvg-id="Rcn",RCN Más
@@ -466,7 +466,7 @@ http://net3.stratusnex.xubi.org/a05d/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-chno="195" group-title="Internacional" tvg-logo="https://images.open-epg.com/x935.png" tvg-id="Antena3.ar",Antena3
-http://ziptv.env.pm/live/antena3.m3u8
+http://stratusnex.xubi.org/live/antena3.m3u8
 #EXTINF:-1 tvg-chno="196" group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" tvg-id="EuropaEuropa.ar",Europa Europa
 http://net3.stratusnex.xubi.org/a010/index.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella News
@@ -543,7 +543,7 @@ https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/P
 #EXTINF:-1 tvg-chno="216" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png" tvg-id="radio",Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="https://i.imgur.com/XDYXv76.png" tvg-id="",Red LT
-http://ziptv.env.pm/live/redlt.m3u8
+http://stratusnex.xubi.org/live/redlt.m3u8
 #EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="https://i.imgur.com/iMrNUGf.png" tvg-id="",POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="https://i.imgur.com/oZq1bTN.jpeg" tvg-id="",AM 1330
