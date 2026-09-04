@@ -12,22 +12,22 @@
 
 
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
-https://cdn.cvattv.com.ar/live/c3eds/Eventos1HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Eventos1HD.mpd
+http://rough-dream-f561.stratusnex.workers.dev/eventos.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
-http://stratusnex.xubi.org/live/gh.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/dgo.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
-https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/aire.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TelefeInternacional.uy",Telefe Internacional
 http://net.stratusnex.xubi.org/a0w9/index.m3u8
 #EXTINF:-1 tvg-chno="5" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://net.stratusnex.xubi.org/a0x2/index.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="SomosRosario.ar",Somos Rosario 
-http://45.226.28.9:8085/Live/f79e50c4e9d7bb6b44dbb00b16ca3fdf/local-santafecanal.playlist.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/somosrosario.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
-https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/vive.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
 http://access.stratusnex.xubi.org/cm/output.mpd
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
@@ -296,7 +296,7 @@ http://access.stratusnex.xubi.org/space/output.mpd
 #EXTINF:-1 tvg-chno="115" tvg-id="StarChannel.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87056_white_360w_270h.png" group-title="Entretenimiento",Star Channel
 http://access.stratusnex.xubi.org/foxhd/output.mpd
 #EXTINF:-1 tvg-chno="116" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
-http://stratusnex.xubi.org/live/c02k.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/c02k.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
 http://net.stratusnex.xubi.org/a0u2/index.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
@@ -336,7 +336,7 @@ http://net.stratusnex.xubi.org/a0xn/index.m3u8
 #EXTINF:-1 tvg-chno="133" group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar",History Channel
 http://net.stratusnex.xubi.org/a1aq/index.m3u8
 #EXTINF:-1 tvg-chno="134" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.cl",TLC
-http://net.stratusnex.xubi.org/a1im/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/tcl.m3u8
 #EXTINF:-1 tvg-chno="135" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://net.stratusnex.xubi.org/a19a/index.m3u8
 #EXTINF:-1 tvg-chno="136" group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
@@ -378,7 +378,7 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-chno="154" group-title="Regionales" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11515101.jpg" tvg-id="America.ar", America TV  [ Clone ]
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_360p.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Doce_TV_Posadas_%28Logo_2023_-_6%29.svg/revision/latest/scale-to-width-down/250?cb=20251015181522" group-title="Regionales", Canal 12 Misiones 
-http://45.179.152.42:8000/play/a03l
+http://rough-dream-f561.stratusnex.workers.dev/12misiones.m3u8
 #EXTINF:-1 tvg-chno="156" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UCL_Televisi%C3%B3n.png/1280px-UCL_Televisi%C3%B3n.png" tvg-id="UCLTV.uy" group-title="Regionales", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-chno="157" tvg-logo="https://i.imgur.com/OGxsW2H.png" group-title="Regionales", Canal 5 Corrientes
@@ -402,11 +402,11 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Regionales", Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-logo="" group-title="Regionales" tvg-id="TelefeSantaFe.ar", Telefe Santa Fe
-http://45.226.28.9:8085/Live/f6a4fcaf4ec8aba3143d297b68b311f6/local-canal13santafe.playlist.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/telefesantafe.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Regionales", CeltaTV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar" group-title="Regionales", El Trece
-http://access.stratusnex.xubi.org/el13_hls/playlist.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/eltrece.m3u8
 #EXTINF:-1 tvg-chno="170" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Regionales", Power HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Regionales", RTN TV
@@ -414,7 +414,7 @@ http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-logo="https://i.imgur.com/W2EUIL2.png" group-title="Regionales", Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-chno="173" group-title="Regionales" tvg-logo="https://images.open-epg.com/x1002.png" tvg-id="Telefe.ar",Telefe
-http://200.91.32.158:8080/telefehdvalle/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/telefeinterior.m3u8
 #EXTINF:-1 tvg-chno="174"  tvg-logo="https://pbs.twimg.com/profile_images/720276300888453120/a_SDOmBc_400x400.jpg" tvg-id="" group-title="Regionales", Uniteve
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Regionales", Canal 3 Pinamar
@@ -433,9 +433,9 @@ http://net.stratusnex.xubi.org/a1em/index.m3u8
 #EXTINF:-1 tvg-chno="178" group-title="Internacional" tvg-logo="https://i.ibb.co/nqgp93Vg/0910.jpg" tvg-id="",Latina
 http://net.stratusnex.xubi.org/a0v2/index.m3u8
 #EXTINF:-1 tvg-chno="179" group-title="Internacional" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
-http://38.224.175.2:8000/play/a01w/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/telemundo.m3u8
 #EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://i.ibb.co/nMDKzP1z/1615.jpg",Telemundo Noticias
-http://38.224.175.2:8000/play/a05t/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/telemundo-noticias.m3u8
 #EXTINF:-1 tvg-chno="181" group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="NTN24NuestraTeleNoticias.ar",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="182" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TeleSUR.ar",TeleSUR
@@ -443,9 +443,9 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-chno="183" group-title="Internacional" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="Chilevisión.cl",CHV
 http://152.231.29.139:8000/play/a09q/index.m3u8
 #EXTINF:-1 tvg-chno="184" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNChile.uy",TVN
-http://38.224.175.2:8000/play/a02r/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/tvn.m3u8
 #EXTINF:-1 tvg-chno="185" group-title="Internacional" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg" tvg-id="Univision.uy",Univision
-http://stratusnex.xubi.org/live/u40k.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/u40k.m3u8
 #EXTINF:-1 tvg-chno="186" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69367_white_360w_270h.png" tvg-id="RT.uy",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-chno="187" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125383_light_360w_270h.png" tvg-id="Rcn",RCN Más
@@ -453,7 +453,7 @@ https://rcntv-rcnmas-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="188" group-title="Internacional" tvg-logo="https://images.open-epg.com/16782340.png" tvg-id="HispanTV.ar",HispanTV
 http://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 tvg-chno="189" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_white_360w_270h.png" tvg-id="CGTNEspanol.uy",CGTN Español
-http://38.137.192.250:8000/play/a0fb
+https://rough-dream-f561.stratusnex.workers.dev/cgtn.m3u8
 #EXTINF:-1 tvg-chno="190" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64230_dark_360w_270h.png" tvg-id="DWEspañol.ar",DW Espanol
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-chno="191" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19039_gray_360w_270h.png" tvg-id="Euronews.cl",Euronews
@@ -466,7 +466,7 @@ http://net3.stratusnex.xubi.org/a05d/index.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-chno="195" group-title="Internacional" tvg-logo="https://images.open-epg.com/x935.png" tvg-id="Antena3.ar",Antena3
-http://stratusnex.xubi.org/live/antena3.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/antena3.m3u8
 #EXTINF:-1 tvg-chno="196" group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png" tvg-id="EuropaEuropa.ar",Europa Europa
 http://net3.stratusnex.xubi.org/a010/index.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-id="60492e6d7f3f560007ab0f62" tvg-logo="https://radiosargentina.com.ar/png/VI-ESTRE.png" group-title="Internacional",Estrella News
