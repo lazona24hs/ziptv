@@ -248,23 +248,23 @@ https://cyberuno.cdn.rcs.net.ar/mnp/cinear_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="97" tvg-name="CindieTV" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png" tvg-language="Spanish" group-title="Entretenimiento",Cindie TV
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
 #EXTINF:-1 tvg-chno="98" tvg-id="Discovery.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" group-title="Entretenimiento",Discovery Channel
-http://45.188.229.33:8000/play/a1jw/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/discovery.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
-http://45.188.229.33:8000/play/a1d7/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/hh.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="DiscoveryScience.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="DiscoveryTheater.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
-http://45.188.229.33:8000/play/a133/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/disc_theater.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
-http://45.134.141.161:2200/ARG/Discovery_Turbo_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/Discovery_Turbo_HD/index.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
-http://45.134.141.161:2200/ARG/Discovery_World_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/Discovery_World_HD/index.m3u8
 #EXTINF:-1 tvg-chno="104" group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
-http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="Entretenimiento",FX
 https://cyberuno.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="106" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
-http://45.188.229.33:8000/play/a0xr/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/a0xr/index.m3u8
 #EXTINF:-1 tvg-chno="107" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
 http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
