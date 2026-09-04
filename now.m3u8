@@ -284,7 +284,7 @@ http://45.188.229.33:8000/play/a0x6/index.m3u8
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
 http://45.188.229.33:8000/play/a13m/index.m3u8
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
-http://stratusnex.xubi.org/live/c01k.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/c01k.m3u8
 #EXTINF:-1 tvg-chno="111" tvg-logo="https://i.ibb.co/HgyS8tL/sony-channel.png" tvg-id="SonyChannel.ar" group-title="Entretenimiento",Sony
 http://45.188.229.33:8000/play/a1ah/index.m3u8
 #EXTINF:-1 tvg-chno="112" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/HFpZ6CC/sony-movies.png" tvg-id="SonyMovies.ar",Sony Movies
@@ -336,7 +336,7 @@ http://45.188.229.33:8000/play/a0xn/index.m3u8
 #EXTINF:-1 tvg-chno="133" group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar",History Channel
 http://45.188.229.33:8000/play/a1aq/index.m3u8
 #EXTINF:-1 tvg-chno="134" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-id="TLC.cl",TLC
-http://rough-dream-f561.stratusnex.workers.dev/tcl.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="135" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
 http://45.188.229.33:8000/play/a19a/index.m3u8
 #EXTINF:-1 tvg-chno="136" group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
