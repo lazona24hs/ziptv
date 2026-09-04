@@ -19,9 +19,9 @@ http://rough-dream-f561.stratusnex.workers.dev/dgo.m3u8
 http://rough-dream-f561.stratusnex.workers.dev/aire.m3u8
 
 #EXTINF:-1 tvg-chno="4" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png" tvg-id="TelefeInternacional.uy",Telefe Internacional
-http://45.188.229.33:8000/play/a0w9/index.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/4
 #EXTINF:-1 tvg-chno="5" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64792_dark_360w_270h.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
-http://45.188.229.33:8000/play/a0x2/index.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/5
 #EXTINF:-1 tvg-chno="6" group-title="Rosario" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/3bcb-0v8_400x4004171857040837937214.jpg" tvg-id="SomosRosario.ar",Somos Rosario 
 http://rough-dream-f561.stratusnex.workers.dev/somosrosario.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
@@ -33,9 +33,9 @@ https://cyberuno.cdn.rcs.net.ar/mnp/cm/output.mpd
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://images.open-epg.com/25833.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
-https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/multivisionfederal.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782271.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
-http://45.188.229.33:8000/play/a1cn/index.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/12
 #EXTINF:-1 tvg-chno="13" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103103_dark_360w_270h.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e3b3c1f87617310830682149549074600698943.png" tvg-id="LaNacion+.ar",LaNacion+
@@ -55,7 +55,7 @@ https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/pl
 #EXTINF:-1 tvg-chno="20" group-title="Abierto" tvg-logo="https://i.imgur.com/5zn3GRi.png" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e39ae53c5717310826708007186512703983393.png" tvg-id="CronicaTV.ar",Cronica
-http://45.70.221.206/CRONICA_OTT/playlist.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/21
 #EXTINF:-1 tvg-chno="22" group-title="Rosario" tvg-logo="https://i.imgur.com/DHv3yVj.png" tvg-id="Canal3Rosario.ar",El Tres
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
@@ -89,29 +89,29 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" tvg-id="Canal9Televida.ar" group-title="Regionales",LV83 Televida 9
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="480" tvg-logo="https://i.imgur.com/NEL0AjM.png" tvg-id="KZO.ar" group-title="Abierto",KZO TV
-http://45.226.28.9:8085/Live/6fb1f0e7eb180cb1c37841fb3e8a163b/local-kzo_720.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/480.m3u8
 #EXTINF:-1 tvg-chno="481" group-title="Abierto" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
 https://cyberuno.cdn.rcs.net.ar/mnp/tecnopolis_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="33" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-chno="34" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25553_white_360w_270h.png" tvg-id="ElGourmet.ar",El Gourmet
-http://45.188.229.33:8000/play/a1d5/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/34.m3u8
 #EXTINF:-1 tvg-chno="35" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
-http://181.209.38.115:8000/play/a014/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/35.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="Encuentro.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75767_white_360w_270h.png" group-title="Abierto",Encuentro
 https://cyberuno.cdn.rcs.net.ar/mnp/encuentro_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="37" group-title="Abierto" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/672e60a44f0d417310926448507907251887918456.png" tvg-id="CanalRural.ar",Rural
-http://45.179.152.42:8000/play/a03o
+http://rough-dream-f561.stratusnex.workers.dev/37.m3u8
 #EXTINF:-1 tvg-chno="38" group-title="Regionales" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar",Canal a
-http://181.209.38.115:8000/play/a03j/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/39.m3u8
 #EXTINF:-1 tvg-chno="40" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="Volver.ar",Volver
-http://181.209.38.115:8000/play/a02r/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/40.m3u8
 #EXTINF:-1 tvg-chno="41" group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png/250px-Canal_10_Mar_del_Plata_nuevo_logo.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="42" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="ElGarage.ar",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/42.m3u8
 #EXTINF:-1 tvg-name="Canal10 CBA HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_10_C%C3%B3rdoba_%28Logo_2025%29.svg" group-title="Regionales" tvg-chno="351",Canal10 CBA HD
 https://cdn.cvattv.com.ar/live/c3eds/Canal10_CBA_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_CBA_HD.mpd
 #EXTINF:-1 tvg-chno="43" group-title="Regionales" tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="",Canal 9 Resistencia 
@@ -121,7 +121,7 @@ https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 #EXTINF:-1 tvg-chno="45" group-title="Regionales" tvg-logo="https://yt3.googleusercontent.com/rH_NXIbAbMz-ShGm0I9kD6Nv9k1_bk9lqXusl9YirffW1qF_UOd3Qfq2I3Rv1I1IRPTanqf9xg=s900-c-k-c0x00ffffff-no-rj" tvg-id="",SOMOS UNO
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" group-title="Regionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" tvg-id="",CANAL 9 PARANA
-https://cdn.cvattv.com.ar/live/c3eds/Canal_9_Parana/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_9_Parana.mpd 
+http://rough-dream-f561.stratusnex.workers.dev/46.m3u8 
 #EXTINF:-1 tvg-chno="47" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/2banner2180670149719750452.jpg" tvg-id="", Canal AVC
 https://nd106.republicaservers.com/hls/c8186/index.m3u8
 #EXTINF:-1 tvg-chno="48" group-title="Regionales" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-id="", T5 Satelital
@@ -138,13 +138,13 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 #EXTINF:-1 tvg-chno="53" group-title="Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/TyC_Sports_Play_2014.png/revision/latest?cb=20200824001045&path-prefix=es" tvg-id="",TyC Sports FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-chno="54" group-title="Deportes" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png" tvg-id="TyCSports.ar",TyC Sports
-https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TyC_Internacional.mpd
+http://rough-dream-f561.stratusnex.workers.dev/54.m3u8
 #EXTINF:-1 tvg-chno="55" group-title="Deportes" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" tvg-id="DSportsPlus.uy",Dsport+
-http://38.224.175.2:8000/play/a011/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/55.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Deportes",ESPN
 https://cyberuno.cdn.rcs.net.ar/mnp/yft2eRNwcYbjJwa0YvCvw8a6HoSQwc4g_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Deportes",Fox Sports
-http://45.188.229.33:8000/play/a1cp/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/57.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Deportes",ESPN 2
 https://cyberuno.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="Deportes",ESPN 3
@@ -152,35 +152,35 @@ https://cyberuno.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR_hls/playli
 #EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="Deportes",ESPN 4
 https://cyberuno.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Deportes",Fox Sports 2
-http://45.188.229.33:8000/play/a1ae/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/60.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Deportes",DAZN
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/62.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Deportes",DeporTV
-http://45.188.229.33:8000/play/a1cq/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/a1cq/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="Deportes",AM Sports
-http://45.179.152.42:8000/play/a03f
+http://rough-dream-f561.stratusnex.workers.dev/a03f.m3u8
 #EXTINF:-1 tvg-chno="325" group-title="Deportes" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
-http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="328" group-title="Deportes" tvg-logo="https://i.ibb.co/wFp9KyWf/0428.jpg" tvg-id="",EuroSport 2
-http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="66" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Abierto",Claro Sports
-http://187.245.231.226:8000/play/a0qe/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/a0qe/index.m3u8
 #EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="https://i.ibb.co/tPLH77vG/0403.jpg" tvg-id="",TNT Sport - Chile
 https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="Deportes",Sportv
-http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/167774
+http://rough-dream-f561.stratusnex.workers.dev/167774.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Showsport.png" tvg-name="Show Sports" group-title="Deportes",Show Sports
 https://cdn.cvattv.com.ar/live/c3eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
-http://45.188.229.33:8000/play/a11v/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/a11v/index.m3u8
 #EXTINF:-1 tvg-chno="69" group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
-http://45.188.229.33:8000/play/a0we/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/a0we/index.m3u8
 #EXTINF:-1 tvg-chno="70" group-title="Religion" tvg-logo="https://images.open-epg.com/16782310.png" tvg-id="Ewtn.ar",EWTN
 http://45.188.229.33:8000/play/a11t/index.m3u8
 #EXTINF:-1 tvg-chno="340" tvg-id="" tvg-logo="https://i.ibb.co/jZfxNNZS/0628.jpg" group-title="Religion" group-logo="",BETHEL TV
@@ -197,7 +197,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 https://cyberuno.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="75" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87140_dark_360w_270h.png" tvg-id="PakaPaka.ar",Pakapaka
 https://cyberuno.cdn.rcs.net.ar/mnp/pkpk_hls/playlist.m3u8
-#EXTINF:-1 tvg-chno="490" tvg-name="Clan" tvg-logo="https://i.postimg.cc/cL8vJm6W/clan-2026-worldtv2.png" group-title="ATP/INFANTIL",Clan
+#EXTINF:-1 tvg-chno="490" tvg-name="Clan" tvg-logo="https://i.imgur.com/UmI7uUs.png" group-title="ATP/INFANTIL",Clan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_720.m3u8
 #EXTINF:-1 tvg-chno="76" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_light_360w_270h.png" tvg-id="CartoonNetwork.ar",Cartoon Network
@@ -354,7 +354,7 @@ https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_a
 #EXTINF:-1 tvg-chno="142" group-title="Musica" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 #EXTINF:-1 tvg-chno="143" group-title="Musica" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
-http://181.209.38.115:8000/play/a02s/index.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/qmtv.m3u8
 #EXTINF:-1 tvg-chno="144" group-title="Musica" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 https://cyberuno.cdn.rcs.net.ar/mnp/htv_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="145" group-title="Musica" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/05299086405098255696308.jpg" tvg-id="KpopMix.ar@SD",Kpop Mix
@@ -461,7 +461,7 @@ https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8
 #EXTINF:-1 tvg-chno="192" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_white_360w_270h.png" tvg-id="France24enEspañol.ar",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-chno="193" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75785_gray_360w_270h.png" tvg-id="RaiItalia.ar",RAI Italia
-http://181.209.38.115:8000/play/a05d/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/rai.m3u8
 #EXTINF:-1 tvg-chno="194" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16217_dark_360w_270h.png" tvg-id="TVE.uy",TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
@@ -573,15 +573,15 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 #
 
 #EXTINF:-1 tvg-chno="227" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" tvg-id="DSports2.uy",DSports 2
-https://s2.bufaloweb.com/bufalo10/tracks-v1a1/mono.ts.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/dsport2.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
-http://45.188.229.33:8000/play/a1iw/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/dsport.m3u8
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 https://cyberuno.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
 #EXTINF:-1 tvg-chno="230" group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium.ar",TNT Sports Premium
 https://cyberuno.cdn.rcs.net.ar/mnp/ogyv7712m4k7000000810xsk8utl0vak/output.mpd
 #EXTINF:-1 tvg-chno="500" group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium.ar",TNT Sports Premium
-http://181.209.38.115:8000/play/a00j/index.m3u8?hls
+http://rough-dream-f561.stratusnex.workers.dev/tnts.m3u8
 
 #
 #
@@ -808,11 +808,11 @@ https://cyberuno.cdn.rcs.net.ar/mnp/yb00000004pgcoaan51zn2w74bzgpszr/output.mpd
 
 
 #EXTINF:-1 tvg-chno="334" group-title="Deportes" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="",TyC Sports HD
-http://ziptv.env.pm/live/tychd.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/tyc.m3u8
 #EXTINF:-1 tvg-chno="335" group-title="Relay" tvg-logo="" tvg-id="",History Channel HD
 http://ziptv.env.pm/live/history.m3u8
 #EXTINF:-1 tvg-chno="336" group-title="Relay" tvg-logo="" tvg-id="0510",Quiero Musica
-http://177.234.249.178:8888/MTV/index.m3u8
+http://rough-dream-f561.stratusnex.workers.dev/qmtv2.m3u8
 
 
 
