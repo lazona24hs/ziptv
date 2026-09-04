@@ -112,8 +112,8 @@ http://rough-dream-f561.stratusnex.workers.dev/40.m3u8
 https://g1.mc-hor.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="42" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034DN3M.png_dark_360w_270h.png" tvg-id="ElGarage.ar",Garage TV
 http://rough-dream-f561.stratusnex.workers.dev/42.m3u8
-#EXTINF:-1 tvg-name="Canal10 CBA HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_10_C%C3%B3rdoba_%28Logo_2025%29.svg" group-title="Regionales" tvg-chno="351",Canal10 CBA HD
-https://cdn.cvattv.com.ar/live/c3eds/Canal10_CBA_HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal10_CBA_HD.mpd
+#EXTINF:-1 tvg-name="Telediario Digital" tvg-logo="https://i.imgur.com/sBechkT.png" group-title="Regionales" tvg-chno="351",Telediario Digital
+https://cyberuno.cdn.rcs.net.ar/mnp/imperio_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="43" group-title="Regionales" tvg-logo="https://i.imgur.com/xqgRFpC.png" tvg-id="",Canal 9 Resistencia 
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="44" group-title="Regionales" tvg-logo="https://www.iteltv.com.ar/public/img/iconos/logo%20footer.png" tvg-id="",Itel TV
@@ -173,8 +173,8 @@ http://rough-dream-f561.stratusnex.workers.dev/a0qe/index.m3u8
 https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="Deportes",Sportv
 http://rough-dream-f561.stratusnex.workers.dev/167774.m3u8
-#EXTINF:-1 tvg-chno="350" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Showsport.png" tvg-name="Show Sports" group-title="Deportes",Show Sports
-https://cdn.cvattv.com.ar/live/c3eds/Show_Sports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Show_Sports.mpd
+#EXTINF:-1 tvg-chno="350" tvg-logo="https://i.imgur.com/35enUz3.png" tvg-name="Golf Channel" group-title="Deportes",Golf Channel
+https://cyberuno.cdn.rcs.net.ar/mnp/golf_hls/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
 https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
