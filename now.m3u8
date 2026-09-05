@@ -521,7 +521,7 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 #
 #
 #EXTINF:-1 tvg-chno="208" tvg-name="ZIP Radio" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png" group-title="Radios" radio="true",ZIP Radio
-https://stream.zeno.fm/idqecp6rhbnvv
+https://audio-restream.stratusnex.workers.dev/eradio
 #EXTINF:-1 tvg-chno="209" tvg-name="Frecuencia Plus" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Radios" radio="true",Fm Plus Rosario
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-name="Fm Vida" tvg-logo="https://i.imgur.com/0d3xdG4.png" group-title="Radios" radio="true",Fm Vida
@@ -543,7 +543,7 @@ https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/P
 #EXTINF:-1 tvg-chno="216" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png" tvg-id="radio",Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="https://i.imgur.com/XDYXv76.png" tvg-id="",Red LT
-http://stratusnex.xubi.org/live/redlt.m3u8
+https://rough-dream-f561.stratusnex.workers.dev/redtlrosario/playlist.m3u8
 #EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="https://i.imgur.com/iMrNUGf.png" tvg-id="",POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 #EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="https://i.imgur.com/oZq1bTN.jpeg" tvg-id="",AM 1330
@@ -560,7 +560,7 @@ https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 # Radios Eradio
 #EXTINF:-1 tvg-chno="225" tvg-id="" tvg-logo="https://i.imgur.com/55tV9pR.png" group-title="Radios" group-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png",ERadio
-https://lbgo.bozztv.com/ssh101/ssh101/eradiolive/playlist.m3u8
+https://audio-restream.stratusnex.workers.dev/eradiotv/playlist.m3u8
 #
 #EXTINF:-1 tvg-chno="226" tvg-id="" tvg-logo="https://i.imgur.com/VcqE8GS.png" group-title="Radios" group-logo="",PopuTV - Paraguay
 http://45.188.229.33:8000/play/a1eo/index.m3u8
