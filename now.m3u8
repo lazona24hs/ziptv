@@ -176,7 +176,7 @@ http://rough-dream-f561.stratusnex.workers.dev/167774.m3u8
 #EXTINF:-1 tvg-chno="350" tvg-logo="https://i.imgur.com/35enUz3.png" tvg-name="Golf Channel" group-title="Deportes",Golf Channel
 https://cyberuno.cdn.rcs.net.ar/mnp/golf/output.mpd
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
-https://g4.vxral-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
+https://canalluz7.canalluz.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
 http://rough-dream-f561.stratusnex.workers.dev/a11v/index.m3u8
 #EXTINF:-1 tvg-chno="69" group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
