@@ -589,7 +589,7 @@ http://rough-dream-f561.stratusnex.workers.dev/tnts.m3u8
 #Exclusiva
 #
 #EXTINF:-1 tvg-chno="231" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/450bd279c7c3592fda2b30292f5b91318074310478981123429.jpeg" tvg-id="",El Chavo 24/7
-http://redworld.pro:8880/263738263828/mtRGzMLrXMd2/526348
+https://zipstream.stratusnex.workers.dev/elchavo/live.m3u8
 #EXTINF:-1 tvg-chno="232" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/compose2357099384686532056.jpg" tvg-id="",Los Simpson 24/7
 https://zipstream.stratusnex.workers.dev/simpson/live.m3u8
 #EXTINF:-1 tvg-chno="233" group-title="Exclusiva" tvg-logo="https://i.imgur.com/ojwFsxl.jpeg" tvg-id="",Gravity Falls 24/7
