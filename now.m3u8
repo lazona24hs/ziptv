@@ -167,8 +167,8 @@ http://rough-dream-f561.stratusnex.workers.dev/a03f.m3u8
 http://rough-dream-f561.stratusnex.workers.dev/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="328" group-title="Deportes" tvg-logo="https://i.ibb.co/wFp9KyWf/0428.jpg" tvg-id="",EuroSport 2
 http://rough-dream-f561.stratusnex.workers.dev/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-chno="66" tvg-id="6320d80a66666000086712d7" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Abierto",Claro Sports
-http://rough-dream-f561.stratusnex.workers.dev/a0qe/index.m3u8
+#EXTINF:-1 tvg-chno="66" group-title="Deportes" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="",TyC Sports HD
+http://rough-dream-f561.stratusnex.workers.dev/tyc.m3u8
 #EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="https://i.ibb.co/tPLH77vG/0403.jpg" tvg-id="",TNT Sport - Chile
 https://iptv.bitred.cl/Tnt/index.m3u8
 #EXTINF:-1 tvg-chno="349" tvg-name="Sportv" tvg-logo="https://i.imgur.com/w7NLpdU.png" group-title="Deportes",Sportv
