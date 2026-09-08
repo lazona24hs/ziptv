@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/NwtqGHYvwk.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://ziptv.env.pm"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/NwtqGHYvwk.xml, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://ziptv.env.pm"
 # ZIPTV
 # Canales: 340
 # Grupo: ZipTV
