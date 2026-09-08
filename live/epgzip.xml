@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="StratusNex">
+
+  <!-- 1. Definición de Canales -->
+  <channel id="zipstream.ar">
+    <display-name lang="es">ZipTV Stream</display-name>
+    <icon src="https://lz24h.wordpress.com/wp-content/uploads/2026/09/file_0000000054d0820ea5505d8812b54bf39050936303523331891.png" />
+  </channel>
+
+  <channel id="eradio.ar">
+    <display-name lang="es">Eradio</display-name>
+    <icon src="https://i.imgur.com/55tV9pR.png" />
+  </channel>
+
+  <!-- 2. Definición de Programas -->
+  <!-- El formato de fecha y hora es: YYYYMMDDHHMMSS +0000 -->
+  <programme start="20260908120000 -0300" stop="20261212130000 -0300" channel="zipstream.ar">
+    <title lang="es">ZipTV</title>
+    <desc lang="es">Estas Viendo la mejor programacion</desc>
+    <category lang="es">General</category>
+  </programme>
+
+  <programme start="20260908130000 -0300" stop="20261212143000 -0000" channel="eradio.ar">
+    <title lang="es">E-RADIO Rosario 24/7 </title>
+    <desc lang="es">Disfruta de la mejor selección de musica 24 horas.</desc>
+    <category lang="es">Radio</category>
+  </programme>
+
+</tv>
