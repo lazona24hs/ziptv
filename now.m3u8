@@ -236,7 +236,7 @@ http://45.188.229.33:8000/play/a12k/index.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg" tvg-id="DistritoComedia.uy" group-title="Entretenimiento",Distrito Comedia
 http://45.188.229.33:8000/play/a0y8/index.m3u8
 #EXTINF:-1 tvg-chno="92" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_white_360w_270h.png" tvg-id="AandE.ar",A&E
-http://45.188.229.33:8000/play/a1al/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/j26j2rzpt800000288vtpyar1sx5a31e/output.mpd
 #EXTINF:-1 tvg-chno="93" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002GM3XW.png_gray_360w_270h.png" tvg-id="AmcSeries.ar",AMC SERIES
 http://45.188.229.33:8000/play/a0xt/index.m3u8
 #EXTINF:-1 tvg-chno="94" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59337_gray_360w_270h.png" tvg-id="Amc.ar",AMC
@@ -252,21 +252,21 @@ https://cyberuno.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-chno="99" tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
 https://cyberuno.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 #EXTINF:-1 tvg-chno="100" tvg-id="DiscoveryScience.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="Entretenimiento",Discovery Science
-http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1 tvg-chno="101" tvg-id="DiscoveryTheater.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65940_dark_360w_270h.png" group-title="Entretenimiento",Discovery Theater
-https://cyberuno.cdn.rcs.net.ar/mnp/disc_theater_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/disc_theater/output.mpd
 #EXTINF:-1 tvg-chno="102" tvg-id="DiscoveryTurbo.ar" tvg-logo="http://i.tvcluboficial.com/discoveryturbo.png" group-title="Entretenimiento",Discovery Turbo
-http://rough-dream-f561.stratusnex.workers.dev/Discovery_Turbo_HD/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 tvg-chno="103" tvg-id="DiscoveryWorld.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66488_white_360w_270h.png" group-title="Entretenimiento",Discovery World
-http://rough-dream-f561.stratusnex.workers.dev/Discovery_World_HD/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 #EXTINF:-1 tvg-chno="104" group-title="Entretenimiento" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/I32.png" tvg-id="InvestigationDiscovery.ar",Discovery ID
-http://rough-dream-f561.stratusnex.workers.dev/Discovery_Investigation_HD/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/disc_idar/output.mpd
 #EXTINF:-1 tvg-chno="105" tvg-id="FX.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_white_360w_270h.png" group-title="Entretenimiento",FX
 https://cyberuno.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 tvg-chno="106" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png" tvg-id="FilmAndArts.ar",Film & Arts
-http://rough-dream-f561.stratusnex.workers.dev/a0xr/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
 #EXTINF:-1 tvg-chno="107" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90456_dark_360w_270h.png" tvg-id="E!Entertainment.ar",E! Entertainment
-http://45.134.141.161:2200/ARG/E_Entertainment/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/eent/output.mpd
 #EXTINF:-1 tvg-chno="108" tvg-id="HBO.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_gray_360w_270h.png" group-title="Entretenimiento",HBO
 https://cyberuno.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 tvg-chno="109" tvg-id="HBO2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Entretenimiento",HBO 2
@@ -316,7 +316,7 @@ http://38.224.175.2:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-chno="125" group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png" tvg-id="639751f81a36b400072b8f5a",KANAL DRAMA
 https://jmp2.uk/plu-639751f81a36b400072b8f5a.m3u8
 #EXTINF:-1 tvg-chno="126" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.ar",USA Network
-http://45.188.229.33:8000/play/a0xz/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-chno="127" tvg-id="UniversalTV.ar" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3yYmEUqjIydw5RcOidlQio/798de5a73b867ba6ab139ed4b0dad53e/Universal_TV.png" group-title="Entretenimiento",Universal
 https://cyberuno.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-chno="128" tvg-id="UniversalCinema.uy" tvg-logo="https://i.ibb.co/S4271Vcp/1841.png" group-title="Entretenimiento" group-logo="",Universal Cinema
@@ -334,11 +334,11 @@ http://45.188.229.33:8000/play/a1ka/index.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="History2.ar",History 2
 http://45.188.229.33:8000/play/a0xn/index.m3u8
 #EXTINF:-1 tvg-chno="133" group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar",History Channel
-http://45.188.229.33:8000/play/a1aq/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-chno="134" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" tvg-id="TLC.cl",TLC
 https://cyberuno.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-chno="135" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
-http://45.188.229.33:8000/play/a19a/index.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 #EXTINF:-1 tvg-chno="136" group-title="Entretenimiento" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png" tvg-id="Pasiones.ar",Pasiones
 http://181.224.200.5:2277/play/4324/index.m3u8
 #EXTINF:-1 tvg-chno="137" group-title="Entretenimiento" tvg-logo="" tvg-id="HolaTV.ar",Hola TV
