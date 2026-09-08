@@ -520,7 +520,7 @@ https://jmp2.uk/plu-62310d5a5dc9550007c6f580.m3u8
 #Radios y Streamings
 #
 #
-#EXTINF:-1 tvg-chno="208" tvg-name="ZIPStream" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/file_0000000054d0820ea5505d8812b54bf39050936303523331891.png" group-title="Exclusiva" ,ZipTV 24/7
+#EXTINF:-1 tvg-chno="208" tvg-id="zipstream.ar" tvg-name="ZIPStream" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/file_0000000054d0820ea5505d8812b54bf39050936303523331891.png" group-title="Exclusiva" ,ZipTV 24/7
 https://zipstream.stratusnex.workers.dev/zipstream/live.m3u8
 #EXTINF:-1 tvg-chno="209" tvg-name="Frecuencia Plus" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Radios" radio="true",Fm Plus Rosario
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
@@ -559,7 +559,7 @@ https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 #EXTINF:-1 tvg-chno="224" tvg-logo="https://radiosargentina.com.ar/png/VISOLSPO.png" group-title="Radios",Sol Play
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 # Radios Eradio
-#EXTINF:-1 tvg-chno="225" tvg-id="" tvg-logo="https://i.imgur.com/55tV9pR.png" group-title="Radios" group-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png",ERadio
+#EXTINF:-1 tvg-chno="225" tvg-id="eradio.ar" tvg-logo="https://i.imgur.com/55tV9pR.png" group-title="Radios" group-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_000000003d94820ea0346576b0adf6de3819593025956961599.png",ERadio
 https://channels.stratusnex.workers.dev/eradiotv.m3u8
 #
 #EXTINF:-1 tvg-chno="226" tvg-id="" tvg-logo="https://i.imgur.com/VcqE8GS.png" group-title="Radios" group-logo="",PopuTV - Paraguay
