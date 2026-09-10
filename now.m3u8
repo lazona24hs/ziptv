@@ -604,7 +604,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288&avod=1&coppa=0&td=6&
 #
 #EXTINF:-1 tvg-chno="235" tvg-id="zipstream.ar" tvg-name="ZIPStream" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/file_0000000054d0820ea5505d8812b54bf39050936303523331891.png" group-title="Stream 24/7" ,ZipTV 24/7
 https://zipstream.stratusnex.workers.dev/zipstream/live.m3u8
-#EXTINF:-1 tvg-chno="236" group-title="Stea" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
+#EXTINF:-1 tvg-chno="236" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
 http://147.75.122.125:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-chno="237" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
 http://147.75.122.125:8000/play/a03a/index.m3u8
@@ -813,10 +813,11 @@ http://rough-dream-f561.stratusnex.workers.dev/tyc.m3u8
 http://www.stratusnex.workers.dev/live/history.m3u8
 
 
-#EXTINF:-1 tvg-chno="336" group-title="Relay" tvg-logo="" tvg-id="0510",Metro
-https://cdn.cvattv.com.ar/live/c6eds/Metro/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Metro.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#EXTINF:-1 tvg-chno="336" tvg-id="QUIERO.ar" tvg-logo="https://i.postimg.cc/tJWc3vRN/QUIERO.png" group-title="Musica", Quiero Música
+https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
 
 
 
