@@ -1,0 +1,201 @@
+#EXTM3U
+
+#EXTGRPðŸ“º NACIONALES / ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",26TV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05x/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",ARGENTINISIMA
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e7/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",AUNAR
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e0/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",C5N
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05v/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CANAL LOCAL
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e1/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CM
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e6/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CN23
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0dq/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",CRONICA
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05w/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Canal a
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06d/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",ENCUENTRO HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0ds/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",La Nacion TV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05y/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",MULTIVISION
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e3/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Pakapaka
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05t/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Quiero Musica
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06s/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Rural
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06k/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",TV Publica HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0ec/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Telefe HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08a/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",TN HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a097/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",TyC Sports HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06x/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Volver
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a066/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",ciudad magazine
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06m/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",el nueve HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08k/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",el trece HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07b/index.m3u8?token=miguel2026
+
+#EXTGRPðŸ“° NOTICIAS / INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",CNN en EspaÃ±ol
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a093/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NOTICIAS",La Nacion TV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05y/index.m3u8?token=miguel2026
+
+#EXTGRPâš½ DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",DSPORTS 1 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0ef/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",DSPORTS 2 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0ee/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",DeporTV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07f/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a099/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 2 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a098/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 3 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09a/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN 4 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a084/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",ESPN Premium HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a086/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Fox Sports HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a085/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Fox Sports 2 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09b/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",Fox Sports 3 HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06y/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",TNT Sports HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06z/index.m3u8?token=miguel2026
+
+#EXTGRPðŸŽ¬ CINE Y PELÃCULAS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",A24
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05u/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Cine.AR
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a069/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Cinecanal HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a089/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Cinemax
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08r/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Film & Arts HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a075/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",HBO 2
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07o/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",HBO Family
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07p/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",HBO Xtreme
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06g/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Sony Movies HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09j/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Star Channel HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a087/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",Studio Universal
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a067/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",TCM
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a065/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",TNT HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08b/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",TNT Novelas HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08e/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CINE",TNT Series HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08c/index.m3u8?token=miguel2026
+
+#EXTGRPðŸ“º SERIES Y ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",A&E HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09h/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AMC
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a064/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AMC SERIES
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a073/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",AXN HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09e/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Adult swim HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08d/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",America TV HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a094/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Comedy Central HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a072/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",E! Entertainment
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08z/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",El Canal de las Estrellas
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07x/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",FX HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a070/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Sony HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09c/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Space HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a071/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",TLNovelas
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07y/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",USA Network
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a068/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Universal HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09i/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SERIES",Warner Channel HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09d/index.m3u8?token=miguel2026
+
+#EXTGRPðŸ§’ INFANTIL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Cartoon Network HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a083/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Disney Channel HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06w/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Disney Junior
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08x/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Nick Jr
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07s/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",Nickelodeon
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08y/index.m3u8?token=miguel2026
+
+#EXTGRPðŸ”¬ CIENCIA Y CULTURA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",DISCOVERY SCIENCIA
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e9/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",DISCOVERY WORLD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0eb/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",Discovery Channel HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08g/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",Discovery H&H HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a08f/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",Discovery Kids
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07r/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",History 2
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06n/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",History Channel
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a090/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",Nat Geo HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09f/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CULTURA",The History Channel HD
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a09g/index.m3u8?token=miguel2026
+
+#EXTGRPðŸŽµ MÃšSICA Y ESTILO
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",El Gourmet
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07u/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Europa Europa
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07t/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HGTV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e8/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",HTV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06t/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",IP
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0dz/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Lifetime
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a07l/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTV
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06r/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",MTVÃ—00
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a092/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",Metro
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06l/index.m3u8?token=miguel2026
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSICA",TVE
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a080/index.m3u8?token=miguel2026
