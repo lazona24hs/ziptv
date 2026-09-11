@@ -2,7 +2,7 @@
 
 #EXTGRPðŸ“º NACIONALES / ARGENTINA
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",26TV
-https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05x/index.m3u8?token=miguel2026
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05x/index.m3u8?token=stratusnex
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",ARGENTINISIMA
 https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a0e7/index.m3u8?token=miguel2026
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",AUNAR
