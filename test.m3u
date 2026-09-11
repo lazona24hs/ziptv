@@ -28,7 +28,7 @@ https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Pakapaka
 https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a05t/index.m3u8?token=miguel2026
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Quiero Musica
-https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06s/index.m3u8?token=miguel2026
+https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://138.59.227.20:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",Rural
 https://teleapp-tv-705810336142.us-west2.run.app/api/proxy?url=http://181.209.37.74:8001/play/a06k/index.m3u8?token=miguel2026
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="NACIONALES",TV Publica HD
