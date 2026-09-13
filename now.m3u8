@@ -297,7 +297,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-chno="116" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15296_light_360w_270h.png" tvg-id="CineLatino.ar",Cine Latino
 http://rough-dream-f561.stratusnex.workers.dev/c02k.m3u8
 #EXTINF:-1 tvg-chno="117" tvg-id="StudioUniversal.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png" group-title="Entretenimiento",Studio Universal
-https://cyberuno.cdn.rcs.net.ar/mnp/st_universal/output.mpd
+http://45.188.229.33:8000/play/a0u2/index.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="TCM.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86940_light_360w_270h.png" group-title="Entretenimiento",TCM
 https://cyberuno.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-chno="119" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21257_dark_360w_270h.png" tvg-id="HGTV.ar" ",HGTV
