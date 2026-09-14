@@ -435,8 +435,8 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 #EXTINF:-1 tvg-chno="335" group-title="Regionales" tvg-logo="https://i.imgur.com/HcbvN9A.png" tvg-id="",Canal 10 Nuevo Mundo
 https://tecnica.nuevomundotv.com.ar:446/hls/canal10.m3u8
-#EXTINF:-1 tvg-chno="23.1" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
-https://channels.stratusnex.workers.dev/tlfro.m3u8
+#EXTINF:-1 tvg-chno="698" group-title="Regionales" tvg-logo="" tvg-id="SomosLaPampa.ar", Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="202" tvg-id="68224482c5d53e1351aaf2f2" tvg-logo="https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png" group-title="Entretenimiento",Canal Claro
 http://45.188.229.33:8000/play/a0uy/index.m3u8
