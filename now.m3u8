@@ -403,7 +403,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Regionales", Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-logo="https://i.imgur.com/x6hiZRU.png" group-title="Regionales" tvg-id="TelefeSantaFe.ar", Telefe Santa Fe
-http://rough-dream-f561.stratusnex.workers.dev/telefesantafe.m3u8
+https://channels.stratusnex.workers.dev/13santafe.m3u8
 #EXTINF:-1 tvg-chno="168" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Regionales", CeltaTV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://i.imgur.com/1CCplpb.png" tvg-id="ElTrece.ar" group-title="Regionales", El Trece
