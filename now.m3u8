@@ -814,8 +814,8 @@ https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
 #Relay
 
 
-
-
+#EXTINF:-1 tvg-chno="900" group-title="" tvg-logo="" tvg-id="",Test
+https://channels.stratusnex.workers.dev/tlfro.m3u8
 
 
 
