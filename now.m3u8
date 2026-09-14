@@ -88,8 +88,8 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-logo="https://radiosargentina.com.ar/png/VI--LV83.png" tvg-id="Canal9Televida.ar" group-title="Regionales",LV83 Televida 9
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="480" tvg-logo="https://i.imgur.com/NEL0AjM.png" tvg-id="KZO.ar" group-title="Abierto",KZO TV
-http://rough-dream-f561.stratusnex.workers.dev/480.m3u8
+#EXTINF:-1 tvg-chno="480" tvg-logo="https://i.imgur.com/MFKbBmH.png" tvg-id="MixTV.ar" group-title="Abierto",MIX TV
+http://45.226.28.9:8085/Live/a0cd073fe05a1331eb4b3419b28f67bb/local-kzo.playlist.m3u8
 #EXTINF:-1 tvg-chno="481" group-title="Abierto" tvg-id="TECtv.ar" tvg-name="Tec TV" tvg-logo="https://i.imgur.com/LNXXpgE.png",Tec TV
 https://cyberuno.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 #EXTINF:-1 tvg-chno="33" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" tvg-id="LasEstrellas.ar",Las Estrellas
@@ -348,7 +348,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/disc_apar/output.mpd
 http://45.188.229.33:8000/play/a13o/index.m3u8
 #EXTINF:-1 tvg-chno="140" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_light_360w_270h.png" tvg-id="FoodNetwork.ar",Food Network
 https://cyberuno.cdn.rcs.net.ar/mnp/disc_fn/output.mpd
-#EXTINF:-1 tvg-chno="336" tvg-id="" tvg-logo="https://i.imgur.com/69hK0Mc.png" group-title="Entretenimiento", EuroChannel
+#EXTINF:-1 tvg-chno="336" tvg-id="Eurochannel.ar" tvg-logo="https://i.imgur.com/69hK0Mc.png" group-title="Entretenimiento", EuroChannel
 http://190.108.83.69:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-chno="141" group-title="Musica" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 https://cyberuno.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
@@ -539,8 +539,8 @@ https://live-ar1.cdnrad.com/hls/radio-285/live.m3u8
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
 #EXTINF:-1 tvg-chno="431" tvg-name="Fm Vida" tvg-logo="https://i.imgur.com/0d3xdG4.png" group-title="Radios" radio="true",Fm Vida
 https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
-#EXTINF:-1 tvg-chno="210" tvg-id="Cumbia Argentina" tvg-name="Cumbia Argentina" tvg-logo="https://i.ibb.co/xKXMDGn4/images.jpg" group-title="Radios", Cumbia Argentina
-https://app.viloud.tv/hls/channel/2b011381cf4568ae1a85c87ab90186c6.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="ElDestape.ar" tvg-name="El Destape" tvg-logo="https://i.imgur.com/fYkj676.png" group-title="Radios", El Destape
+https://ipanel.instream.audio:7001/stream
 #EXTINF:-1 tvg-chno="211" group-title="Radios" tvg-logo="https://images.open-epg.com/x991.png" tvg-id="RadioLa100.ar",Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-chno="212" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
