@@ -601,6 +601,8 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 http://rough-dream-f561.stratusnex.workers.dev/dsport2.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://rough-dream-f561.stratusnex.workers.dev/dsport.m3u8
+#EXTINF:-1 tvg-chno="22.8" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
+http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 https://cyberuno.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
 #EXTINF:-1 tvg-chno="230" group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium.ar",TNT Sports Premium
