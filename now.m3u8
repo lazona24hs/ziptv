@@ -13,7 +13,7 @@
 
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 http://rough-dream-f561.stratusnex.workers.dev/eventos.m3u8
-#EXTINF:-1 tvg-chno="2" group-title="Exclusiva" tvg-logo="https://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/curiosidades-gran-hermano5098015067329499645.jpg" tvg-id="",GH - La Casa
+#EXTINF:-1 tvg-chno="2" group-title="Regionales" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kcSHAACfK13HXuWgWL0WTOsYK_1_A0LzXDUYvVEv03kjQ=s900-c-k-c0x00ffffff-no-rj" tvg-id="",Canal 3 Salta
 http://rough-dream-f561.stratusnex.workers.dev/dgo.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
