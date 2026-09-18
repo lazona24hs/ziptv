@@ -356,6 +356,8 @@ http://45.188.229.33:8000/play/a13o/index.m3u8
 https://cyberuno.cdn.rcs.net.ar/mnp/disc_fn/output.mpd
 #EXTINF:-1 tvg-chno="336" tvg-id="Eurochannel.ar" tvg-logo="https://i.imgur.com/69hK0Mc.png" group-title="Entretenimiento", EuroChannel
 http://190.108.83.69:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-chno="311" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="Entretenimiento",Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8
 #EXTINF:-1 tvg-chno="141" group-title="Musica" tvg-logo="" tvg-id="CanaldelaMusica.ar",Canal de la Música
 https://cyberuno.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
 #EXTINF:-1 tvg-chno="142" group-title="Musica" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar",MusicTOP
@@ -640,22 +642,22 @@ https://zipstream.stratusnex.workers.dev/zipstream/live.m3u8
 #
 #
 
-#EXTINF:-1 tvg-chno="236" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/8bb15a04-d23b-4553-82fb-982bcd3eab84-17079237074235471289001060254.jpg",FREE HITS
-http://147.75.122.125:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-chno="237" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/b3252f64-7232-4836-a7e4-dbb48d93b7c3-17078562706698076267514493733.jpg" tvg-id="",FREE TV ESTELAR
-http://147.75.122.125:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-chno="238" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/e494073dec0082cc7fb5310e627e31a65724569045594146294.jpg" tvg-id="",FREE SABER MAS
-http://147.75.122.125:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-chno="239" group-title="FreeTV" tvg-logo="" tvg-id="",FREE TV ACCION
-http://147.75.122.125:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-chno="236" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l23.webp",FREE HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16322
+#EXTINF:-1 tvg-chno="237" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l21.webp" tvg-id="",FREE TV ESTELAR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16318
+#EXTINF:-1 tvg-chno="238" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l24.webp" tvg-id="",FREE SABER MAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16321
+#EXTINF:-1 tvg-chno="239" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l19.webp" tvg-id="",FREE TV ACCION
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16317
 #EXTINF:-1 tvg-chno="240" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/a8e9a317-4831-496f-af6f-e724217c3b28-17265047293585361201671434501.jpg" tvg-id="",FREE TV CLASICO
-http://147.75.122.125:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-chno="241" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/bc1ba35f-b802-4af0-8681-44f288491bd5-1707856407840669212181802048.jpg",FREE TV DRAMA
-http://147.75.122.125:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-chno="242" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/cf935835-f4b2-4d0a-8bf3-1c7f0c684ecb-17078565005770165670641801296.jpg",FREE TV FAMILIAR
-http://147.75.122.125:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-chno="243" group-title="FreeTV" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/3693de83-bebe-4a5a-80a2-8e5c71cf8d6c-1707856437444384576843353838.jpg",FREE TV SUREÑO
-http://147.75.122.125:8000/play/a037/index.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16324
+#EXTINF:-1 tvg-chno="241" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l20.webp",FREE TV DRAMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16316
+#EXTINF:-1 tvg-chno="242" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l25.webp",FREE TV FAMILIAR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16320
+#EXTINF:-1 tvg-chno="243" group-title="FreeTV" tvg-logo="https://dgo.nubenet.com.ar/static/new/logos/l25.webp",FREE TV TERROR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16319
 #
 #
 #
@@ -797,8 +799,7 @@ https://jmp2.uk/plu-5f610042272f68000867685b.m3u8
 https://jmp2.uk/plu-5f85ca40eda1b10007b967cd.m3u8
 #EXTINF:-1 tvg-chno="310" tvg-id="5f85cf621d6d2200079f1de0" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png" group-title="PlutoTV",Karaoke por Stingray
 https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8
-#EXTINF:-1 tvg-chno="311" tvg-id="5f998c1fc54853000797bacd" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png" group-title="PlutoTV",Tastemade
-http://rough-dream-f561.stratusnex.workers.dev/185537.m3u8
+
 
 #EXTINF:-1 tvg-chno="312" tvg-id="5ffcc21a432945000762d06b" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png" group-title="PlutoTV",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ffcc21a432945000762d06b.m3u8
@@ -822,9 +823,9 @@ https://jmp2.uk/plu-656e2536fbc15b00084ae29d.m3u8
 https://jmp2.uk/plu-67a52cd4ec91870008a62164.m3u8
 
 #EXTINF:-1 tvg-chno="323" tvg-id="68b88712e777774982269ce9" tvg-logo="https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png" group-title="PlutoTV",Tastemade Viajes
-https://jmp2.uk/plu-68b88712e777774982269ce9.m3u8
+https://amg27441-amg27441c2-rlaxx-us-10924.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadeviajes-rlaxxus/playlist.m3u8
 #EXTINF:-1 tvg-chno="324" tvg-id="68b887c2e77777498226a0de" tvg-logo="https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png" group-title="PlutoTV",Tastemade Hogar
-https://jmp2.uk/plu-68b887c2e77777498226a0de.m3u8
+https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg27441-tastemadelatam-tastemadehogar-rlaxxus/playlist.m3u8
 #
 #
 #
