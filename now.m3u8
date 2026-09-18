@@ -35,7 +35,7 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
 https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
 #EXTINF:-1 tvg-chno="12" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-de-la-ciudad-ar.png" tvg-id="CanaldelaCiudad.ar",Canal de la Ciudad
-https://broker.cdn.rcs.net.ar/hub/pshcanaldelaciudad/dash/canal_de_la_ciudad.mpd
+http://181.209.105.115:2525/play/ciudadtv/index.m3u8
 #EXTINF:-1 tvg-chno="13" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/canal-26-ar.png" tvg-id="Canal26.ar",Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-chno="14" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/la-nacion-mas-ar.png" tvg-id="LaNacion+.ar",LaNacion+
@@ -505,7 +505,7 @@ https://amg00567-estrellamedia-estrellanews-estrellamedia-jrwr5.amagi.tv/playlis
 #EXTINF:-1 tvg-chno="198" tvg-name="adn Noticias" tvg-logo="https://lge-static.ottera.tv/prod/azt/linear_channel/thumbnails/poster/667x400/app_icons_general_layered_app_icon_front_-_tvos_-_1280_x_768.png" group-title="Internacional",adn Noticias
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://radiosargentina.com.ar/png/VI---FTV.png" group-title="Internacional",Fashion TV
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://mondrian.claro.com.br/channels/inverse/fashion-tv@3x.png" group-title="Internacional",Fashion TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-id="646cce4d1593940008a33f09" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Internacional",Azteca Internacional
 http://147.75.122.125:8000/play/a027/index.m3u8
@@ -515,14 +515,14 @@ http://147.75.122.125:8000/play/a027/index.m3u8
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-chno="420" tvg-name="BAND" tvg-logo="https://i.pinimg.com/564x/61/d8/07/61d807daca7fb95995f174d67c6be4f9.jpg" group-title="Internacional",BAND
 https://media.cdntvms.com.br/band_sat/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="421" group-title="Internacional" tvg-name="GLOBO R.D.J" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" ,GLOBO R.D.J
-http://45.190.28.50/GLOBO_HD/index.m3u8
+#EXTINF:-1 tvg-chno="421" group-title="Internacional" tvg-name="GLOBO BAHÍA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png" ,GLOBO BAHÍA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-chno="422" group-title="Internacional"  tvg-name="TV FRONTEIRA" tvg-logo="https://i.imgur.com/NtcoW6G.png" ,TV FRONTEIRA
 https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 #EXTINF:-1 tvg-chno="423" group-title="Internacional" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/SBT_Logo_2004.png/revision/latest?cb=20230302235717&path-prefix=pt-br" ,SBT
-http://45.190.28.50/SBT_HD/index.m3u8
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:-1 tvg-chno="424" group-title="Internacional" tvg-name="RECORD TV" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/a/a5/Logorecord.png/revision/latest?cb=20181016064409&path-prefix=es" ,RECORD TV
-http://45.190.28.50/RECORD/index.m3u8
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-chno="425" group-title="Internacional" tvg-name="TELEFUTURO" tvg-logo="https://i.imgur.com/6lVrFvb.png" ,TELEFUTURO
 https://04@copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-chno="426" group-title="Internacional" tvg-name="MONUMENTAL" tvg-logo="https://i.imgur.com/kEcOYML.png" ,MONUMENTAL
