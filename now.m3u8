@@ -14,7 +14,7 @@
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 http://rough-dream-f561.stratusnex.workers.dev/eventos.m3u8
 #EXTINF:-1 tvg-chno="2" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18242_dark_360w_270h.png" tvg-id="Metro.ar",Metro
-https://channels.stratusnex.workers.dev/metro.m3u8
+http://181.209.105.115:2525/play/metro/index.m3u8
 #EXTINF:-1 tvg-chno="3" group-title="Rosario" tvg-logo="https://i.imgur.com/60vSWW0.png" tvg-id="AiredeSantaFe.ar",AIRE DE SANTA FE
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 
@@ -23,13 +23,13 @@ http://45.188.229.33:8000/play/a0w9/index.m3u8
 #EXTINF:-1 tvg-chno="5" group-title="Internacional" tvg-logo="https://i.imgur.com/Vo6prbh.png" tvg-id="ElTreceInternacional.uy",El Trece Internacional
 http://45.188.229.33:8000/play/a0x2/index.m3u8
 #EXTINF:-1 tvg-chno="6" group-title="Rosario" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/somos-pergamino-ar.png" tvg-id="SomosRosario.ar",Somos Rosario 
-https://channels.stratusnex.workers.dev/somosro.m3u8
+http://181.209.105.115:2525/play/evento/index.m3u8
 #EXTINF:-1 tvg-chno="7" group-title="Rosario" tvg-logo="https://radiosargentina.com.ar/png/VIIVISIO.png" tvg-id="",Ivision TV VGG
 https://smt-usr-edge02.sensa.com.ar/output/SMT6/IVSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" group-title="Rosario" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKHhSh-Ht5k6JmZqbsIvDQ3_DDYZjBWvgjp0Nx9aVFfDrkE4EgugKThjGkW6rI4cAd02CB3EvGwlOFlRJoi86x8BLd90BDKUibCip9zOpIt1_FAebcUEy4XDgKerMzK_KbPzWivDKXBRIPDPb0B7fISaCmGX2Gu6gSxJnXRz_j-sEElcI9SDMta_Q/w640-h640/Vive%20TV.jpg" tvg-id="",ViveTV Rosario
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-chno="9" group-title="Abierto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Ciudadmagazine-logonuevo.png/revision/latest?cb=20210525001116&path-prefix=es" tvg-id="CiudadMagazine.ar",Ciudad Magazine
-https://channels.stratusnex.workers.dev/magazine.m3u8
+http://181.209.105.115:2525/play/ciudadmagazine/index.m3u8
 #EXTINF:-1 tvg-chno="10" group-title="Rosario" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/rts-ar.png" tvg-id="RtsTelevisionSantafesina.ar",RTS MEDIOS
 https://smt-usr-edge01.sensa.com.ar/output/SMT6/RTSh/playlist.m3u8
 #EXTINF:-1 tvg-chno="11" group-title="Abierto" tvg-logo="https://files.catbox.moe/iqx1h4.png" tvg-id="MultivisionFederal.ar",Multivisión
