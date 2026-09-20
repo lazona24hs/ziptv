@@ -10,6 +10,23 @@
 #Hello World!
 ####
 
+#EXTINF:-1 tvg-chno="16.1" group-title="Digital" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://channels.stratusnex.workers.dev/eltrece.m3u8
+#EXTINF:-1 tvg-chno="21.1" group-title="Digital" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
+http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
+#EXTINF:-1 tvg-chno="22.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
+https://channels.stratusnex.workers.dev/teleferosario.m3u8
+#EXTINF:-1 tvg-chno="23.1" group-title="Digital" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
+http://channels.stratusnex.workers.dev/qmtv.m3u8
+#EXTINF:-1 tvg-chno="17.1" group-title="Digital" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="",CANAL 11 PARANA
+https://channels.stratusnex.workers.dev/elonce.m3u8
+#EXTINF:-1 tvg-chno="28.1" group-title="Digital" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="29.1" group-title="Digital" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="",Diputados TV 
+https://channels.stratusnex.workers.dev/diputadostv.m3u8
 
 #EXTINF:-1 tvg-chno="1" group-title="Exclusiva" tvg-logo="http://ziptv.alwaysdata.net/press/wp-content/uploads/2026/08/file_00000000c8b8820eaed678253980f3e15075690802530191531.png" tvg-id="",Canal 01 Senal Eventos
 http://rough-dream-f561.stratusnex.workers.dev/eventos.m3u8
@@ -63,10 +80,9 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 tvg-chno="23" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
 #EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
-http://channels.stratusnex.workers.dev/back.m3u8
-#EXTINF:-1 tvg-chno="23.1" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
-https://channels.stratusnex.workers.dev/teleferosario.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 https://cyberuno.cdn.rcs.net.ar/mnp/elnueve/output.mpd
@@ -79,15 +95,13 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-name="Telediario Now" tvg-logo="https://play-lh.googleusercontent.com/T1Lo-sP-9uFGvXhT3jkyrIEUp9X1DR31_Cnl19vWaKyKPycPVtCmhKDDbtT7vWU4Sb3TY2w3o8GShHzEvolVpw" group-title="Abierto",Telediario Now
 https://channels.stratusnex.workers.dev/telediarionow.m3u8
-#EXTINF:-1 tvg-chno="28" group-title="Abierto" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="28.1" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109331_dark_360w_270h.png" tvg-id="NetTV.ar",Net TV
+
+#EXTINF:-1 tvg-chno="28" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109331_dark_360w_270h.png" tvg-id="NetTV.ar",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="29" group-title="Abierto" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="CN23.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-#EXTINF:-1 tvg-chno="29.1" group-title="Abierto" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="",Diputados TV 
-https://channels.stratusnex.workers.dev/diputadostv.m3u8
+
 #EXTINF:-1 tvg-chno="30" group-title="Regionales" tvg-logo="https://yt3.googleusercontent.com/NLkqseNFqh8p_slwbnlXvwSbcXBkQGJTxlfPsVtaH9fBjZpJfC8QPLqd4BX4koXijw0i_LHHCA=s900-c-k-c0x00ffffff-no-rj" tvg-id="NGFederal.ar@SD",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" group-title="Abierto" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_yRDvXCFRNoky9jhR8qg3iLjg5bPqF2mJLuIoPVBbnzUfQ67KPaf_V5lmxckUMTbf9UQ4wSiAo8iJH5zSYy3tAbBq9QdFHlH6EEMbUON4wPBtDQINJXrdbrFf1_bf4f6SEJNod5fpt8gqPyIDotkU69DYZ8kYU7bQCEKC_iS5dOUb9OvyZif_XUxEtE/s695/carastv.png" tvg-id="",CarasTV
@@ -128,8 +142,8 @@ https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/canal_9_litoral_20216477195086506141968.png" tvg-id="",CANAL 9 PARANA
 https://stream.arcast.live/canal9litoralhd/ngrp:canal9litoralhd_all/playlist.m3u8
-#EXTINF:-1 tvg-chno="46.1" group-title="Regionales" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="",CANAL 11 PARANA
-https://channels.stratusnex.workers.dev/elonce.m3u8
+
+
 #EXTINF:-1 tvg-chno="47" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/2banner2180670149719750452.jpg" tvg-id="", Canal AVC
 https://nd106.republicaservers.com/hls/c8186/index.m3u8
 #EXTINF:-1 tvg-chno="48" group-title="Regionales" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-id="", T5 Satelital
@@ -367,9 +381,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv:443/linear/amg00047-tastemade-es16intl-canela
 https://cyberuno.cdn.rcs.net.ar/mnp/cmmusica/output.mpd
 #EXTINF:-1 tvg-chno="142" group-title="Musica" tvg-logo="https://images.open-epg.com/16782357.png" tvg-id="MusicTop.ar",MusicTOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
 #EXTINF:-1 tvg-chno="143" group-title="Musica" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
-http://channels.stratusnex.workers.dev/qmtv.m3u8
-#EXTINF:-1 tvg-chno="14.3" group-title="Musica" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
 http://181.209.105.115:2525/play/quieromusica/index.m3u8
 #EXTINF:-1 tvg-chno="144" group-title="Musica" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png" tvg-id="HTV.ar" audio-track="es",HTV
 https://cyberuno.cdn.rcs.net.ar/mnp/htv/output.mpd
@@ -429,11 +442,7 @@ https://cdn.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-chno="169" tvg-logo="https://i.imgur.com/1CCplpb.png" tvg-id="ElTrece.ar" group-title="Regionales", El Trece
 https://cyberuno.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1 tvg-chno="16.1" group-title="Regionales" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece
-#EXTVLCOPT:http-referrer=https://vodgc.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-https://channels.stratusnex.workers.dev/eltrece.m3u8
+
 #170
 #EXTINF:-1 tvg-chno="171" tvg-logo="https://i.imgur.com/8xqYg4C.png" group-title="Regionales", RTN TV
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
@@ -618,8 +627,7 @@ http://45.188.229.33:8000/play/a1eo/index.m3u8
 http://181.209.105.115:2525/play/dsports2/index.m3u8
 #EXTINF:-1 tvg-chno="228" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
 http://45.188.229.33:8000/play/a1iw/index.m3u8
-#EXTINF:-1 tvg-chno="22.8" group-title="Pack Futbol" tvg-logo="https://i.ibb.co/kWtJT5F/DSports-2026.png" tvg-id="DSportsArgentina.uy",DSports
-http://45.70.221.206/DSPORTS_OTT/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="229" group-title="Pack Futbol" tvg-logo="https://images.open-epg.com/x964.png" tvg-id="EspnPremium.ar",ESPN Premium
 https://cyberuno.cdn.rcs.net.ar/mnp/k5ponh1vs9tpet3c1mbh00000811lgzw/output.mpd
 #EXTINF:-1 tvg-chno="230" group-title="Pack Futbol" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106780_light_360w_270h.png" tvg-id="TNTSportsPremium.ar",TNT Sports Premium
@@ -838,9 +846,6 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #
 #
 #Relay
-
-
-
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
 https://channels.stratusnex.workers.dev/tn.m3u8
