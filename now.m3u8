@@ -25,7 +25,7 @@ http://channels.stratusnex.workers.dev/qmtv.m3u8
 https://channels.stratusnex.workers.dev/elonce.m3u8
 #EXTINF:-1 tvg-chno="31.1" group-title="Digital" tvg-logo="https://files.catbox.moe/f7jbdo.png" tvg-id="", Canal 8 San Juan
 https://channels.stratusnex.workers.dev/canal8sanjuan.m3u8
-#EXTINF:-1 tvg-chno="30.1" group-title="Digital" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 10 Tucuman
+#EXTINF:-1 tvg-chno="30.1" group-title="Digital" tvg-logo="https://i.imgur.com/vn6ORHB.png" tvg-id="", Canal 10 Tucuman
 https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
 #EXTINF:-1 tvg-chno="28.1" group-title="Digital" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
