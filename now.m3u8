@@ -65,6 +65,8 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #https://smt-usr-edge01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 http://channels.stratusnex.workers.dev/back.m3u8
+#EXTINF:-1 tvg-chno="23.1" group-title="Rosario" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
+https://channels.stratusnex.workers.dev/teleferosario.m3u8
 
 #EXTINF:-1 tvg-chno="24" group-title="Abierto" tvg-logo="https://images.open-epg.com/16782301.png" tvg-id="ElNueve.ar",El Nueve
 https://cyberuno.cdn.rcs.net.ar/mnp/elnueve/output.mpd
@@ -841,7 +843,7 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-https://channels.stratusnex.workers.dev/teleferosario.m3u8
+https://channels.stratusnex.workers.dev/tn.m3u8
 #
 #
 #
