@@ -479,6 +479,8 @@ http://rough-dream-f561.stratusnex.workers.dev/telemundo-noticias.m3u8
 http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="182" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TeleSUR.ar",TeleSUR
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-chno="338" group-title="Internacional" tvg-logo="https://i.ibb.co/zT6yrz4J/0105.jpg" tvg-id="", Mega
+http://45.188.229.33:8000/play/a0tr/index.m3u8
 #EXTINF:-1 tvg-chno="183" group-title="Internacional" tvg-logo="https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/694a9fcf7bb5e688758d41f0_chv.png" tvg-id="Chilevisión.cl",CHV
 http://45.188.229.33:8000/play/a135/index.m3u8
 #EXTINF:-1 tvg-chno="184" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16046_dark_360w_270h.png" tvg-id="TVNChile.uy",TVN
@@ -537,8 +539,6 @@ https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?
 #EXTINF:-1 tvg-chno="332" group-title="Internacional" tvg-logo="https://i.imgur.com/IL6hpV8.png" tvg-id="",La Tele
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 
-#EXTINF:-1 tvg-chno="338" group-title="Internacional" tvg-logo="https://i.ibb.co/zT6yrz4J/0105.jpg" tvg-id="", Mega
-http://45.188.229.33:8000/play/a0tr/index.m3u8
 
 #EXTINF:-1 tvg-chno="339" tvg-id="" tvg-logo="https://i.ibb.co/27VLVcYM/0216.jpg" group-title="Internacional" group-logo="",BBC News
 http://45.188.229.33:8000/play/a1e9/index.m3u8
@@ -566,28 +566,26 @@ https://ice3.edge-apps.net/joy-radios/fmvida/playlist.m3u8
 https://ipanel.instream.audio:7001/stream
 #EXTINF:-1 tvg-chno="211" group-title="Radios" tvg-logo="https://images.open-epg.com/x991.png" tvg-id="RadioLa100.ar",Radio La 100
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
-#EXTINF:-1 tvg-chno="212" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
-https://media425.digitar.net:8091/mitre.mp3
-#EXTINF:-1 tvg-chno="21.8" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Buenos Aires
+#EXTINF:-1 tvg-chno="212" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Buenos Aires
 https://channels.stratusnex.workers.dev/mitre.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-name="DSports Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Radios",DSports Radio
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
-#EXTINF:-1 tvg-chno="213" group-title="Radios" tvg-logo="" tvg-id="RadioCadena.ar",Cadena3
+#EXTINF:-1 tvg-chno="213" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
+https://media425.digitar.net:8091/mitre.mp3
+#EXTINF:-1 tvg-chno="214" group-title="Radios" tvg-logo="" tvg-id="RadioCadena.ar",Cadena3
 https://cdn.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
-#EXTINF:-1 tvg-chno="214" group-title="Radios" tvg-id="" tvg-name="Mas FM" tvg-logo="https://cdn.m3u.cl/logo/1130_Mas_FM.png",Mas FM
+#EXTINF:-1 tvg-chno="215" group-title="Radios" tvg-id="" tvg-name="Mas FM" tvg-logo="https://cdn.m3u.cl/logo/1130_Mas_FM.png",Mas FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 tvg-chno="215" group-title="Radios" tvg-logo="https://i.imgur.com/RWL10TG.png" tvg-id="",Vorterix
+#EXTINF:-1 tvg-chno="216" group-title="Radios" tvg-logo="https://i.imgur.com/RWL10TG.png" tvg-id="",Vorterix
 https://g1.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8
-#EXTINF:-1 tvg-chno="216" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png" tvg-id="radio",Latina
+#EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/207/latina-fm-1011.8f6ab5a0.png" tvg-id="radio",Latina
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:-1 tvg-chno="217" group-title="Radios" tvg-logo="https://i.imgur.com/XDYXv76.png" tvg-id="",Red LT
+#EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="https://i.imgur.com/XDYXv76.png" tvg-id="",Red LT
 https://rough-dream-f561.stratusnex.workers.dev/redtlrosario/playlist.m3u8
-#EXTINF:-1 tvg-chno="218" group-title="Radios" tvg-logo="https://i.imgur.com/iMrNUGf.png" tvg-id="",POP Rosario
+#EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="https://i.imgur.com/iMrNUGf.png" tvg-id="",POP Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
-#EXTINF:-1 tvg-chno="219" group-title="Radios" tvg-logo="https://i.imgur.com/oZq1bTN.jpeg" tvg-id="",AM 1330
+#EXTINF:-1 tvg-chno="220" group-title="Radios" tvg-logo="https://i.imgur.com/oZq1bTN.jpeg" tvg-id="",AM 1330
 https://nd106.republicaservers.com/hls/mariatti/index.m3u8
-#EXTINF:-1 tvg-chno="220" group-title="Radios" tvg-logo="https://i.imgur.com/DljGu3V.png" tvg-id="",Rock and Pop
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="221" tvg-name="Radio Realpolitik" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Radios",Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-chno="222" group-title="Radios" tvg-logo="https://images.pluto.tv/channels/63dac1b78795f300086d5ca6/colorLogoPNG_1758309507155.png" tvg-id="63dac1b78795f300086d5ca6",TikTok Radio en Español
