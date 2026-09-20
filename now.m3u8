@@ -47,7 +47,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cnn-en-espanol-ar.png" tvg-id="CNNenEspañol.ar",CNN en Espanol
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]&ads_google_ad_manager_nonce=google_ad_manager_nonce
+https://channels.stratusnex.workers.dev/cnne.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-chno="19" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/america-ar.png" tvg-id="America.ar",America TV
@@ -76,14 +76,16 @@ https://cyberuno.cdn.rcs.net.ar/mnp/ip/output.mpd
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="27" tvg-name="Telediario Now" tvg-logo="https://play-lh.googleusercontent.com/T1Lo-sP-9uFGvXhT3jkyrIEUp9X1DR31_Cnl19vWaKyKPycPVtCmhKDDbtT7vWU4Sb3TY2w3o8GShHzEvolVpw" group-title="Abierto",Telediario Now
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13771&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-
+https://channels.stratusnex.workers.dev/telediarionow.m3u8
 #EXTINF:-1 tvg-chno="28" group-title="Abierto" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="28.1" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109331_dark_360w_270h.png" tvg-id="NetTV.ar",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-chno="29" group-title="Abierto" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="CN23.ar",Unife TV
+
+#EXTINF:-1 tvg-chno="29" group-title="Abierto" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="CN23.ar",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+#EXTINF:-1 tvg-chno="29.1" group-title="Abierto" tvg-logo="https://files.catbox.moe/505e9l.png" tvg-id="",Diputados TV 
+https://channels.stratusnex.workers.dev/diputadostv.m3u8
 #EXTINF:-1 tvg-chno="30" group-title="Regionales" tvg-logo="https://yt3.googleusercontent.com/NLkqseNFqh8p_slwbnlXvwSbcXBkQGJTxlfPsVtaH9fBjZpJfC8QPLqd4BX4koXijw0i_LHHCA=s900-c-k-c0x00ffffff-no-rj" tvg-id="NGFederal.ar@SD",NG Federal
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-chno="31" group-title="Abierto" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU_yRDvXCFRNoky9jhR8qg3iLjg5bPqF2mJLuIoPVBbnzUfQ67KPaf_V5lmxckUMTbf9UQ4wSiAo8iJH5zSYy3tAbBq9QdFHlH6EEMbUON4wPBtDQINJXrdbrFf1_bf4f6SEJNod5fpt8gqPyIDotkU69DYZ8kYU7bQCEKC_iS5dOUb9OvyZif_XUxEtE/s695/carastv.png" tvg-id="",CarasTV
@@ -124,6 +126,8 @@ https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-chno="46" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/canal_9_litoral_20216477195086506141968.png" tvg-id="",CANAL 9 PARANA
 https://stream.arcast.live/canal9litoralhd/ngrp:canal9litoralhd_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="46.1" group-title="Regionales" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="",CANAL 11 PARANA
+https://channels.stratusnex.workers.dev/elonce.m3u8
 #EXTINF:-1 tvg-chno="47" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/2banner2180670149719750452.jpg" tvg-id="", Canal AVC
 https://nd106.republicaservers.com/hls/c8186/index.m3u8
 #EXTINF:-1 tvg-chno="48" group-title="Regionales" tvg-logo="https://i.imgur.com/ZcD0rUP.png" tvg-id="", T5 Satelital
@@ -145,7 +149,7 @@ https://ryuplay.cc:8443/live/PEPE008/pepe2021uru/1091368.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="Espn.ar" group-title="Deportes",ESPN
 https://cyberuno.cdn.rcs.net.ar/mnp/yft2eRNwcYbjJwa0YvCvw8a6HoSQwc4g/output.mpd
 #EXTINF:-1 tvg-chno="57" tvg-id="FoxSports.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s141469_dark_360w_270h.png" group-title="Deportes",Fox Sports
-http://rough-dream-f561.stratusnex.workers.dev/57.m3u8
+http://45.188.229.33:8000/play/a1cp/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Espn2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_gray_360w_270h.png" group-title="Deportes",ESPN 2
 https://cyberuno.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
 #EXTINF:-1 tvg-chno="59" tvg-id="Espn3.ar" group-title="Deportes",ESPN 3
@@ -153,23 +157,23 @@ https://cyberuno.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
 #EXTINF:-1 tvg-chno="60" tvg-id="Espn4.ar" group-title="Deportes",ESPN 4
 https://cyberuno.cdn.rcs.net.ar/mnp/bPHSdXgELpUR4JkCe3Qu5mV6zn8qMwjTY/output.mpd
 #EXTINF:-1 tvg-chno="61" tvg-id="FoxSports2.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" group-title="Deportes",Fox Sports 2
-http://rough-dream-f561.stratusnex.workers.dev/60.m3u8
+http://45.188.229.33:8000/play/a1ae/index.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="" tvg-logo="https://i.imgur.com/A8XpNAE.png" group-title="Deportes",DAZN
-http://rough-dream-f561.stratusnex.workers.dev/62.m3u8
+http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="6320d80a66666000086712d7" tvg-name="CLARO SPORTS LATAM" tvg-logo="https://www.clarosports.com/resources/themes/clarosports-v4/assets/images/claroSportsSitio-170x36.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37" http-referrer="https://www.cdnclaroamx.com/" referrer="https://www.cdnclaroamx.com/",CLARO SPORTS LATAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
 #EXTVLCOPT:http-referrer=https://www.cdnclaroamx.com/
 https://d1cfxove8uup6f.cloudfront.net/live/20d97871-da2b-4b9a-9ad5-5c1be98c37e1/live.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="64" tvg-id="DeporTv.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91771_white_360w_270h.png" group-title="Deportes",DeporTV
-http://rough-dream-f561.stratusnex.workers.dev/a1cq/index.m3u8
+http://45.188.229.33:8000/play/a1cq/index.m3u8
 #EXTINF:-1 tvg-chno="65" tvg-id="AmericaSports.ar" group-title="Deportes",AM Sports
 http://rough-dream-f561.stratusnex.workers.dev/a03f.m3u8
 #EXTINF:-1 tvg-chno="325" group-title="Deportes" tvg-logo="https://i.ibb.co/TypqGsR/0427.jpg" tvg-id="", EuroSport 1
-http://rough-dream-f561.stratusnex.workers.dev/Eurosport_1_HD/index.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-chno="326" group-title="Deportes" tvg-logo="https://i.imgur.com/YlGh0Qk.png" tvg-id="PxSports.ar", PX Sports
 http://200.35.176.154:8000/play/a04l
 #EXTINF:-1 tvg-chno="328" group-title="Deportes" tvg-logo="https://i.ibb.co/wFp9KyWf/0428.jpg" tvg-id="",EuroSport 2
-http://rough-dream-f561.stratusnex.workers.dev/Eurosport_2_HD/index.m3u8
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-chno="66" group-title="Deportes" tvg-logo="https://i.ibb.co/hJDy0t87/1409.jpg" tvg-id="TyCSports.ar",TyC Sports
 https://live-04-11-tyc24.vodgc.net/tyc24/index.m3u8|referer=https://play.tycsports.com/
 #EXTINF:-1 tvg-chno="337" group-title="Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tnt-sports-ar.png" tvg-id="",TNT Sport - Chile
@@ -183,9 +187,9 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 #EXTINF:-1 tvg-chno="67" group-title="Religion" tvg-logo="https://i.ibb.co/V06wj40h/0629.jpg" tvg-id="CanalLuz.ar",Canal LUZ
 https://canalluz7.canalluz.org/hls/stream/index.m3u8
 #EXTINF:-1 tvg-chno="68" group-title="Religion" tvg-logo="https://images.open-epg.com/x957.png" tvg-id="Enlace.ar",ENLACE
-http://rough-dream-f561.stratusnex.workers.dev/a11v/index.m3u8
+http://45.188.229.33:8000/play/a11v/index.m3u8
 #EXTINF:-1 tvg-chno="69" group-title="Religion" tvg-logo="https://play-lh.googleusercontent.com/t34CQwcoIEh5RSZkfGYsDscu0q-mGj6vmHNT_ix2HbkmSWWdnbHrDSKVFz9m8x7UiHVIbWR7h5epvz0gPKuALA" tvg-id="",ESNE
-http://rough-dream-f561.stratusnex.workers.dev/a0we/index.m3u8
+http://45.188.229.33:8000/play/a0we/index.m3u8
 #EXTINF:-1 tvg-chno="70" group-title="Religion" tvg-logo="https://images.open-epg.com/16782310.png" tvg-id="Ewtn.ar",EWTN
 http://45.188.229.33:8000/play/a11t/index.m3u8
 #EXTINF:-1 tvg-chno="340" tvg-id="" tvg-logo="https://i.ibb.co/jZfxNNZS/0628.jpg" group-title="Religion" group-logo="",BETHEL TV
@@ -220,17 +224,16 @@ https://cyberuno.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-chno="82" group-title="ATP/INFANTIL" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png" tvg-id="Cartoonito.ar",Cartoonito
 https://cyberuno.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #EXTINF:-1 tvg-chno="83" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/epg/sofa/cinepo/lgartwork/Logo.png" group-title="Entretenimiento",Cinepolis Channel
-https://amg00740-sofa-amg00740c21-lg-mx-9398.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-cinepolislt-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.url=[URL]&ads.ic=[IC]&ads.coppa=[COPPA]&ads.iu=[IU]&ads.idtype=[IDTYPE]&ads.lmt=[LMT]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.gpp=[GPP]&ads.channel_name=[CHANNEL_NAME]&ads.network_name=[NETWORK_NAME]&ads.gpp_sid=[GPP_SID]&ads.prodq=[PRODQ]&ads.inv_partner_domain=[INV_PARTNER_DOMAIN]&ads.schain=[SCHAIN]&ads.fck=[FCK]&ads.dmake=[DEVICE_MAKE]
+https://channels.stratusnex.workers.dev/cinepolis.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Entretenimiento",Filmelier TV
-https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-filmelierspanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
+https://channels.stratusnex.workers.dev/filmeliertv.m3u8
 #EXTINF:-1 tvg-chno="85" audio-track="es" group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/6731e74243c3217313237143743865980226478549.png" tvg-id="DHE.ar",DHE
 http://45.188.229.33:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-chno="86" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Entretenimiento",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
 #EXTINF:-1 tvg-chno="87" tvg-id="61b793ccf571b80007b7a610" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png" group-title="Entretenimiento",Adrenalina Pura TV
-https://amg00740-sofa-amg00740c11-lg-mx-8923.playouts.now.amagi.tv/playlist/amg00740-addigitalinternationalcorp-freezonespanish-lgmx/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-
+https://channels.stratusnex.workers.dev/adrenalinapura.m3u8
 
 #EXTINF:-1 tvg-chno="88" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105609_gray_360w_270h.png" tvg-id="Cinecanal.ar",Cinecanal
 https://cyberuno.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
@@ -251,7 +254,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-chno="96" group-title="Entretenimiento" tvg-logo="" tvg-id="CineAr.ar",Cine.AR
 https://cyberuno.cdn.rcs.net.ar/mnp/cinear/output.mpd
 #EXTINF:-1 tvg-chno="97" tvg-name="CindieTV" tvg-logo="http://accio.its-newid.net/rt_channel/newid_rt040/lg_channels/img/channel_logo/default/channel_logo.png" tvg-language="Spanish" group-title="Entretenimiento",Cindie TV
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=cindietv&channel_id=newid_rt040&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=a3848042-d204d1c2-b14a913a-c06c2f0d&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.deviceModelNumber=[WEBOS_VERSION]
+https://channels.stratusnex.workers.dev/cindietv.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="Discovery.ar" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83572_gray_360w_270h.png" group-title="Entretenimiento",Discovery Channel
 https://cyberuno.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-chno="99" tvg-id="DiscoveryHomeAndHealth.ar" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png" group-title="Entretenimiento",Discovery H&H
@@ -563,6 +566,8 @@ https://ipanel.instream.audio:7001/stream
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 tvg-chno="212" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Rosario
 https://media425.digitar.net:8091/mitre.mp3
+#EXTINF:-1 tvg-chno="21.8" group-title="Radios" tvg-logo="https://images.open-epg.com/x992.png" tvg-id="RadioMitre.ar",Mitre Buenos Aires
+https://channels.stratusnex.workers.dev/mitre.m3u8
 #EXTINF:-1 tvg-chno="430" tvg-name="DSports Radio" tvg-logo="https://raw.githubusercontent.com/JeanMercado2009/tv-logos/refs/heads/main/countries/world-latin-america/dsports-lam.png" group-title="Radios",DSports Radio
 https://24403.live.streamtheworld.com/DSPORTSRADIOAAC.aac
 #EXTINF:-1 tvg-chno="213" group-title="Radios" tvg-logo="" tvg-id="RadioCadena.ar",Cadena3
