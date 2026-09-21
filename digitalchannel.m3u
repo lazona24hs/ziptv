@@ -1,0 +1,32 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/NwtqGHYvwk.xml, https://stratusnex.env.pm/live/epgzip.xml" x-generator="https://ziptv.env.pm"
+# ZIPTV
+# Canales Digitales Abiertos 
+# Grupo: ZipTV
+# Categorias: Streaming/Radios/Entretenimiento/Musica/Noticias
+# Pais: ARG
+#
+#
+####
+#Hello World!
+####
+
+#EXTINF:-1 tvg-chno="16.1" group-title="Digital" tvg-logo="https://i.ibb.co/RT2dTYB/el-trece.png" tvg-id="ElTrece.ar",El Trece
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://channels.stratusnex.workers.dev/eltrece.m3u8
+
+#EXTINF:-1 tvg-chno="22.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
+https://channels.stratusnex.workers.dev/teleferosario.m3u8
+#EXTINF:-1 tvg-chno="23.1" group-title="Digital" tvg-logo="https://images.open-epg.com/x987.png" tvg-id="QuieroMusica.ar",Quiero Musica
+http://channels.stratusnex.workers.dev/qmtv.m3u8
+#EXTINF:-1 tvg-chno="17.1" group-title="Digital" tvg-logo="https://i.imgur.com/49iFAf0.png" tvg-id="", Canal 11 Entre Ríos
+https://channels.stratusnex.workers.dev/elonce.m3u8
+#EXTINF:-1 tvg-chno="31.1" group-title="Digital" tvg-logo="https://files.catbox.moe/f7jbdo.png" tvg-id="", Canal 8 San Juan
+https://channels.stratusnex.workers.dev/canal8sanjuan.m3u8
+#EXTINF:-1 tvg-chno="30.1" group-title="Digital" tvg-logo="https://i.imgur.com/vn6ORHB.png" tvg-id="", Canal 10 Tucuman
+https://channels.stratusnex.workers.dev/canal10tucuman.m3u8
+#EXTINF:-1 tvg-chno="28.1" group-title="Digital" tvg-logo="https://i.imgur.com/FbK4c5a.png" tvg-id="", Alpha Tv
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="29.1" group-title="Digital" tvg-logo="https://i.imgur.com/nTSvdy5.png" tvg-id="",Diputados TV 
+https://channels.stratusnex.workers.dev/diputadostv.m3u8
