@@ -33,6 +33,8 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 https://g1.vxral-hor.transport.edge-access.net/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 #EXTINF:-1 tvg-chno="20.1" group-title="Digital" tvg-logo="https://i.imgur.com/5zn3GRi.png" tvg-id="TVPublica.ar",TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="Digital" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cronica-hd-ar.png" tvg-id="CronicaTV.ar",Cronica
+https://channels.stratusnex.workers.dev/cronica.m3u8
 
 
 #EXTINF:-1 tvg-chno="22.1" group-title="Digital" tvg-logo="https://i.imgur.com/wb3aYBe.png" tvg-id="TelefeRosario.ar",Telefe Rosario
