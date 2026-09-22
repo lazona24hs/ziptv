@@ -66,7 +66,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-chno="15" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
 https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 tvg-chno="16" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tn-todo-noticias-ar.png" tvg-id="TN.ar",TN
-http://181.78.27.128:22000/play/a0na/index.m3u8
+http://45.188.229.33:8000/play/a1a3/index.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cnn-en-espanol-ar.png" tvg-id="CNNenEspañol.ar",CNN en Espanol
 https://channels.stratusnex.workers.dev/cnne.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
