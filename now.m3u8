@@ -851,11 +851,9 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
-https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/sa_hls_full_e_95AEFABF606F67368D62A486/Canal_5_Rosario.m3u8
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioD/output.mpd
 #
 #
 #
