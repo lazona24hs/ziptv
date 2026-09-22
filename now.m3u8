@@ -128,7 +128,7 @@ https://cyberuno.cdn.rcs.net.ar/mnp/rural/output.mpd
 #EXTINF:-1 tvg-chno="38" group-title="Regionales" tvg-logo="https://cdn.m3u.cl/logo/303_Eco_TV.png" tvg-id="",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="39" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18075_dark_360w_270h.png" tvg-id="CanalA.ar",Canal a
-http://181.209.38.115:8000/play/a03j/index.m3u8
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/canala/output.mpd
 #EXTINF:-1 tvg-chno="40" group-title="Abierto" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16879_dark_360w_270h.png" tvg-id="Volver.ar",Volver
 https://ushuaia-vision.cdn.rcs.net.ar/g48EaXkDY2tZP6qmpzKjFQ/volver/output.mpd?referer=https://clicktv.com.ar/
 #EXTINF:-1 tvg-chno="41" group-title="Regionales" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/09/bq29sfg1017235205063962896.png" tvg-id="Canal10MardelPlata.ar",Canal 10 MDP
