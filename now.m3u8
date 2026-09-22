@@ -247,7 +247,7 @@ https://channels.stratusnex.workers.dev/cinepolis.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-name="Filmelier TV" tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/FILMELIER_400x200_DARK_TRANSPARENTE.png" group-title="Entretenimiento",Filmelier TV
 https://channels.stratusnex.workers.dev/filmeliertv.m3u8
 #EXTINF:-1 tvg-chno="85" audio-track="es" group-title="Entretenimiento" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/6731e74243c3217313237143743865980226478549.png" tvg-id="DHE.ar",DHE
-http://45.188.229.33:8000/play/a13k/index.m3u8
+https://tvfuego.cdn.rcs.net.ar/HGxWMSZtXcn2A3b9zrDfUL/dhe/output.mpd
 #EXTINF:-1 tvg-chno="86" tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Entretenimiento",Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=13231&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_latam&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
 
