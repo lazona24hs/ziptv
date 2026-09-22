@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/generate/NwtqGHYvwk.xml, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://ziptv.env.pm"
+#EXTM3U url-tvg="https://www.open-epg.com/generate/NwtqGHYvwk.xml, https://stratusnex.env.pm/live/epgzip.xml, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ar.xml.gz" x-generator="https://stratusnex.com.ar"
 # ZIPTV
 # Canales: 340
 # Grupo: ZipTV
@@ -66,7 +66,9 @@ https://cyberuno.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 #EXTINF:-1 tvg-chno="15" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/c5n-ar.png" tvg-id="C5N.ar",C5N
 https://cyberuno.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 tvg-chno="16" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/tn-todo-noticias-ar.png" tvg-id="TN.ar",TN
-http://45.188.229.33:8000/play/a1a3/index.m3u8
+#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-chno="17" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/cnn-en-espanol-ar.png" tvg-id="CNNenEspañol.ar",CNN en Espanol
 https://channels.stratusnex.workers.dev/cnne.m3u8
 #EXTINF:-1 tvg-chno="18" group-title="Abierto" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/argentina/a24-ar.png" tvg-id="A24.ar",A24
@@ -849,9 +851,7 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-#EXTVLCOPT:http-referrer=https://tn.com.ar/envivo/24hs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bskabgmtyu/out/v1/cbc12a8d68d346078496095c84512bf4/cenc.mpd?CK=4e127b11ba32506c18e84490871cef9d:1e40d02f5f859ddb027def42b7b1cea8
 #
 #
 #
