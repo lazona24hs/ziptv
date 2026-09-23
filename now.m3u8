@@ -487,8 +487,8 @@ https://amg00567-estrellamedia-estrellatv-estrellamedia-5tdh5.amagi.tv/playlist/
 http://45.188.229.33:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-chno="179" group-title="Internacional" tvg-logo="https://i.ibb.co/fdphxKmy/0615.jpg" tvg-id="Telemundo.ar",Telemundo
 http://45.188.229.33:8000/play/a1jl/index.m3u8
-#EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://i.ibb.co/nMDKzP1z/1615.jpg",Telemundo Noticias
-http://rough-dream-f561.stratusnex.workers.dev/telemundo-noticias.m3u8
+#EXTINF:-1 tvg-chno="180" group-title="Internacional" tvg-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/imagen-television-mx.png",Imagen Television
+http://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-chno="181" group-title="Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png" tvg-id="NTN24NuestraTeleNoticias.ar",NTN 24 Horas
 http://190.108.83.69:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-chno="182" group-title="Internacional" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47620_dark_360w_270h.png" tvg-id="TeleSUR.ar",TeleSUR
@@ -851,7 +851,9 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 #Relay
 
 #EXTINF:-1 tvg-chno="0.1" group-title="" tvg-logo="" tvg-id="",Test
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd?CK=06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06acea1d12fd3a8351d1cd2331c69627:ddeb96c94f745c68d590dd462e47aac2
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/dxnynpuvl4/out/v1/2c50fa7374c24990b81abf23e21560e2/cenc.mpd
 #
 #
 #
