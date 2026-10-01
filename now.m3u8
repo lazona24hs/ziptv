@@ -308,9 +308,9 @@ http://181.209.105.115:2525/play/hboplus/index.m3u8
 #EXTINF:-1 tvg-chno="345" tvg-id="HBOPop.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbopop5212999564736983430.png" group-title="Entretenimiento" group-logo="",HBO POP
 http://45.188.229.33:8000/play/a139/index.m3u8
 #EXTINF:-1 tvg-chno="346" tvg-id="HBOMundi.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/65d23081dbc7a0e608ad657f_uc831374249449590725.png" group-title="Entretenimiento" group-logo="",HBO Mundi
-http://181.209.105.115:2525/play/hbomondi/index.m3u8
+http://181.209.38.115:8000/play/a027/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="347" tvg-id="HBOFamily.ar" tvg-logo="https://lz24h.wordpress.com/wp-content/uploads/2026/08/hbofamily2319702778852048101.png" group-title="Entretenimiento" group-logo="",HBO Family
-http://181.209.105.115:2525/play/hbofamily/index.m3u8
+http://181.209.38.115:8000/play/a03d/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="110" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111651_light_360w_270h.png" tvg-id="Cine premium",Cine Premium
 #EXTVLCOPT:http-referrer=https://bantel-cdn1.iptvperu.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
@@ -362,9 +362,9 @@ http://181.209.38.115:8000/play/a03f/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="330" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/6c2jd8hr/0831.jpg" tvg-id="Clover.ar",Clover Channel
 http://45.188.229.33:8000/play/a1ka/index.m3u8
 #EXTINF:-1 tvg-chno="132" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_gray_360w_270h.png" tvg-id="History2.ar",History 2
-http://181.209.105.115:2525/play/history2/index.m3u8
+http://181.209.38.115:8000/play/a05b/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="133" group-title="Entretenimiento" tvg-logo="" tvg-id="History.ar",History Channel
-http://181.209.105.115:2525/play/historysd/index.m3u8
+http://181.209.38.115:8000/play/a02n/index.m3u8?tokens&stratusnex
 #EXTINF:-1 tvg-chno="134" group-title="Entretenimiento" tvg-logo="https://i.ibb.co/gdBSMj7/tlc.png" tvg-id="TLC.cl",TLC
 http://45.188.229.33:8000/play/a18x/index.m3u8
 #EXTINF:-1 tvg-chno="135" group-title="Entretenimiento" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_white_360w_270h.png" tvg-id="Lifetime.ar",Lifetime
